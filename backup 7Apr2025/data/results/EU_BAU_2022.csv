@@ -1,3 +1,0 @@
-Waste Stream,Country,Year,Scenario,Substance main parent,Stock/Flow ID,Value,Unit,Data Quality,Reference,Remark 1,Remark 2,Remark 3
-SLASH,EU27+4,2022,BAU,19 01 11*,SLASH_bottomAshesWasteInc,23948365.585445907,t,3.0,,Estimated from models - Check Reference,,Sowmya Ravisandiran
-SLASH,EU27+4,2022,BAU,19 01 13*,SLASH_flyAshesWasteInc,2565896.312726347,t,3.0,,Estimated from models - Check Reference,,Sowmya Ravisandiran
