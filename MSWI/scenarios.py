@@ -202,7 +202,7 @@ rec_data["INC_T"] = rec_data['MSW_GEN_T']*rec_data['INC%']
 def cir_msw_total(bau_data):
     msw_total_data = pd.DataFrame(columns = ['TIME','MSW_GEN_T'])
     dif_from_bau = 0.1
-    differences_from_2021 = pd.DataFrame({'TIME':np.arange(2021,2051),'Difference':  np.linspace(0, dif_from_bau, 30)}) #15=2050-2021+1
+    differences_from_2021 = pd.DataFrame({'TIME':np.arange(2021,2051),'Difference':  np.linspace(0, dif_from_bau, 30)}) #30=2050-2021+1
     
     msw_total_data['TIME'] = np.arange(2021,2051)
     msw_total_data['MSW_GEN_T']= bau_data["MSW_GEN_T"].loc[bau_data['TIME'].isin(np.arange(2021,2051))].reset_index(drop=True) * (1-differences_from_2021['Difference'])
