@@ -1,0 +1,227 @@
+update
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   ../.DS_Store
+#	deleted:    ../MSWI/.DS_Store
+#	deleted:    ../MSWI/BAU_projections.ipynb
+#	deleted:    ../MSWI/FutuRaM_MSWI/FutuRaM_MSWI
+#	deleted:    ../MSWI/Future_Projections_MSW.ipynb
+#	deleted:    ../MSWI/archive/code_archive_and_functions.py
+#	deleted:    ../MSWI/archive/trial_model.ipynb
+#	deleted:    ../MSWI/archive/trial_model.py
+#	deleted:    ../MSWI/bulk_flow.py
+#	deleted:    ../MSWI/code_archive_and_functions.ipynb
+#	deleted:    ../MSWI/data/.DS_Store
+#	deleted:    ../MSWI/data/Data_Structure_Task4.1_Task4.2_BAU.csv
+#	deleted:    ../MSWI/data/external/.DS_Store
+#	deleted:    ../MSWI/data/external/MUNW_29032024175321072.csv
+#	deleted:    ../MSWI/data/external/OECD_gdp.csv
+#	deleted:    ../MSWI/data/external/Population WB/API_SP.POP.TOTL_DS2_en_csv_v2_85.csv
+#	deleted:    ../MSWI/data/external/Population WB/Metadata_Country_API_SP.POP.TOTL_DS2_en_csv_v2_85.csv
+#	deleted:    ../MSWI/data/external/Population WB/Metadata_Indicator_API_SP.POP.TOTL_DS2_en_csv_v2_85.csv
+#	deleted:    ../MSWI/data/external/Waste_shipment_data_imports_exports.xlsx
+#	deleted:    ../MSWI/data/external/env_wasmun_linear.csv
+#	deleted:    ../MSWI/data/external/env_wasmun_page_linear.csv
+#	deleted:    ../MSWI/data/external/locationNUTS-0.csv
+#	deleted:    ../MSWI/data/external/msw_oecd.csv
+#	deleted:    ../MSWI/data/external/oecd_gdp_cyp_mlt.csv
+#	deleted:    ../MSWI/data/external/oecd_gdp_world.csv
+#	deleted:    ../MSWI/data/external/oecd_pop_cyp_mlt.csv
+#	deleted:    ../MSWI/data/external/oecd_pop_cyp_mlt_his.csv
+#	deleted:    ../MSWI/data/processed/.DS_Store
+#	deleted:    ../MSWI/data/processed/EU_MSW_Cleaned_Data.csv
+#	deleted:    ../MSWI/data/processed/EU_MSW_percap_Cleaned.csv
+#	deleted:    ../MSWI/data/processed/MSW_TCs.csv
+#	deleted:    ../MSWI/data/processed/Missing_data.csv
+#	deleted:    ../MSWI/data/processed/country_codes.csv
+#	deleted:    ../MSWI/data/processed/gdp_cap_v1.csv
+#	deleted:    ../MSWI/data/processed/gdp_percap_projections_cleaned.csv
+#	deleted:    ../MSWI/data/processed/gdp_projections_cleaned.csv
+#	deleted:    ../MSWI/data/processed/parameters.csv
+#	deleted:    ../MSWI/data/processed/population_projections_cleaned.csv
+#	deleted:    ../MSWI/data/results/ALL_Scenarios.csv
+#	deleted:    ../MSWI/data/results/BAU_MSW.csv
+#	deleted:    ../MSWI/data/results/BAU_MSW_updated.csv
+#	deleted:    ../MSWI/data/results/CIR_MSW.csv
+#	deleted:    ../MSWI/data/results/Data_Structure_Task4.1_Task4.2.csv
+#	deleted:    ../MSWI/data/results/Data_Structure_Task4.1_Task4.2_BAU.csv
+#	deleted:    ../MSWI/data/results/Data_Structure_Task4.1_Task4.2_BAU_updated.csv
+#	deleted:    ../MSWI/data/results/Data_Structure_Task4.1_Task4.2_all_scenarios.csv
+#	deleted:    ../MSWI/data/results/EU_BAU_2022.csv
+#	deleted:    ../MSWI/data/results/REC_MSW.csv
+#	deleted:    ../MSWI/data_loading.ipynb
+#	deleted:    ../MSWI/gdp_wb_model.ipynb
+#	deleted:    ../MSWI/gdp_wb_model.py
+#	deleted:    ../MSWI/msw_bau_model/.DS_Store
+#	deleted:    ../MSWI/msw_bau_model/fit_msw_projections.npy
+#	deleted:    ../MSWI/obs_scenario.ipynb
+#	deleted:    ../MSWI/plot.ipynb
+#	deleted:    ../MSWI/plot.py
+#	deleted:    ../MSWI/plot_final.ipynb
+#	deleted:    ../MSWI/plot_final.py
+#	deleted:    ../MSWI/plots/.DS_Store
+#	deleted:    ../MSWI/plots/Ash_EU.png
+#	deleted:    ../MSWI/plots/EU_MSW_GEN_INC.png
+#	deleted:    ../MSWI/plots/Incineration_projections/.DS_Store
+#	deleted:    ../MSWI/plots/Incineration_projections/EU_CIR.png
+#	deleted:    ../MSWI/plots/Incineration_projections/EU_REC.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_case1.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_case2.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_case3.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_case4.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_case5.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_case6.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_option1.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_scenario.png
+#	deleted:    ../MSWI/plots/Incineration_projections/REC_scenario_new.png
+#	deleted:    ../MSWI/plots/Incineration_projections/Scurve_minimization_con_4_allyears.png
+#	deleted:    ../MSWI/plots/Incineration_projections/Scurve_minimization_con_4_historicyears.png
+#	deleted:    ../MSWI/plots/Incineration_projections/constrained_log_regression/method1_95-21_deg1.png
+#	deleted:    ../MSWI/plots/Incineration_projections/constrained_log_regression/method2_95-50_deg1.png
+#	deleted:    ../MSWI/plots/Incineration_projections/constrained_log_regression/method3_95-21_deg1_constrain_fut.png
+#	deleted:    ../MSWI/plots/Incineration_projections/constrained_log_regression/method4_95-21_deg2.png
+#	deleted:    ../MSWI/plots/Incineration_projections/constrained_log_regression/method5_95-50_deg2.png
+#	deleted:    ../MSWI/plots/Incineration_projections/constrained_log_regression/method6_95-21_deg2_constrain_fut.png
+#	deleted:    ../MSWI/plots/Incineration_projections/constrained_log_regression/method7_95-21_exp_constrain_fut.png
+#	deleted:    ../MSWI/plots/Incineration_projections/curve_fit/Scurve_curve_fit.png
+#	deleted:    ../MSWI/plots/Incineration_projections/curve_fit/Scurve_curve_fit_Lbound1.png
+#	deleted:    ../MSWI/plots/Incineration_projections/curve_fit/Scurve_curve_fit_boundsRparams.png
+#	deleted:    ../MSWI/plots/Incineration_projections/minimization old/Scurve_constraints_DRlt1.png
+#	deleted:    ../MSWI/plots/Incineration_projections/minimization old/Scurve_minimization_constraints.png
+#	deleted:    ../MSWI/plots/ash_country.png
+#	deleted:    ../MSWI/plots/ash_eu_bau.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/AT.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/BE.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/BG.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/CH.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/CY.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/CZ.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/DE.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/DK.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/EE.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/EL.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/ES.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/EU27_2020.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/FI.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/FR.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/HR.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/HU.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/IE.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/IS.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/IT.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/LT.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/LU.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/LV.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/MT.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/NL.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/NO.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/PL.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/PT.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/RO.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/SE.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/SI.png
+#	deleted:    ../MSWI/plots/energy_recovery_plots/SK.png
+#	deleted:    ../MSWI/plots/msw_bau_model/Log_fit.png
+#	deleted:    ../MSWI/plots/msw_bau_model/model_comparison.png
+#	deleted:    ../MSWI/plots/msw_bau_model/projections_2017to2021.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/AT.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/BE.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/BG.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/CH.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/CY.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/CZ.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/DE.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/DK.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/EE.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/EL.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/ES.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/EU27_2020.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/FI.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/FR.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/HR.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/HU.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/IE.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/IS.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/IT.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/LT.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/LU.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/LV.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/MT.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/NL.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/NO.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/PL.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/PT.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/RO.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/SE.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/SI.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/SK.png
+#	deleted:    ../MSWI/plots/msw_gen_plots/Trends of MSW Generation.png
+#	deleted:    ../MSWI/plots/msw_gen_projections/.DS_Store
+#	deleted:    ../MSWI/plots/msw_gen_projections/BAU_MSW_projections_base_2019.png
+#	deleted:    ../MSWI/plots/msw_gen_projections/BAU_MSW_projections_base_2021.png
+#	deleted:    ../MSWI/plots/msw_gen_projections/CIR_MSW_GEN_EU.png
+#	deleted:    ../MSWI/plots/msw_gen_projections/MSW_GEN_BAU_EU.png
+#	deleted:    ../MSWI/plots/msw_gen_projections/MSW_GEN_EU.png
+#	deleted:    ../MSWI/plots/treatment_plots/AT.png
+#	deleted:    ../MSWI/plots/treatment_plots/BE.png
+#	deleted:    ../MSWI/plots/treatment_plots/BG.png
+#	deleted:    ../MSWI/plots/treatment_plots/CH.png
+#	deleted:    ../MSWI/plots/treatment_plots/CY.png
+#	deleted:    ../MSWI/plots/treatment_plots/CZ.png
+#	deleted:    ../MSWI/plots/treatment_plots/DE.png
+#	deleted:    ../MSWI/plots/treatment_plots/DK.png
+#	deleted:    ../MSWI/plots/treatment_plots/EE.png
+#	deleted:    ../MSWI/plots/treatment_plots/EL.png
+#	deleted:    ../MSWI/plots/treatment_plots/ES.png
+#	deleted:    ../MSWI/plots/treatment_plots/EU27_2020.png
+#	deleted:    ../MSWI/plots/treatment_plots/FI.png
+#	deleted:    ../MSWI/plots/treatment_plots/FR.png
+#	deleted:    ../MSWI/plots/treatment_plots/HR.png
+#	deleted:    ../MSWI/plots/treatment_plots/HU.png
+#	deleted:    ../MSWI/plots/treatment_plots/IE.png
+#	deleted:    ../MSWI/plots/treatment_plots/IS.png
+#	deleted:    ../MSWI/plots/treatment_plots/IT.png
+#	deleted:    ../MSWI/plots/treatment_plots/LT.png
+#	deleted:    ../MSWI/plots/treatment_plots/LU.png
+#	deleted:    ../MSWI/plots/treatment_plots/LV.png
+#	deleted:    ../MSWI/plots/treatment_plots/MT.png
+#	deleted:    ../MSWI/plots/treatment_plots/NL.png
+#	deleted:    ../MSWI/plots/treatment_plots/NO.png
+#	deleted:    ../MSWI/plots/treatment_plots/PL.png
+#	deleted:    ../MSWI/plots/treatment_plots/PT.png
+#	deleted:    ../MSWI/plots/treatment_plots/RO.png
+#	deleted:    ../MSWI/plots/treatment_plots/SE.png
+#	deleted:    ../MSWI/plots/treatment_plots/SI.png
+#	deleted:    ../MSWI/plots/treatment_plots/SK.png
+#	deleted:    ../MSWI/plots/treatment_plots/Trends of MSW treatmet methods.png
+#	deleted:    ../MSWI/projections.ipynb
+#	deleted:    ../MSWI/projections.py
+#	deleted:    ../MSWI/scenarios.ipynb
+#	deleted:    ../MSWI/scenarios.py
+#
+# Untracked files:
+#	.DS_Store
+#	BAU_projections.ipynb
+#	Future_Projections_MSW.ipynb
+#	archive/
+#	bulk_flow.py
+#	code_archive_and_functions.ipynb
+#	data/
+#	gdp_wb_model.ipynb
+#	gdp_wb_model.py
+#	msw_bau_model/
+#	obs_scenario.ipynb
+#	plot.ipynb
+#	plot.py
+#	plot_final.ipynb
+#	plot_final.py
+#	plots/
+#	projections.ipynb
+#	projections.py
+#	scenarios.ipynb
+#	scenarios.py
+#	../backup 7Apr2025/
+#
