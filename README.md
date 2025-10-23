@@ -6,3 +6,6 @@ bulk_flow.py - Estimation of bulk ash quantities
 gdp_wb_model.py - MSW projections according to World Bank GDP model
 
 projections.py - BAU projections
+
+
+DOI: 10.5281/zenodo.17423053
