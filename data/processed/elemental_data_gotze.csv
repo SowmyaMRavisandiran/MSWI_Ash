@@ -1,0 +1,989 @@
+Material type,Waste flow,Physiochemical property,Unit,min,max,sector
+food waste,residual,Ag,mg/kgTS,81.1325,82.3537,MSW_URB_FOOD
+food waste,residual,Al,mg/kgTS,2386.4,3035.7,MSW_URB_FOOD
+food waste,residual,As,mg/kgTS,2.6002,2.6393,MSW_URB_FOOD
+food waste,residual,Au,mg/kgTS,0.0495,0.0606,MSW_URB_FOOD
+food waste,residual,Ba,mg/kgTS,11.084,34.529,MSW_URB_FOOD
+food waste,residual,Be,mg/kgTS,1.9095,1.93827,MSW_URB_FOOD
+food waste,residual,Br,%TS,0.001,0.001,MSW_URB_FOOD
+food waste,residual,C,%TS,43.36,46.01,MSW_URB_FOOD
+food waste,residual,Ca,mg/kgTS,10953.4,83752.7,MSW_URB_FOOD
+food waste,residual,Cd,mg/kgTS,0.05903,0.0864,MSW_URB_FOOD
+food waste,residual,Ce,mg/kgTS,0.2179,1.2616,MSW_URB_FOOD
+food waste,residual,Cl,%TS,0.641233,0.9257,MSW_URB_FOOD
+food waste,residual,Co,mg/kgTS,0.779,5.35427,MSW_URB_FOOD
+food waste,residual,Cr,mg/kgTS,4.5209,14.0601,MSW_URB_FOOD
+food waste,residual,Cs,mg/kgTS,0.5582,0.5666,MSW_URB_FOOD
+food waste,residual,Cu,mg/kgTS,5.1023,16.7673,MSW_URB_FOOD
+food waste,residual,Dy,mg/kgTS,0.0102,0.059933,MSW_URB_FOOD
+food waste,residual,Er,mg/kgTS,0.020433,0.032433,MSW_URB_FOOD
+food waste,residual,Eu,mg/kgTS,0.009167,0.018033,MSW_URB_FOOD
+food waste,residual,F,%TS,0.001367,0.0037,MSW_URB_FOOD
+food waste,residual,Fe,mg/kgTS,321.98,1282.34,MSW_URB_FOOD
+food waste,residual,Ga,mg/kgTS,0.64377,1.18427,MSW_URB_FOOD
+food waste,residual,Gd,mg/kgTS,0.0136,0.08083,MSW_URB_FOOD
+food waste,residual,Ge,mg/kgTS,0.159,0.1614,MSW_URB_FOOD
+food waste,residual,H,%TS,7.05067,7.54433,MSW_URB_FOOD
+food waste,residual,HHV,MJ/kgTS,18.657,20.519,MSW_URB_FOOD
+food waste,residual,Hf,mg/kgTS,0.02123,0.09797,MSW_URB_FOOD
+food waste,residual,Hg,μg/kgTS,5.9,9.233,MSW_URB_FOOD
+food waste,residual,Ho,mg/kgTS,0.004367,0.0052,MSW_URB_FOOD
+food waste,residual,In,mg/kgTS,0.0095,0.009667,MSW_URB_FOOD
+food waste,residual,Ir,mg/kgTS,0.0998,0.1013,MSW_URB_FOOD
+food waste,residual,K,mg/kgTS,4729.0,10956.8,MSW_URB_FOOD
+food waste,residual,LHV,MJ/kgTS,17.1080383077,18.8615861423,MSW_URB_FOOD
+food waste,residual,La,mg/kgTS,0.12733,0.6209,MSW_URB_FOOD
+food waste,residual,Li,mg/kgTS,1.68523,1.94293,MSW_URB_FOOD
+food waste,residual,Lu,mg/kgTS,0.006467,0.006567,MSW_URB_FOOD
+food waste,residual,Mg,mg/kgTS,1117.98,1232.4,MSW_URB_FOOD
+food waste,residual,Mn,mg/kgTS,26.269,51.324,MSW_URB_FOOD
+food waste,residual,Mo,mg/kgTS,0.8906,1.1779,MSW_URB_FOOD
+food waste,residual,N,%TS,2.00667,4.36667,MSW_URB_FOOD
+food waste,residual,Na,mg/kgTS,4886.3,8717.7,MSW_URB_FOOD
+food waste,residual,Nb,mg/kgTS,0.0935,0.5165,MSW_URB_FOOD
+food waste,residual,Nd,mg/kgTS,0.1296,0.5132,MSW_URB_FOOD
+food waste,residual,Ni,mg/kgTS,10.9866,11.5325,MSW_URB_FOOD
+food waste,residual,O,%TS,27.3163,38.033,MSW_URB_FOOD
+food waste,residual,P,mg/kgTS,2208.7,11782.2,MSW_URB_FOOD
+food waste,residual,Pb,mg/kgTS,0.8223,1.9961,MSW_URB_FOOD
+food waste,residual,Pd,mg/kgTS,0.062467,0.0634,MSW_URB_FOOD
+food waste,residual,Pr,mg/kgTS,0.02653,0.1369,MSW_URB_FOOD
+food waste,residual,Pt,mg/kgTS,0.059867,0.060767,MSW_URB_FOOD
+food waste,residual,Rb,mg/kgTS,4.501,7.4754,MSW_URB_FOOD
+food waste,residual,Re,mg/kgTS,0.066833,0.0678,MSW_URB_FOOD
+food waste,residual,Rh,mg/kgTS,0.0016,0.001667,MSW_URB_FOOD
+food waste,residual,Ru,mg/kgTS,0.030933,0.0314,MSW_URB_FOOD
+food waste,residual,S,mg/kgTS,5323.1,6909.97,MSW_URB_FOOD
+food waste,residual,Sb,mg/kgTS,0.14127,0.2184,MSW_URB_FOOD
+food waste,residual,Sc,mg/kgTS,0.1196,0.13897,MSW_URB_FOOD
+food waste,residual,Se,mg/kgTS,47.3314,48.0438,MSW_URB_FOOD
+food waste,residual,Si,mg/kgTS,4956.0,16874.0,MSW_URB_FOOD
+food waste,residual,Sm,mg/kgTS,0.0305,0.07653,MSW_URB_FOOD
+food waste,residual,Sn,mg/kgTS,1.99397,6.23983,MSW_URB_FOOD
+food waste,residual,Sr,mg/kgTS,35.128,150.167,MSW_URB_FOOD
+food waste,residual,Ta,mg/kgTS,0.076467,0.156133,MSW_URB_FOOD
+food waste,residual,Tb,mg/kgTS,0.0037,0.017233,MSW_URB_FOOD
+food waste,residual,Th,mg/kgTS,0.01973,0.11323,MSW_URB_FOOD
+food waste,residual,Ti,mg/kgTS,36.398,179.154,MSW_URB_FOOD
+food waste,residual,Tl,mg/kgTS,0.3651,0.370567,MSW_URB_FOOD
+food waste,residual,Tm,mg/kgTS,0.009267,0.009367,MSW_URB_FOOD
+food waste,residual,U,mg/kgTS,0.0134,0.073,MSW_URB_FOOD
+food waste,residual,V,mg/kgTS,0.6632,1.2947,MSW_URB_FOOD
+food waste,residual,VS,%TS,75.9333,89.0667,MSW_URB_FOOD
+food waste,residual,W,mg/kgTS,0.6181,2.81477,MSW_URB_FOOD
+food waste,residual,Yb,mg/kgTS,0.009167,0.031,MSW_URB_FOOD
+food waste,residual,Zn,mg/kgTS,39.304,57.32,MSW_URB_FOOD
+food waste,residual,Zr,mg/kgTS,0.7842,3.186,MSW_URB_FOOD
+food waste,residual,ash,%TS,10.92,24.04,MSW_URB_FOOD
+gardening waste,residual,Ag,mg/kgTS,1.1611,42.8973,
+gardening waste,residual,Al,mg/kgTS,1312.9,16579.2,
+gardening waste,residual,As,mg/kgTS,2.1687,14.3164,
+gardening waste,residual,Au,mg/kgTS,0.15662,1.00413,
+gardening waste,residual,Ba,mg/kgTS,37.759,283.779,
+gardening waste,residual,Be,mg/kgTS,1.3381,1.84287,
+gardening waste,residual,Br,%TS,0.001,0.002433,
+gardening waste,residual,C,%TS,27.8433,45.4167,
+gardening waste,residual,Ca,mg/kgTS,9890.5,73042.5,
+gardening waste,residual,Cd,mg/kgTS,0.15663,1.67437,
+gardening waste,residual,Ce,mg/kgTS,1.8228,14.3323,
+gardening waste,residual,Cl,%TS,0.076533,0.479267,
+gardening waste,residual,Co,mg/kgTS,0.61803,2.46205,
+gardening waste,residual,Cr,mg/kgTS,5.8394,38.8613,
+gardening waste,residual,Cs,mg/kgTS,0.6726,11.3373,
+gardening waste,residual,Cu,mg/kgTS,20.5269,80.8818,
+gardening waste,residual,Dy,mg/kgTS,0.107267,0.8616,
+gardening waste,residual,Er,mg/kgTS,0.066967,0.524167,
+gardening waste,residual,Eu,mg/kgTS,0.042833,0.223367,
+gardening waste,residual,F,%TS,0.001333,0.0092,
+gardening waste,residual,Fe,mg/kgTS,1142.6,7292.97,
+gardening waste,residual,Ga,mg/kgTS,1.3238,8.51603,
+gardening waste,residual,Gd,mg/kgTS,0.1308,1.63517,
+gardening waste,residual,Ge,mg/kgTS,0.1663,0.510167,
+gardening waste,residual,H,%TS,4.56933,6.168,
+gardening waste,residual,HHV,MJ/kgTS,11.3347,18.371,
+gardening waste,residual,Hf,mg/kgTS,0.2751,1.04748,
+gardening waste,residual,Hg,μg/kgTS,6.6,48.833,
+gardening waste,residual,Ho,mg/kgTS,0.030667,0.160467,
+gardening waste,residual,In,mg/kgTS,0.00895,0.041233,
+gardening waste,residual,Ir,mg/kgTS,0.194967,0.566333,
+gardening waste,residual,K,mg/kgTS,3300.6,16132.6,
+gardening waste,residual,LHV,MJ/kgTS,10.3308638923,17.015952079999998,
+gardening waste,residual,La,mg/kgTS,0.8806,7.8019,
+gardening waste,residual,Li,mg/kgTS,4.99435,7.95343,
+gardening waste,residual,Lu,mg/kgTS,0.017833,0.121567,
+gardening waste,residual,Mg,mg/kgTS,1026.05,6226.44,
+gardening waste,residual,Mn,mg/kgTS,123.668,395.222,
+gardening waste,residual,Mo,mg/kgTS,1.0079,10.6234,
+gardening waste,residual,N,%TS,1.24333,2.92333,
+gardening waste,residual,Na,mg/kgTS,1798.5,14120.1,
+gardening waste,residual,Nb,mg/kgTS,0.47563,3.6044,
+gardening waste,residual,Nd,mg/kgTS,0.6502,11.3245,
+gardening waste,residual,Ni,mg/kgTS,3.9637,12.0806,
+gardening waste,residual,O,%TS,28.8548,40.8888,
+gardening waste,residual,P,mg/kgTS,991.0,38988.3,
+gardening waste,residual,Pb,mg/kgTS,1.9703,12.8062,
+gardening waste,residual,Pd,mg/kgTS,0.154517,0.9618,
+gardening waste,residual,Pr,mg/kgTS,0.2015,3.3781,
+gardening waste,residual,Pt,mg/kgTS,0.021267,0.0607,
+gardening waste,residual,Rb,mg/kgTS,9.5226,32.9758,
+gardening waste,residual,Re,mg/kgTS,0.0338,0.052017,
+gardening waste,residual,Rh,mg/kgTS,0.006333,0.009633,
+gardening waste,residual,Ru,mg/kgTS,0.0077,0.01995,
+gardening waste,residual,S,mg/kgTS,1177.33,6070.9,
+gardening waste,residual,Sb,mg/kgTS,0.2928,3.9507,
+gardening waste,residual,Sc,mg/kgTS,0.2681,1.72237,
+gardening waste,residual,Se,mg/kgTS,57.5829,67.6746,
+gardening waste,residual,Si,mg/kgTS,17822.0,93299.0,
+gardening waste,residual,Sm,mg/kgTS,0.12567,1.03697,
+gardening waste,residual,Sn,mg/kgTS,2.192,5.08203,
+gardening waste,residual,Sr,mg/kgTS,37.317,102.494,
+gardening waste,residual,Ta,mg/kgTS,0.188467,0.656983,
+gardening waste,residual,Tb,mg/kgTS,0.017833,0.1605,
+gardening waste,residual,Th,mg/kgTS,0.46893,5.2471,
+gardening waste,residual,Ti,mg/kgTS,109.822,640.635,
+gardening waste,residual,Tl,mg/kgTS,0.45145,0.9499,
+gardening waste,residual,Tm,mg/kgTS,0.0159,0.092167,
+gardening waste,residual,U,mg/kgTS,0.11637,1.271,
+gardening waste,residual,V,mg/kgTS,1.8786,13.733,
+gardening waste,residual,VS,%TS,56.8667,91.0667,
+gardening waste,residual,W,mg/kgTS,0.78023,9.33962,
+gardening waste,residual,Yb,mg/kgTS,0.0643,0.685033,
+gardening waste,residual,Zn,mg/kgTS,67.78,939.905,
+gardening waste,residual,Zr,mg/kgTS,5.4269,40.3291,
+gardening waste,residual,ash,%TS,8.9233,43.1267,
+glass,residual,Ag,mg/kgTS,1.1575,1.2845,MSW_URB_GLA
+glass,residual,Al,mg/kgTS,6576.0,10551.0,MSW_URB_GLA
+glass,residual,As,mg/kgTS,2.41,13.56,MSW_URB_GLA
+glass,residual,Au,mg/kgTS,0.221,0.233667,MSW_URB_GLA
+glass,residual,Ba,mg/kgTS,385.46,5529.2,MSW_URB_GLA
+glass,residual,Be,mg/kgTS,1.33397,1.41047,MSW_URB_GLA
+glass,residual,Br,%TS,0.001,0.001,MSW_URB_GLA
+glass,residual,C,%TS,0.2533,1.6033,MSW_URB_GLA
+glass,residual,Ca,mg/kgTS,64090.0,78877.0,MSW_URB_GLA
+glass,residual,Cd,mg/kgTS,0.15807,1.3274,MSW_URB_GLA
+glass,residual,Ce,mg/kgTS,15.84,229.599,MSW_URB_GLA
+glass,residual,Cl,%TS,0.00517,0.03393,MSW_URB_GLA
+glass,residual,Co,mg/kgTS,1.229,7.893,MSW_URB_GLA
+glass,residual,Cr,mg/kgTS,3.85,970.15,MSW_URB_GLA
+glass,residual,Cs,mg/kgTS,1.0653,7.3001,MSW_URB_GLA
+glass,residual,Cu,mg/kgTS,4.233,24.614,MSW_URB_GLA
+glass,residual,Dy,mg/kgTS,0.37883,0.62293,MSW_URB_GLA
+glass,residual,Er,mg/kgTS,0.9604,23.5881,MSW_URB_GLA
+glass,residual,Eu,mg/kgTS,0.20267,0.7053,MSW_URB_GLA
+glass,residual,F,%TS,0.001,0.027267,MSW_URB_GLA
+glass,residual,Fe,mg/kgTS,297.4,2933.9,MSW_URB_GLA
+glass,residual,Ga,mg/kgTS,7.7759,88.4225,MSW_URB_GLA
+glass,residual,Gd,mg/kgTS,0.55413,1.37263,MSW_URB_GLA
+glass,residual,Ge,mg/kgTS,0.55443,0.67167,MSW_URB_GLA
+glass,residual,H,%TS,0.11445,0.22333,MSW_URB_GLA
+glass,residual,HHV,MJ/kgTS,0.2,0.746733,MSW_URB_GLA
+glass,residual,Hf,mg/kgTS,2.67577,3.9397,MSW_URB_GLA
+glass,residual,Hg,μg/kgTS,2.4,2.4,MSW_URB_GLA
+glass,residual,Ho,mg/kgTS,0.082533,0.143433,MSW_URB_GLA
+glass,residual,In,mg/kgTS,0.007567,0.022267,MSW_URB_GLA
+glass,residual,Ir,mg/kgTS,0.28097,0.29707,MSW_URB_GLA
+glass,residual,K,mg/kgTS,4294.3,6058.6,MSW_URB_GLA
+glass,residual,LHV,MJ/kgTS,0.174713681,0.7095328922999999,MSW_URB_GLA
+glass,residual,La,mg/kgTS,3.4538,19.1528,MSW_URB_GLA
+glass,residual,Li,mg/kgTS,29.111,247.769,MSW_URB_GLA
+glass,residual,Lu,mg/kgTS,0.036267,0.087467,MSW_URB_GLA
+glass,residual,Mg,mg/kgTS,3506.0,12449.9,MSW_URB_GLA
+glass,residual,Mn,mg/kgTS,57.09,321.02,MSW_URB_GLA
+glass,residual,Mo,mg/kgTS,1.41843,8.07063,MSW_URB_GLA
+glass,residual,N,%TS,0.039808,0.07,MSW_URB_GLA
+glass,residual,Na,mg/kgTS,83307.0,98601.0,MSW_URB_GLA
+glass,residual,Nb,mg/kgTS,0.8068,6.6006,MSW_URB_GLA
+glass,residual,Nd,mg/kgTS,2.6829,10.2781,MSW_URB_GLA
+glass,residual,Ni,mg/kgTS,2.4631,11.4175,MSW_URB_GLA
+glass,residual,O,%TS,0.35167,1.394,MSW_URB_GLA
+glass,residual,P,mg/kgTS,109.8,174.7,MSW_URB_GLA
+glass,residual,Pb,mg/kgTS,26.15,163.84,MSW_URB_GLA
+glass,residual,Pd,mg/kgTS,0.239767,0.2535,MSW_URB_GLA
+glass,residual,Pr,mg/kgTS,0.68777,3.5359,MSW_URB_GLA
+glass,residual,Pt,mg/kgTS,0.0187,0.019833,MSW_URB_GLA
+glass,residual,Rb,mg/kgTS,17.555,36.187,MSW_URB_GLA
+glass,residual,Re,mg/kgTS,0.0337,0.035633,MSW_URB_GLA
+glass,residual,Rh,mg/kgTS,0.007567,0.013067,MSW_URB_GLA
+glass,residual,Ru,mg/kgTS,0.0075,0.0079,MSW_URB_GLA
+glass,residual,S,mg/kgTS,234.17,1138.93,MSW_URB_GLA
+glass,residual,Sb,mg/kgTS,5.4705,45.4251,MSW_URB_GLA
+glass,residual,Sc,mg/kgTS,1.0547,1.6513,MSW_URB_GLA
+glass,residual,Se,mg/kgTS,64.6732,68.3819,MSW_URB_GLA
+glass,residual,Si,mg/kgTS,241918.0,344649.0,MSW_URB_GLA
+glass,residual,Sm,mg/kgTS,0.41853,0.9533,MSW_URB_GLA
+glass,residual,Sn,mg/kgTS,2.1975,32.8548,MSW_URB_GLA
+glass,residual,Sr,mg/kgTS,68.149,204.856,MSW_URB_GLA
+glass,residual,Ta,mg/kgTS,0.22243,0.7727,MSW_URB_GLA
+glass,residual,Tb,mg/kgTS,0.0796,0.125467,MSW_URB_GLA
+glass,residual,Th,mg/kgTS,0.8479,1.7887,MSW_URB_GLA
+glass,residual,Ti,mg/kgTS,151.25,505.34,MSW_URB_GLA
+glass,residual,Tl,mg/kgTS,0.5132,0.54263,MSW_URB_GLA
+glass,residual,Tm,mg/kgTS,0.029333,0.0826,MSW_URB_GLA
+glass,residual,U,mg/kgTS,0.5229,0.82823,MSW_URB_GLA
+glass,residual,V,mg/kgTS,1.596,13.125,MSW_URB_GLA
+glass,residual,VS,%TS,0.22667,4.77667,MSW_URB_GLA
+glass,residual,W,mg/kgTS,0.3931,1.0078,MSW_URB_GLA
+glass,residual,Yb,mg/kgTS,0.26143,0.40433,MSW_URB_GLA
+glass,residual,Zn,mg/kgTS,30.86,445.04,MSW_URB_GLA
+glass,residual,Zr,mg/kgTS,100.435,149.735,MSW_URB_GLA
+glass,residual,ash,%TS,95.2233,99.7733,MSW_URB_GLA
+glass,source-segegated,Ag,mg/kgTS,1.1524,85.4653,MSW_URB_GLA
+glass,source-segegated,Al,mg/kgTS,6895.0,9199.0,MSW_URB_GLA
+glass,source-segegated,As,mg/kgTS,10.14,1534.95,MSW_URB_GLA
+glass,source-segegated,Au,mg/kgTS,0.153667,0.223967,MSW_URB_GLA
+glass,source-segegated,Ba,mg/kgTS,503.26,1224.77,MSW_URB_GLA
+glass,source-segegated,Be,mg/kgTS,1.32807,2.69373,MSW_URB_GLA
+glass,source-segegated,Br,%TS,0.001,0.001,MSW_URB_GLA
+glass,source-segegated,C,%TS,0.138,0.63,MSW_URB_GLA
+glass,source-segegated,Ca,mg/kgTS,64118.0,78934.0,MSW_URB_GLA
+glass,source-segegated,Cd,mg/kgTS,0.13827,1.0574,MSW_URB_GLA
+glass,source-segegated,Ce,mg/kgTS,19.403,96.808,MSW_URB_GLA
+glass,source-segegated,Cl,%TS,0.00273,0.00697,MSW_URB_GLA
+glass,source-segegated,Co,mg/kgTS,1.366,8.833,MSW_URB_GLA
+glass,source-segegated,Cr,mg/kgTS,12.29,1187.35,MSW_URB_GLA
+glass,source-segegated,Cs,mg/kgTS,1.2366,25.8169,MSW_URB_GLA
+glass,source-segegated,Cu,mg/kgTS,4.812,266.263,MSW_URB_GLA
+glass,source-segegated,Dy,mg/kgTS,0.309,0.5728,MSW_URB_GLA
+glass,source-segegated,Er,mg/kgTS,1.4751,9.9331,MSW_URB_GLA
+glass,source-segegated,Eu,mg/kgTS,0.16307,0.20023,MSW_URB_GLA
+glass,source-segegated,F,%TS,0.001,0.011733,MSW_URB_GLA
+glass,source-segegated,Fe,mg/kgTS,477.8,2916.3,MSW_URB_GLA
+glass,source-segegated,Ga,mg/kgTS,10.1325,24.802,MSW_URB_GLA
+glass,source-segegated,Gd,mg/kgTS,0.4597,0.83,MSW_URB_GLA
+glass,source-segegated,Ge,mg/kgTS,0.57527,1.63337,MSW_URB_GLA
+glass,source-segegated,H,%TS,0.11447,0.11501,MSW_URB_GLA
+glass,source-segegated,HHV,MJ/kgTS,0.2,0.2,MSW_URB_GLA
+glass,source-segegated,Hf,mg/kgTS,2.7188,3.23583,MSW_URB_GLA
+glass,source-segegated,Hg,μg/kgTS,2.4,2.4,MSW_URB_GLA
+glass,source-segegated,Ho,mg/kgTS,0.070133,0.110467,MSW_URB_GLA
+glass,source-segegated,In,mg/kgTS,0.014233,0.084267,MSW_URB_GLA
+glass,source-segegated,Ir,mg/kgTS,0.2797,1.63413,MSW_URB_GLA
+glass,source-segegated,K,mg/kgTS,3605.8,6676.4,MSW_URB_GLA
+glass,source-segegated,LHV,MJ/kgTS,0.17473345310000002,0.17485208570000002,MSW_URB_GLA
+glass,source-segegated,La,mg/kgTS,3.9014,10.9787,MSW_URB_GLA
+glass,source-segegated,Li,mg/kgTS,11.709,27.55,MSW_URB_GLA
+glass,source-segegated,Lu,mg/kgTS,0.035667,0.047367,MSW_URB_GLA
+glass,source-segegated,Mg,mg/kgTS,8486.9,11372.4,MSW_URB_GLA
+glass,source-segegated,Mn,mg/kgTS,49.2,150.3,MSW_URB_GLA
+glass,source-segegated,Mo,mg/kgTS,0.75913,1.7827,MSW_URB_GLA
+glass,source-segegated,N,%TS,0.039815,0.040004,MSW_URB_GLA
+glass,source-segegated,Na,mg/kgTS,81371.0,107693.0,MSW_URB_GLA
+glass,source-segegated,Nb,mg/kgTS,0.9497,4.3735,MSW_URB_GLA
+glass,source-segegated,Nd,mg/kgTS,2.5391,7.2495,MSW_URB_GLA
+glass,source-segegated,Ni,mg/kgTS,1.9924,12.054,MSW_URB_GLA
+glass,source-segegated,O,%TS,0.2104,0.285,MSW_URB_GLA
+glass,source-segegated,P,mg/kgTS,79.1,184.6,MSW_URB_GLA
+glass,source-segegated,Pb,mg/kgTS,27.6,151.79,MSW_URB_GLA
+glass,source-segegated,Pd,mg/kgTS,0.098433,0.242967,MSW_URB_GLA
+glass,source-segegated,Pr,mg/kgTS,0.67053,2.21043,MSW_URB_GLA
+glass,source-segegated,Pt,mg/kgTS,0.018667,0.061033,MSW_URB_GLA
+glass,source-segegated,Rb,mg/kgTS,13.771,35.523,MSW_URB_GLA
+glass,source-segegated,Re,mg/kgTS,0.033567,0.106167,MSW_URB_GLA
+glass,source-segegated,Rh,mg/kgTS,0.0021,0.0126,MSW_URB_GLA
+glass,source-segegated,Ru,mg/kgTS,0.007467,0.031533,MSW_URB_GLA
+glass,source-segegated,S,mg/kgTS,213.23,2340.03,MSW_URB_GLA
+glass,source-segegated,Sb,mg/kgTS,15.0027,26.9356,MSW_URB_GLA
+glass,source-segegated,Sc,mg/kgTS,1.157,1.6771,MSW_URB_GLA
+glass,source-segegated,Se,mg/kgTS,48.2502,65.5411,MSW_URB_GLA
+glass,source-segegated,Si,mg/kgTS,330813.0,338156.0,MSW_URB_GLA
+glass,source-segegated,Sm,mg/kgTS,0.4023,0.61273,MSW_URB_GLA
+glass,source-segegated,Sn,mg/kgTS,7.4585,26.445,MSW_URB_GLA
+glass,source-segegated,Sr,mg/kgTS,68.997,274.38,MSW_URB_GLA
+glass,source-segegated,Ta,mg/kgTS,0.16947,0.7739,MSW_URB_GLA
+glass,source-segegated,Tb,mg/kgTS,0.0792,0.1186,MSW_URB_GLA
+glass,source-segegated,Th,mg/kgTS,0.8402,1.5187,MSW_URB_GLA
+glass,source-segegated,Ti,mg/kgTS,124.07,355.89,MSW_URB_GLA
+glass,source-segegated,Tl,mg/kgTS,0.5109,0.6108,MSW_URB_GLA
+glass,source-segegated,Tm,mg/kgTS,0.031,0.042367,MSW_URB_GLA
+glass,source-segegated,U,mg/kgTS,0.42,0.77243,MSW_URB_GLA
+glass,source-segegated,V,mg/kgTS,2.355,14.226,MSW_URB_GLA
+glass,source-segegated,VS,%TS,0.39,0.80667,MSW_URB_GLA
+glass,source-segegated,W,mg/kgTS,0.5046,0.9796,MSW_URB_GLA
+glass,source-segegated,Yb,mg/kgTS,0.2497,0.3843,MSW_URB_GLA
+glass,source-segegated,Zn,mg/kgTS,56.83,396.15,MSW_URB_GLA
+glass,source-segegated,Zr,mg/kgTS,101.529,126.843,MSW_URB_GLA
+glass,source-segegated,ash,%TS,99.1933,99.61,MSW_URB_GLA
+metal,residual,Ag,mg/kgTS,1.15617,3.98853,MSW_URB_MET
+metal,residual,Al,mg/kgTS,22941.0,129767.0,MSW_URB_MET
+metal,residual,As,mg/kgTS,1.7855,30.5984,MSW_URB_MET
+metal,residual,Au,mg/kgTS,0.220767,0.2235,MSW_URB_MET
+metal,residual,Ba,mg/kgTS,25.24,6117.26,MSW_URB_MET
+metal,residual,Be,mg/kgTS,1.33243,1.34877,MSW_URB_MET
+metal,residual,Br,%TS,0.001,0.001,MSW_URB_MET
+metal,residual,C,%TS,3.1984,46.18,MSW_URB_MET
+metal,residual,Ca,mg/kgTS,759.3,16080.6,MSW_URB_MET
+metal,residual,Cd,mg/kgTS,0.09373,2.41193,MSW_URB_MET
+metal,residual,Ce,mg/kgTS,0.43,3.054,MSW_URB_MET
+metal,residual,Cl,%TS,0.21173,9.7711,MSW_URB_MET
+metal,residual,Co,mg/kgTS,2.356,39.1493,MSW_URB_MET
+metal,residual,Cr,mg/kgTS,41.36,1398.79,MSW_URB_MET
+metal,residual,Cs,mg/kgTS,0.669767,0.677967,MSW_URB_MET
+metal,residual,Cu,mg/kgTS,68.8,45704.9,MSW_URB_MET
+metal,residual,Dy,mg/kgTS,0.025833,0.070667,MSW_URB_MET
+metal,residual,Er,mg/kgTS,0.020433,0.129133,MSW_URB_MET
+metal,residual,Eu,mg/kgTS,0.010433,0.7122,MSW_URB_MET
+metal,residual,F,%TS,0.001,0.005633,MSW_URB_MET
+metal,residual,Fe,mg/kgTS,3500.0,822477.0,MSW_URB_MET
+metal,residual,Ga,mg/kgTS,15.9716,97.3585,MSW_URB_MET
+metal,residual,Gd,mg/kgTS,0.0222,0.2128,MSW_URB_MET
+metal,residual,Ge,mg/kgTS,0.18403,2.56713,MSW_URB_MET
+metal,residual,H,%TS,0.36439,7.003,MSW_URB_MET
+metal,residual,HHV,MJ/kgTS,1.2749136141,23.826821895,MSW_URB_MET
+metal,residual,Hf,mg/kgTS,0.1339,0.782633,MSW_URB_MET
+metal,residual,Hg,μg/kgTS,2.6667,12.2667,MSW_URB_MET
+metal,residual,Ho,mg/kgTS,0.007333,0.0232,MSW_URB_MET
+metal,residual,In,mg/kgTS,0.00753,2.8612,MSW_URB_MET
+metal,residual,Ir,mg/kgTS,0.2806,0.284067,MSW_URB_MET
+metal,residual,K,mg/kgTS,413.0,3588.57,MSW_URB_MET
+metal,residual,LHV,MJ/kgTS,1.194860775,22.288332824999998,MSW_URB_MET
+metal,residual,La,mg/kgTS,0.21523,1.34207,MSW_URB_MET
+metal,residual,Li,mg/kgTS,5.5063,5.57387,MSW_URB_MET
+metal,residual,Lu,mg/kgTS,0.0141,0.0216,MSW_URB_MET
+metal,residual,Mg,mg/kgTS,434.8,6316.0,MSW_URB_MET
+metal,residual,Mn,mg/kgTS,774.07,5328.22,MSW_URB_MET
+metal,residual,Mo,mg/kgTS,2.996,138.662,MSW_URB_MET
+metal,residual,N,%TS,0.13335,1.29333,MSW_URB_MET
+metal,residual,Na,mg/kgTS,568.0,4580.71,MSW_URB_MET
+metal,residual,Nb,mg/kgTS,0.47247,2.21347,MSW_URB_MET
+metal,residual,Nd,mg/kgTS,0.13453,1.71443,MSW_URB_MET
+metal,residual,Ni,mg/kgTS,43.64,1808.09,MSW_URB_MET
+metal,residual,O,%TS,1.53225,4.49833,MSW_URB_MET
+metal,residual,P,mg/kgTS,136.519,854.029,MSW_URB_MET
+metal,residual,Pb,mg/kgTS,3.322,865.358,MSW_URB_MET
+metal,residual,Pd,mg/kgTS,0.239467,0.2424,MSW_URB_MET
+metal,residual,Pr,mg/kgTS,0.0454,0.4557,MSW_URB_MET
+metal,residual,Pt,mg/kgTS,0.018733,0.033367,MSW_URB_MET
+metal,residual,Rb,mg/kgTS,2.61537,3.12713,MSW_URB_MET
+metal,residual,Re,mg/kgTS,0.033667,0.0871,MSW_URB_MET
+metal,residual,Rh,mg/kgTS,0.007467,0.060667,MSW_URB_MET
+metal,residual,Ru,mg/kgTS,0.007467,0.008833,MSW_URB_MET
+metal,residual,S,mg/kgTS,236.93,2423.33,MSW_URB_MET
+metal,residual,Sb,mg/kgTS,0.7579,28.3189,MSW_URB_MET
+metal,residual,Sc,mg/kgTS,0.147367,0.189633,MSW_URB_MET
+metal,residual,Se,mg/kgTS,64.5994,65.3916,MSW_URB_MET
+metal,residual,Si,mg/kgTS,5573.6,19916.3,MSW_URB_MET
+metal,residual,Sm,mg/kgTS,0.045,0.126533,MSW_URB_MET
+metal,residual,Sn,mg/kgTS,15.34,2758.63,MSW_URB_MET
+metal,residual,Sr,mg/kgTS,2.985,814.185,MSW_URB_MET
+metal,residual,Ta,mg/kgTS,0.1499,0.3455,MSW_URB_MET
+metal,residual,Tb,mg/kgTS,0.004,0.018933,MSW_URB_MET
+metal,residual,Th,mg/kgTS,0.0532,0.2628,MSW_URB_MET
+metal,residual,Ti,mg/kgTS,425.77,1052.28,MSW_URB_MET
+metal,residual,Tl,mg/kgTS,0.513333,0.518867,MSW_URB_MET
+metal,residual,Tm,mg/kgTS,0.007733,0.0202,MSW_URB_MET
+metal,residual,U,mg/kgTS,0.028933,0.799167,MSW_URB_MET
+metal,residual,V,mg/kgTS,7.106,93.176,MSW_URB_MET
+metal,residual,VS,%TS,0.053,63.06,MSW_URB_MET
+metal,residual,W,mg/kgTS,1.987,129.24,MSW_URB_MET
+metal,residual,Yb,mg/kgTS,0.008533,0.057033,MSW_URB_MET
+metal,residual,Zn,mg/kgTS,136.2,23540.1,MSW_URB_MET
+metal,residual,Zr,mg/kgTS,4.3692,17.4718,MSW_URB_MET
+metal,residual,ash,%TS,36.94,99.947,MSW_URB_MET
+metal,source-segegated,Ag,mg/kgTS,1.17387,1.22117,MSW_URB_MET
+metal,source-segegated,Al,mg/kgTS,60756.0,322591.0,MSW_URB_MET
+metal,source-segegated,As,mg/kgTS,1.7316,15.9432,MSW_URB_MET
+metal,source-segegated,Au,mg/kgTS,0.224167,0.225533,MSW_URB_MET
+metal,source-segegated,Ba,mg/kgTS,15.71,310.25,MSW_URB_MET
+metal,source-segegated,Be,mg/kgTS,1.35287,1.36127,MSW_URB_MET
+metal,source-segegated,Br,%TS,0.001,0.001,MSW_URB_MET
+metal,source-segegated,C,%TS,1.5433,1.9867,MSW_URB_MET
+metal,source-segegated,Ca,mg/kgTS,757.9,1066.1,MSW_URB_MET
+metal,source-segegated,Cd,mg/kgTS,0.09497,0.28213,MSW_URB_MET
+metal,source-segegated,Ce,mg/kgTS,0.2306,0.4484,MSW_URB_MET
+metal,source-segegated,Cl,%TS,0.01503,0.14873,MSW_URB_MET
+metal,source-segegated,Co,mg/kgTS,2.7905,19.6316,MSW_URB_MET
+metal,source-segegated,Cr,mg/kgTS,128.89,228.66,MSW_URB_MET
+metal,source-segegated,Cs,mg/kgTS,0.680033,0.684233,MSW_URB_MET
+metal,source-segegated,Cu,mg/kgTS,162.5,1540.3,MSW_URB_MET
+metal,source-segegated,Dy,mg/kgTS,0.026133,0.026533,MSW_URB_MET
+metal,source-segegated,Er,mg/kgTS,0.0207,0.0382,MSW_URB_MET
+metal,source-segegated,Eu,mg/kgTS,0.006933,0.030233,MSW_URB_MET
+metal,source-segegated,F,%TS,0.001,0.0011,MSW_URB_MET
+metal,source-segegated,Fe,mg/kgTS,4046.0,840142.0,MSW_URB_MET
+metal,source-segegated,Ga,mg/kgTS,17.0722,76.4238,MSW_URB_MET
+metal,source-segegated,Gd,mg/kgTS,0.023133,0.0271,MSW_URB_MET
+metal,source-segegated,Ge,mg/kgTS,0.2298,5.6029,MSW_URB_MET
+metal,source-segegated,H,%TS,0.11502,0.11949,MSW_URB_MET
+metal,source-segegated,HHV,MJ/kgTS,0.6545993687999999,0.7848374930999998,MSW_URB_MET
+metal,source-segegated,Hf,mg/kgTS,0.1329,0.865433,MSW_URB_MET
+metal,source-segegated,Hg,μg/kgTS,2.4,2.4,MSW_URB_MET
+metal,source-segegated,Ho,mg/kgTS,0.007433,0.007467,MSW_URB_MET
+metal,source-segegated,In,mg/kgTS,0.0076,0.0585,MSW_URB_MET
+metal,source-segegated,Ir,mg/kgTS,0.2849,0.2867,MSW_URB_MET
+metal,source-segegated,K,mg/kgTS,391.12,393.55,MSW_URB_MET
+metal,source-segegated,LHV,MJ/kgTS,0.6293306249999999,0.7585867349999998,MSW_URB_MET
+metal,source-segegated,La,mg/kgTS,0.18357,0.38187,MSW_URB_MET
+metal,source-segegated,Li,mg/kgTS,5.59073,5.62537,MSW_URB_MET
+metal,source-segegated,Lu,mg/kgTS,0.0143,0.014433,MSW_URB_MET
+metal,source-segegated,Mg,mg/kgTS,2772.3,12626.9,MSW_URB_MET
+metal,source-segegated,Mn,mg/kgTS,2287.71,7600.48,MSW_URB_MET
+metal,source-segegated,Mo,mg/kgTS,3.1,17.442,MSW_URB_MET
+metal,source-segegated,N,%TS,0.08333,0.09333,MSW_URB_MET
+metal,source-segegated,Na,mg/kgTS,466.9,1021.9,MSW_URB_MET
+metal,source-segegated,Nb,mg/kgTS,0.47283,1.65193,MSW_URB_MET
+metal,source-segegated,Nd,mg/kgTS,0.11023,0.141,MSW_URB_MET
+metal,source-segegated,Ni,mg/kgTS,57.43,182.82,MSW_URB_MET
+metal,source-segegated,O,%TS,0.21016,0.4845,MSW_URB_MET
+metal,source-segegated,P,mg/kgTS,111.027,131.076,MSW_URB_MET
+metal,source-segegated,Pb,mg/kgTS,3.879,30.047,MSW_URB_MET
+metal,source-segegated,Pd,mg/kgTS,0.243167,0.244667,MSW_URB_MET
+metal,source-segegated,Pr,mg/kgTS,0.022533,0.031133,MSW_URB_MET
+metal,source-segegated,Pt,mg/kgTS,0.019,0.019133,MSW_URB_MET
+metal,source-segegated,Rb,mg/kgTS,2.65553,2.67197,MSW_URB_MET
+metal,source-segegated,Re,mg/kgTS,0.0342,0.0344,MSW_URB_MET
+metal,source-segegated,Rh,mg/kgTS,0.0076,0.007667,MSW_URB_MET
+metal,source-segegated,Ru,mg/kgTS,0.0076,0.009267,MSW_URB_MET
+metal,source-segegated,S,mg/kgTS,102.47,199.07,MSW_URB_MET
+metal,source-segegated,Sb,mg/kgTS,0.9586,4.8659,MSW_URB_MET
+metal,source-segegated,Sc,mg/kgTS,0.148167,0.1937,MSW_URB_MET
+metal,source-segegated,Se,mg/kgTS,65.5897,65.996,MSW_URB_MET
+metal,source-segegated,Si,mg/kgTS,5647.6,6025.6,MSW_URB_MET
+metal,source-segegated,Sm,mg/kgTS,0.0456,0.045833,MSW_URB_MET
+metal,source-segegated,Sn,mg/kgTS,22.46,2138.29,MSW_URB_MET
+metal,source-segegated,Sr,mg/kgTS,1.88,9.045,MSW_URB_MET
+metal,source-segegated,Ta,mg/kgTS,0.1529,0.173167,MSW_URB_MET
+metal,source-segegated,Tb,mg/kgTS,0.0038,0.005767,MSW_URB_MET
+metal,source-segegated,Th,mg/kgTS,0.027533,0.027733,MSW_URB_MET
+metal,source-segegated,Ti,mg/kgTS,373.14,1000.2,MSW_URB_MET
+metal,source-segegated,Tl,mg/kgTS,0.520467,0.5237,MSW_URB_MET
+metal,source-segegated,Tm,mg/kgTS,0.0079,0.007967,MSW_URB_MET
+metal,source-segegated,U,mg/kgTS,0.046167,0.483733,MSW_URB_MET
+metal,source-segegated,V,mg/kgTS,9.136,100.809,MSW_URB_MET
+metal,source-segegated,VS,%TS,-3.927,0.7267,MSW_URB_MET
+metal,source-segegated,W,mg/kgTS,0.947,2.595,MSW_URB_MET
+metal,source-segegated,Yb,mg/kgTS,0.0042,0.009933,MSW_URB_MET
+metal,source-segegated,Zn,mg/kgTS,66.0,387.2,MSW_URB_MET
+metal,source-segegated,Zr,mg/kgTS,3.5073,23.9972,MSW_URB_MET
+metal,source-segegated,ash,%TS,99.273,103.927,MSW_URB_MET
+paper & cardboard,residual,Ag,mg/kgTS,0.5328032,83.8523,MSW_URB_PAP
+paper & cardboard,residual,Al,mg/kgTS,706.0241000000001,15064.406400000003,MSW_URB_PAP
+paper & cardboard,residual,As,mg/kgTS,0.9538359999999999,8.667693400000001,MSW_URB_PAP
+paper & cardboard,residual,Au,mg/kgTS,0.0157744,1.3505574999999999,MSW_URB_PAP
+paper & cardboard,residual,Ba,mg/kgTS,6.25,150.48696,MSW_URB_PAP
+paper & cardboard,residual,Be,mg/kgTS,0.9538414,2.7986208199999996,MSW_URB_PAP
+paper & cardboard,residual,Br,%TS,0.001,0.001333,MSW_URB_PAP
+paper & cardboard,residual,C,%TS,33.805044,49.431882,MSW_URB_PAP
+paper & cardboard,residual,Ca,mg/kgTS,7831.0,94828.18,MSW_URB_PAP
+paper & cardboard,residual,Cd,mg/kgTS,0.0511,1.1513184500000002,MSW_URB_PAP
+paper & cardboard,residual,Ce,mg/kgTS,0.6663,7.728331499999999,MSW_URB_PAP
+paper & cardboard,residual,Cl,%TS,0.03174394,0.516433,MSW_URB_PAP
+paper & cardboard,residual,Co,mg/kgTS,0.4464,5.080878500000001,MSW_URB_PAP
+paper & cardboard,residual,Cr,mg/kgTS,1.1823839999999999,10.282168900000002,MSW_URB_PAP
+paper & cardboard,residual,Cs,mg/kgTS,0.25844183,3.7222263599999996,MSW_URB_PAP
+paper & cardboard,residual,Cu,mg/kgTS,10.133569,73.73802699999999,MSW_URB_PAP
+paper & cardboard,residual,Dy,mg/kgTS,0.0238,0.601136284,MSW_URB_PAP
+paper & cardboard,residual,Er,mg/kgTS,0.020767,0.441639971,MSW_URB_PAP
+paper & cardboard,residual,Eu,mg/kgTS,0.010933,0.386555794,MSW_URB_PAP
+paper & cardboard,residual,F,%TS,0.0010428890000000002,0.0078169,MSW_URB_PAP
+paper & cardboard,residual,Fe,mg/kgTS,234.03799999999998,2619.7009,MSW_URB_PAP
+paper & cardboard,residual,Ga,mg/kgTS,0.6798,4.5022105,MSW_URB_PAP
+paper & cardboard,residual,Gd,mg/kgTS,0.03143,0.7007017000000001,MSW_URB_PAP
+paper & cardboard,residual,Ge,mg/kgTS,0.15265005999999998,0.171489909,MSW_URB_PAP
+paper & cardboard,residual,H,%TS,5.06844,8.7970588,MSW_URB_PAP
+paper & cardboard,residual,HHV,MJ/kgTS,12.0256208,24.7798,MSW_URB_PAP
+paper & cardboard,residual,Hf,mg/kgTS,0.07881182,0.5582824799999999,MSW_URB_PAP
+paper & cardboard,residual,Hg,μg/kgTS,4.88706,28.067,MSW_URB_PAP
+paper & cardboard,residual,Ho,mg/kgTS,0.004467,0.35957010600000006,MSW_URB_PAP
+paper & cardboard,residual,In,mg/kgTS,0.005966928000000001,0.030623683,MSW_URB_PAP
+paper & cardboard,residual,Ir,mg/kgTS,0.025866590000000002,0.16850806000000002,MSW_URB_PAP
+paper & cardboard,residual,K,mg/kgTS,573.1787999999999,4457.77,MSW_URB_PAP
+paper & cardboard,residual,LHV,MJ/kgTS,10.822189868414,23.272638724000004,MSW_URB_PAP
+paper & cardboard,residual,La,mg/kgTS,0.34687,4.04694428,MSW_URB_PAP
+paper & cardboard,residual,Li,mg/kgTS,0.6804226,4.653886699999999,MSW_URB_PAP
+paper & cardboard,residual,Lu,mg/kgTS,0.0067,0.7109405200000001,MSW_URB_PAP
+paper & cardboard,residual,Mg,mg/kgTS,523.56543,1941.8441500000001,MSW_URB_PAP
+paper & cardboard,residual,Mn,mg/kgTS,21.212877,84.292509,MSW_URB_PAP
+paper & cardboard,residual,Mo,mg/kgTS,0.42988422000000004,1.66573327,MSW_URB_PAP
+paper & cardboard,residual,N,%TS,0.151654,0.948,MSW_URB_PAP
+paper & cardboard,residual,Na,mg/kgTS,1061.1636899999999,4215.43,MSW_URB_PAP
+paper & cardboard,residual,Nb,mg/kgTS,0.042502813,0.486767,MSW_URB_PAP
+paper & cardboard,residual,Nd,mg/kgTS,0.21367,2.86600671,MSW_URB_PAP
+paper & cardboard,residual,Ni,mg/kgTS,0.619198,10.9725,MSW_URB_PAP
+paper & cardboard,residual,O,%TS,34.8705,46.795,MSW_URB_PAP
+paper & cardboard,residual,P,mg/kgTS,98.5572,1195.93,MSW_URB_PAP
+paper & cardboard,residual,Pb,mg/kgTS,0.8868039999999999,20.778007499999998,MSW_URB_PAP
+paper & cardboard,residual,Pd,mg/kgTS,0.064567,0.40146446500000005,MSW_URB_PAP
+paper & cardboard,residual,Pr,mg/kgTS,0.06183,1.0735303500000002,MSW_URB_PAP
+paper & cardboard,residual,Pt,mg/kgTS,0.012233309000000001,0.065016401,MSW_URB_PAP
+paper & cardboard,residual,Rb,mg/kgTS,1.2879584,9.9710976,MSW_URB_PAP
+paper & cardboard,residual,Re,mg/kgTS,0.00382112,0.069067,MSW_URB_PAP
+paper & cardboard,residual,Rh,mg/kgTS,0.000838961,0.0017,MSW_URB_PAP
+paper & cardboard,residual,Ru,mg/kgTS,0.011405071999999999,0.031967,MSW_URB_PAP
+paper & cardboard,residual,S,mg/kgTS,513.9368000000001,4810.47,MSW_URB_PAP
+paper & cardboard,residual,Sb,mg/kgTS,0.04743616,0.87783,MSW_URB_PAP
+paper & cardboard,residual,Sc,mg/kgTS,0.14563,0.8280571199999999,MSW_URB_PAP
+paper & cardboard,residual,Se,mg/kgTS,35.2822422,48.918,MSW_URB_PAP
+paper & cardboard,residual,Si,mg/kgTS,797.3153100000001,8604.23,MSW_URB_PAP
+paper & cardboard,residual,Sm,mg/kgTS,0.03137,0.80527914,MSW_URB_PAP
+paper & cardboard,residual,Sn,mg/kgTS,0.406172,8.324843999999999,MSW_URB_PAP
+paper & cardboard,residual,Sr,mg/kgTS,18.943,268.508985,MSW_URB_PAP
+paper & cardboard,residual,Ta,mg/kgTS,0.003109682,0.077867,MSW_URB_PAP
+paper & cardboard,residual,Tb,mg/kgTS,0.006367,0.050940931999999994,MSW_URB_PAP
+paper & cardboard,residual,Th,mg/kgTS,0.05287,3.2130113900000006,MSW_URB_PAP
+paper & cardboard,residual,Ti,mg/kgTS,4.968559999999999,182.994,MSW_URB_PAP
+paper & cardboard,residual,Tl,mg/kgTS,0.05093889,1.4099360099999998,MSW_URB_PAP
+paper & cardboard,residual,Tm,mg/kgTS,0.00953,0.7018972800000001,MSW_URB_PAP
+paper & cardboard,residual,U,mg/kgTS,0.0314,0.9909781200000001,MSW_URB_PAP
+paper & cardboard,residual,V,mg/kgTS,0.96719,3.12277215,MSW_URB_PAP
+paper & cardboard,residual,VS,%TS,65.9724406,93.32,MSW_URB_PAP
+paper & cardboard,residual,W,mg/kgTS,0.23908815000000003,1.2479571,MSW_URB_PAP
+paper & cardboard,residual,Yb,mg/kgTS,0.025867,0.415303402,MSW_URB_PAP
+paper & cardboard,residual,Zn,mg/kgTS,9.3538,38.064879,MSW_URB_PAP
+paper & cardboard,residual,Zr,mg/kgTS,2.237062,30.180242,MSW_URB_PAP
+paper & cardboard,residual,ash,%TS,6.68,34.0275594,MSW_URB_PAP
+paper & cardboard,source-segegated,Ag,mg/kgTS,0.5204,0.5674929999999999,MSW_URB_PAP
+paper & cardboard,source-segegated,Al,mg/kgTS,1152.2418,10215.4801,MSW_URB_PAP
+paper & cardboard,source-segegated,As,mg/kgTS,0.9294,1.2714397,MSW_URB_PAP
+paper & cardboard,source-segegated,Au,mg/kgTS,0.0074,0.0119209,MSW_URB_PAP
+paper & cardboard,source-segegated,Ba,mg/kgTS,7.04,765.4604200000001,MSW_URB_PAP
+paper & cardboard,source-segegated,Be,mg/kgTS,0.92937,0.9584685500000001,MSW_URB_PAP
+paper & cardboard,source-segegated,Br,%TS,0.0009989999999999999,0.00193108,MSW_URB_PAP
+paper & cardboard,source-segegated,C,%TS,34.52,44.08,MSW_URB_PAP
+paper & cardboard,source-segegated,Ca,mg/kgTS,11126.0,86500.0,MSW_URB_PAP
+paper & cardboard,source-segegated,Cd,mg/kgTS,0.05603,0.13086108,MSW_URB_PAP
+paper & cardboard,source-segegated,Ce,mg/kgTS,0.7302,9.483237899999999,MSW_URB_PAP
+paper & cardboard,source-segegated,Cl,%TS,0.018901322,0.397467,MSW_URB_PAP
+paper & cardboard,source-segegated,Co,mg/kgTS,0.2368,1.6121,MSW_URB_PAP
+paper & cardboard,source-segegated,Cr,mg/kgTS,1.97002,8.0840341,MSW_URB_PAP
+paper & cardboard,source-segegated,Cs,mg/kgTS,0.2169,0.50693118,MSW_URB_PAP
+paper & cardboard,source-segegated,Cu,mg/kgTS,5.521388,76.375927,MSW_URB_PAP
+paper & cardboard,source-segegated,Dy,mg/kgTS,0.05,0.4683,MSW_URB_PAP
+paper & cardboard,source-segegated,Er,mg/kgTS,0.018833,0.200267,MSW_URB_PAP
+paper & cardboard,source-segegated,Eu,mg/kgTS,0.0123,0.122308316,MSW_URB_PAP
+paper & cardboard,source-segegated,F,%TS,0.001003099,0.005164217,MSW_URB_PAP
+paper & cardboard,source-segegated,Fe,mg/kgTS,289.81759999999997,2916.366,MSW_URB_PAP
+paper & cardboard,source-segegated,Ga,mg/kgTS,0.672,15.9469916,MSW_URB_PAP
+paper & cardboard,source-segegated,Gd,mg/kgTS,0.05113,0.5526237100000001,MSW_URB_PAP
+paper & cardboard,source-segegated,Ge,mg/kgTS,0.1487,0.153376211,MSW_URB_PAP
+paper & cardboard,source-segegated,H,%TS,4.8274,7.5466318,MSW_URB_PAP
+paper & cardboard,source-segegated,HHV,MJ/kgTS,11.9174,17.3288,MSW_URB_PAP
+paper & cardboard,source-segegated,Hf,mg/kgTS,0.06791887,0.91637,MSW_URB_PAP
+paper & cardboard,source-segegated,Hg,μg/kgTS,5.7489550000000005,127.718165,MSW_URB_PAP
+paper & cardboard,source-segegated,Ho,mg/kgTS,0.044,0.085033,MSW_URB_PAP
+paper & cardboard,source-segegated,In,mg/kgTS,0.0071,0.032332429999999995,MSW_URB_PAP
+paper & cardboard,source-segegated,Ir,mg/kgTS,0.006267,0.027097128999999998,MSW_URB_PAP
+paper & cardboard,source-segegated,K,mg/kgTS,429.17,836.1,MSW_URB_PAP
+paper & cardboard,source-segegated,LHV,MJ/kgTS,10.856868494,15.824055314,MSW_URB_PAP
+paper & cardboard,source-segegated,La,mg/kgTS,0.3961,4.3524281,MSW_URB_PAP
+paper & cardboard,source-segegated,Li,mg/kgTS,1.0372477,6.842570299999999,MSW_URB_PAP
+paper & cardboard,source-segegated,Lu,mg/kgTS,0.00973,0.02877,MSW_URB_PAP
+paper & cardboard,source-segegated,Mg,mg/kgTS,573.7501400000001,2242.50943,MSW_URB_PAP
+paper & cardboard,source-segegated,Mn,mg/kgTS,7.861,46.966992999999995,MSW_URB_PAP
+paper & cardboard,source-segegated,Mo,mg/kgTS,0.29023333999999995,2.0149359,MSW_URB_PAP
+paper & cardboard,source-segegated,N,%TS,0.098072,1.296,MSW_URB_PAP
+paper & cardboard,source-segegated,Na,mg/kgTS,1021.5104699999999,1468.46502,MSW_URB_PAP
+paper & cardboard,source-segegated,Nb,mg/kgTS,0.016833,0.135248737,MSW_URB_PAP
+paper & cardboard,source-segegated,Nd,mg/kgTS,0.3006,3.58624331,MSW_URB_PAP
+paper & cardboard,source-segegated,Ni,mg/kgTS,0.5274698000000001,9.5165,MSW_URB_PAP
+paper & cardboard,source-segegated,O,%TS,,,MSW_URB_PAP
+paper & cardboard,source-segegated,P,mg/kgTS,86.98356000000001,178.42583000000002,MSW_URB_PAP
+paper & cardboard,source-segegated,Pb,mg/kgTS,0.8585355,14.3234131,MSW_URB_PAP
+paper & cardboard,source-segegated,Pd,mg/kgTS,0.3871,0.399183501,MSW_URB_PAP
+paper & cardboard,source-segegated,Pr,mg/kgTS,0.08197,1.02081389,MSW_URB_PAP
+paper & cardboard,source-segegated,Pt,mg/kgTS,0.011933,0.013040467,MSW_URB_PAP
+paper & cardboard,source-segegated,Rb,mg/kgTS,0.9707,6.7146,MSW_URB_PAP
+paper & cardboard,source-segegated,Re,mg/kgTS,0.003733,0.018260424,MSW_URB_PAP
+paper & cardboard,source-segegated,Rh,mg/kgTS,0.000767,0.0012553039999999998,MSW_URB_PAP
+paper & cardboard,source-segegated,Ru,mg/kgTS,0.011133,0.011669671999999999,MSW_URB_PAP
+paper & cardboard,source-segegated,S,mg/kgTS,568.98,2823.5330699999995,MSW_URB_PAP
+paper & cardboard,source-segegated,Sb,mg/kgTS,0.0353,0.44556482999999997,MSW_URB_PAP
+paper & cardboard,source-segegated,Sc,mg/kgTS,0.1442,0.7817787300000001,MSW_URB_PAP
+paper & cardboard,source-segegated,Se,mg/kgTS,34.461,35.5399404,MSW_URB_PAP
+paper & cardboard,source-segegated,Si,mg/kgTS,292.82,620.46,MSW_URB_PAP
+paper & cardboard,source-segegated,Sm,mg/kgTS,0.06103,0.6905,MSW_URB_PAP
+paper & cardboard,source-segegated,Sn,mg/kgTS,0.039,1.104397,MSW_URB_PAP
+paper & cardboard,source-segegated,Sr,mg/kgTS,18.715,178.524,MSW_URB_PAP
+paper & cardboard,source-segegated,Ta,mg/kgTS,0.0018,0.005751267,MSW_URB_PAP
+paper & cardboard,source-segegated,Tb,mg/kgTS,0.009133,0.0835,MSW_URB_PAP
+paper & cardboard,source-segegated,Th,mg/kgTS,0.13817,1.78235896,MSW_URB_PAP
+paper & cardboard,source-segegated,Ti,mg/kgTS,7.417054,44.13,MSW_URB_PAP
+paper & cardboard,source-segegated,Tl,mg/kgTS,0.01293,0.05144386,MSW_URB_PAP
+paper & cardboard,source-segegated,Tm,mg/kgTS,0.00493,0.0352,MSW_URB_PAP
+paper & cardboard,source-segegated,U,mg/kgTS,0.04123,0.6733,MSW_URB_PAP
+paper & cardboard,source-segegated,V,mg/kgTS,0.58293,2.9016505599999998,MSW_URB_PAP
+paper & cardboard,source-segegated,VS,%TS,68.215,93.62,MSW_URB_PAP
+paper & cardboard,source-segegated,W,mg/kgTS,0.02153,0.89612589,MSW_URB_PAP
+paper & cardboard,source-segegated,Yb,mg/kgTS,0.0284,0.196633,MSW_URB_PAP
+paper & cardboard,source-segegated,Zn,mg/kgTS,7.522,50.942477000000004,MSW_URB_PAP
+paper & cardboard,source-segegated,Zr,mg/kgTS,2.3211969999999997,43.89,MSW_URB_PAP
+paper & cardboard,source-segegated,ash,%TS,6.38,31.785,MSW_URB_PAP
+plastic,residual,Ag,mg/kgTS,4.5648,30.2704,MSW_URB_PLA
+plastic,residual,Al,mg/kgTS,287.5,55994.2,MSW_URB_PLA
+plastic,residual,As,mg/kgTS,2.07557,4.1122,MSW_URB_PLA
+plastic,residual,Au,mg/kgTS,0.048667,0.065767,MSW_URB_PLA
+plastic,residual,Ba,mg/kgTS,22.85,2264.44,MSW_URB_PLA
+plastic,residual,Be,mg/kgTS,0.21703,5.58823,MSW_URB_PLA
+plastic,residual,Br,%TS,0.001,0.066471,MSW_URB_PLA
+plastic,residual,C,%TS,63.9833,84.6033,MSW_URB_PLA
+plastic,residual,Ca,mg/kgTS,577.2,11827.2,MSW_URB_PLA
+plastic,residual,Cd,mg/kgTS,0.4402,5.129,MSW_URB_PLA
+plastic,residual,Ce,mg/kgTS,0.55293,3.73043,MSW_URB_PLA
+plastic,residual,Cl,%TS,0.02083,3.05173,MSW_URB_PLA
+plastic,residual,Co,mg/kgTS,0.4754,10.4523,MSW_URB_PLA
+plastic,residual,Cr,mg/kgTS,4.2216,78.4859,MSW_URB_PLA
+plastic,residual,Cs,mg/kgTS,0.325967,0.7351,MSW_URB_PLA
+plastic,residual,Cu,mg/kgTS,1.187,546.188,MSW_URB_PLA
+plastic,residual,Dy,mg/kgTS,0.074633,0.097633,MSW_URB_PLA
+plastic,residual,Er,mg/kgTS,0.020567,0.074033,MSW_URB_PLA
+plastic,residual,Eu,mg/kgTS,0.0412,0.3483,MSW_URB_PLA
+plastic,residual,F,%TS,0.001,0.013033,MSW_URB_PLA
+plastic,residual,Fe,mg/kgTS,316.4,15960.3,MSW_URB_PLA
+plastic,residual,Ga,mg/kgTS,0.6673,21.9258,MSW_URB_PLA
+plastic,residual,Gd,mg/kgTS,0.1009,0.3593,MSW_URB_PLA
+plastic,residual,Ge,mg/kgTS,0.538133,0.9223,MSW_URB_PLA
+plastic,residual,H,%TS,5.2023,15.9497,MSW_URB_PLA
+plastic,residual,HHV,MJ/kgTS,24.0521,45.2161,MSW_URB_PLA
+plastic,residual,Hf,mg/kgTS,0.1333,2.7911,MSW_URB_PLA
+plastic,residual,Hg,μg/kgTS,2.4,9.6,MSW_URB_PLA
+plastic,residual,Ho,mg/kgTS,0.019767,0.029433,MSW_URB_PLA
+plastic,residual,In,mg/kgTS,0.0136,0.018933,MSW_URB_PLA
+plastic,residual,Ir,mg/kgTS,0.012267,0.024033,MSW_URB_PLA
+plastic,residual,K,mg/kgTS,196.79,1108.79,MSW_URB_PLA
+plastic,residual,LHV,MJ/kgTS,22.909206713,41.712110407,MSW_URB_PLA
+plastic,residual,La,mg/kgTS,0.1011,1.49903,MSW_URB_PLA
+plastic,residual,Li,mg/kgTS,0.2563,5.119,MSW_URB_PLA
+plastic,residual,Lu,mg/kgTS,0.0118,0.0164,MSW_URB_PLA
+plastic,residual,Mg,mg/kgTS,63.15,7274.65,MSW_URB_PLA
+plastic,residual,Mn,mg/kgTS,3.5388,99.6102,MSW_URB_PLA
+plastic,residual,Mo,mg/kgTS,0.29487,8.2066,MSW_URB_PLA
+plastic,residual,N,%TS,0.15823,0.755,MSW_URB_PLA
+plastic,residual,Na,mg/kgTS,146.57,2761.8,MSW_URB_PLA
+plastic,residual,Nb,mg/kgTS,0.31643,7.3226,MSW_URB_PLA
+plastic,residual,Nd,mg/kgTS,0.067,5.6297,MSW_URB_PLA
+plastic,residual,Ni,mg/kgTS,7.965,213.745,MSW_URB_PLA
+plastic,residual,O,%TS,10.2178,27.5893,MSW_URB_PLA
+plastic,residual,P,mg/kgTS,19.068,993.296,MSW_URB_PLA
+plastic,residual,Pb,mg/kgTS,0.747,219.009,MSW_URB_PLA
+plastic,residual,Pd,mg/kgTS,0.100867,0.281967,MSW_URB_PLA
+plastic,residual,Pr,mg/kgTS,0.02413,1.60993,MSW_URB_PLA
+plastic,residual,Pt,mg/kgTS,0.014733,0.050233,MSW_URB_PLA
+plastic,residual,Rb,mg/kgTS,1.20003,3.7968,MSW_URB_PLA
+plastic,residual,Re,mg/kgTS,0.011833,0.090167,MSW_URB_PLA
+plastic,residual,Rh,mg/kgTS,0.018867,0.021233,MSW_URB_PLA
+plastic,residual,Ru,mg/kgTS,0.3731,0.4197,MSW_URB_PLA
+plastic,residual,S,mg/kgTS,211.91,2020.74,MSW_URB_PLA
+plastic,residual,Sb,mg/kgTS,0.453,270.889,MSW_URB_PLA
+plastic,residual,Sc,mg/kgTS,1.24053,1.39557,MSW_URB_PLA
+plastic,residual,Se,mg/kgTS,0.0,3.01407,MSW_URB_PLA
+plastic,residual,Si,mg/kgTS,1953.3,19375.1,MSW_URB_PLA
+plastic,residual,Sm,mg/kgTS,0.071367,0.168,MSW_URB_PLA
+plastic,residual,Sn,mg/kgTS,1.4,109.249,MSW_URB_PLA
+plastic,residual,Sr,mg/kgTS,2.2743,68.3016,MSW_URB_PLA
+plastic,residual,Ta,mg/kgTS,0.0569,3.42453,MSW_URB_PLA
+plastic,residual,Tb,mg/kgTS,0.037333,0.041967,MSW_URB_PLA
+plastic,residual,Th,mg/kgTS,0.089567,0.5205,MSW_URB_PLA
+plastic,residual,Ti,mg/kgTS,388.03,7531.3,MSW_URB_PLA
+plastic,residual,Tl,mg/kgTS,0.202233,0.339067,MSW_URB_PLA
+plastic,residual,Tm,mg/kgTS,0.0118,0.028133,MSW_URB_PLA
+plastic,residual,U,mg/kgTS,0.135033,0.2472,MSW_URB_PLA
+plastic,residual,V,mg/kgTS,0.36373,6.45017,MSW_URB_PLA
+plastic,residual,VS,%TS,87.88,98.9733,MSW_URB_PLA
+plastic,residual,W,mg/kgTS,0.548,31.049,MSW_URB_PLA
+plastic,residual,Yb,mg/kgTS,0.0933,0.1049,MSW_URB_PLA
+plastic,residual,Zn,mg/kgTS,6.58,1171.4,MSW_URB_PLA
+plastic,residual,Zr,mg/kgTS,1.0391,13.0136,MSW_URB_PLA
+plastic,residual,ash,%TS,1.0267,12.12,MSW_URB_PLA
+plastic,source-segegated,Ag,mg/kgTS,4.6428,4.9773,MSW_URB_PLA
+plastic,source-segegated,Al,mg/kgTS,7.8,2463.6,MSW_URB_PLA
+plastic,source-segegated,As,mg/kgTS,2.11103,5.12713,MSW_URB_PLA
+plastic,source-segegated,Au,mg/kgTS,0.0498,0.273867,MSW_URB_PLA
+plastic,source-segegated,Ba,mg/kgTS,4.13,466.78,MSW_URB_PLA
+plastic,source-segegated,Be,mg/kgTS,0.2153,0.23083,MSW_URB_PLA
+plastic,source-segegated,Br,%TS,0.001,0.002,MSW_URB_PLA
+plastic,source-segegated,C,%TS,63.6067,88.75,MSW_URB_PLA
+plastic,source-segegated,Ca,mg/kgTS,221.9,17977.5,MSW_URB_PLA
+plastic,source-segegated,Cd,mg/kgTS,0.4478,50.7825,MSW_URB_PLA
+plastic,source-segegated,Ce,mg/kgTS,0.54853,4.6979,MSW_URB_PLA
+plastic,source-segegated,Cl,%TS,0.00377,2.4516,MSW_URB_PLA
+plastic,source-segegated,Co,mg/kgTS,0.3256,18.8847,MSW_URB_PLA
+plastic,source-segegated,Cr,mg/kgTS,4.2024,47.0063,MSW_URB_PLA
+plastic,source-segegated,Cs,mg/kgTS,0.333567,0.681,MSW_URB_PLA
+plastic,source-segegated,Cu,mg/kgTS,1.011,46.003,MSW_URB_PLA
+plastic,source-segegated,Dy,mg/kgTS,0.0759,0.115633,MSW_URB_PLA
+plastic,source-segegated,Er,mg/kgTS,0.020933,0.167633,MSW_URB_PLA
+plastic,source-segegated,Eu,mg/kgTS,0.041867,0.104067,MSW_URB_PLA
+plastic,source-segegated,F,%TS,0.001,0.0024,MSW_URB_PLA
+plastic,source-segegated,Fe,mg/kgTS,89.6,2035.2,MSW_URB_PLA
+plastic,source-segegated,Ga,mg/kgTS,0.6648,4.801,MSW_URB_PLA
+plastic,source-segegated,Gd,mg/kgTS,0.102633,0.1464,MSW_URB_PLA
+plastic,source-segegated,Ge,mg/kgTS,0.5474,0.5868,MSW_URB_PLA
+plastic,source-segegated,H,%TS,4.861,14.9403,MSW_URB_PLA
+plastic,source-segegated,HHV,MJ/kgTS,24.2674,45.145,MSW_URB_PLA
+plastic,source-segegated,Hf,mg/kgTS,0.13227,0.25263,MSW_URB_PLA
+plastic,source-segegated,Hg,μg/kgTS,2.4,6.16667,MSW_URB_PLA
+plastic,source-segegated,Ho,mg/kgTS,0.020067,0.027533,MSW_URB_PLA
+plastic,source-segegated,In,mg/kgTS,0.013733,0.016267,MSW_URB_PLA
+plastic,source-segegated,Ir,mg/kgTS,0.012467,0.013367,MSW_URB_PLA
+plastic,source-segegated,K,mg/kgTS,200.15,214.57,MSW_URB_PLA
+plastic,source-segegated,LHV,MJ/kgTS,23.199486909999997,41.862765493000005,MSW_URB_PLA
+plastic,source-segegated,La,mg/kgTS,0.05817,1.43253,MSW_URB_PLA
+plastic,source-segegated,Li,mg/kgTS,0.2562,15.2619,MSW_URB_PLA
+plastic,source-segegated,Lu,mg/kgTS,0.012033,0.014967,MSW_URB_PLA
+plastic,source-segegated,Mg,mg/kgTS,6.94,955.0,MSW_URB_PLA
+plastic,source-segegated,Mn,mg/kgTS,0.9005,28.9761,MSW_URB_PLA
+plastic,source-segegated,Mo,mg/kgTS,0.2711,3.5776,MSW_URB_PLA
+plastic,source-segegated,N,%TS,0.1575,6.9175,MSW_URB_PLA
+plastic,source-segegated,Na,mg/kgTS,106.6,6874.74,MSW_URB_PLA
+plastic,source-segegated,Nb,mg/kgTS,0.40453,3.21717,MSW_URB_PLA
+plastic,source-segegated,Nd,mg/kgTS,0.03663,0.82467,MSW_URB_PLA
+plastic,source-segegated,Ni,mg/kgTS,8.101,9.337,MSW_URB_PLA
+plastic,source-segegated,O,%TS,,,MSW_URB_PLA
+plastic,source-segegated,P,mg/kgTS,18.717,43.599,MSW_URB_PLA
+plastic,source-segegated,Pb,mg/kgTS,0.472,81.603,MSW_URB_PLA
+plastic,source-segegated,Pd,mg/kgTS,0.1026,0.109967,MSW_URB_PLA
+plastic,source-segegated,Pr,mg/kgTS,0.02207,0.2261,MSW_URB_PLA
+plastic,source-segegated,Pt,mg/kgTS,0.014767,0.0158,MSW_URB_PLA
+plastic,source-segegated,Rb,mg/kgTS,1.22053,3.5519,MSW_URB_PLA
+plastic,source-segegated,Re,mg/kgTS,0.0108,0.0229,MSW_URB_PLA
+plastic,source-segegated,Rh,mg/kgTS,0.0192,0.020567,MSW_URB_PLA
+plastic,source-segegated,Ru,mg/kgTS,0.379467,0.406833,MSW_URB_PLA
+plastic,source-segegated,S,mg/kgTS,98.87,772.55,MSW_URB_PLA
+plastic,source-segegated,Sb,mg/kgTS,0.433,254.451,MSW_URB_PLA
+plastic,source-segegated,Sc,mg/kgTS,1.26173,1.35263,MSW_URB_PLA
+plastic,source-segegated,Se,mg/kgTS,0.0,7.2307,MSW_URB_PLA
+plastic,source-segegated,Si,mg/kgTS,2057.4,34350.2,MSW_URB_PLA
+plastic,source-segegated,Sm,mg/kgTS,0.072567,0.1204,MSW_URB_PLA
+plastic,source-segegated,Sn,mg/kgTS,0.168,46.7,MSW_URB_PLA
+plastic,source-segegated,Sr,mg/kgTS,0.2347,27.9083,MSW_URB_PLA
+plastic,source-segegated,Ta,mg/kgTS,0.05207,9.36103,MSW_URB_PLA
+plastic,source-segegated,Tb,mg/kgTS,0.037933,0.040667,MSW_URB_PLA
+plastic,source-segegated,Th,mg/kgTS,0.0888,0.1439,MSW_URB_PLA
+plastic,source-segegated,Ti,mg/kgTS,23.46,3744.43,MSW_URB_PLA
+plastic,source-segegated,Tl,mg/kgTS,0.206933,0.238633,MSW_URB_PLA
+plastic,source-segegated,Tm,mg/kgTS,0.012033,0.0143,MSW_URB_PLA
+plastic,source-segegated,U,mg/kgTS,0.137333,0.152833,MSW_URB_PLA
+plastic,source-segegated,V,mg/kgTS,0.3451,1.64613,MSW_URB_PLA
+plastic,source-segegated,VS,%TS,90.95,99.8967,MSW_URB_PLA
+plastic,source-segegated,W,mg/kgTS,0.658,128.914,MSW_URB_PLA
+plastic,source-segegated,Yb,mg/kgTS,0.094867,0.104067,MSW_URB_PLA
+plastic,source-segegated,Zn,mg/kgTS,0.96,148.53,MSW_URB_PLA
+plastic,source-segegated,Zr,mg/kgTS,0.1072,9.3804,MSW_URB_PLA
+plastic,source-segegated,ash,%TS,0.1033,9.05,MSW_URB_PLA
+"textiles, leather, rubber",residual,Ag,mg/kgTS,83.2231,83.2231,MSW_URB_TEX
+"textiles, leather, rubber",residual,Al,mg/kgTS,3988.3,3988.3,MSW_URB_TEX
+"textiles, leather, rubber",residual,As,mg/kgTS,8.2415,8.2415,MSW_URB_TEX
+"textiles, leather, rubber",residual,Au,mg/kgTS,0.065022,0.065022,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ba,mg/kgTS,242.66,242.66,MSW_URB_TEX
+"textiles, leather, rubber",residual,Be,mg/kgTS,1.95871,1.95871,MSW_URB_TEX
+"textiles, leather, rubber",residual,Br,%TS,0.0037,0.0037,MSW_URB_TEX
+"textiles, leather, rubber",residual,C,%TS,53.27,53.27,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ca,mg/kgTS,20312.2,20312.2,MSW_URB_TEX
+"textiles, leather, rubber",residual,Cd,mg/kgTS,0.73561,0.73561,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ce,mg/kgTS,2.0875,2.0875,MSW_URB_TEX
+"textiles, leather, rubber",residual,Cl,%TS,0.6566,0.6566,MSW_URB_TEX
+"textiles, leather, rubber",residual,Co,mg/kgTS,1.45824,1.45824,MSW_URB_TEX
+"textiles, leather, rubber",residual,Cr,mg/kgTS,372.146,372.146,MSW_URB_TEX
+"textiles, leather, rubber",residual,Cs,mg/kgTS,0.57254,0.57254,MSW_URB_TEX
+"textiles, leather, rubber",residual,Cu,mg/kgTS,252.357,252.357,MSW_URB_TEX
+"textiles, leather, rubber",residual,Dy,mg/kgTS,0.08413,0.08413,MSW_URB_TEX
+"textiles, leather, rubber",residual,Er,mg/kgTS,0.044078,0.044078,MSW_URB_TEX
+"textiles, leather, rubber",residual,Eu,mg/kgTS,0.027256,0.027256,MSW_URB_TEX
+"textiles, leather, rubber",residual,F,%TS,0.0031,0.0031,MSW_URB_TEX
+"textiles, leather, rubber",residual,Fe,mg/kgTS,965.3,965.3,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ga,mg/kgTS,5.9846,5.9846,MSW_URB_TEX
+"textiles, leather, rubber",residual,Gd,mg/kgTS,0.12322,0.12322,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ge,mg/kgTS,0.1744,0.1744,MSW_URB_TEX
+"textiles, leather, rubber",residual,H,%TS,6.9205,6.9205,MSW_URB_TEX
+"textiles, leather, rubber",residual,HHV,MJ/kgTS,22.1616,22.1616,MSW_URB_TEX
+"textiles, leather, rubber",residual,Hf,mg/kgTS,0.2664,0.2664,MSW_URB_TEX
+"textiles, leather, rubber",residual,Hg,μg/kgTS,27.567,27.567,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ho,mg/kgTS,0.017644,0.017644,MSW_URB_TEX
+"textiles, leather, rubber",residual,In,mg/kgTS,0.018767,0.018767,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ir,mg/kgTS,0.102356,0.102356,MSW_URB_TEX
+"textiles, leather, rubber",residual,K,mg/kgTS,993.1,993.1,MSW_URB_TEX
+"textiles, leather, rubber",residual,LHV,MJ/kgTS,20.641235355,20.641235355,MSW_URB_TEX
+"textiles, leather, rubber",residual,La,mg/kgTS,1.406,1.406,MSW_URB_TEX
+"textiles, leather, rubber",residual,Li,mg/kgTS,1.866,1.866,MSW_URB_TEX
+"textiles, leather, rubber",residual,Lu,mg/kgTS,0.007133,0.007133,MSW_URB_TEX
+"textiles, leather, rubber",residual,Mg,mg/kgTS,2008.09,2008.09,MSW_URB_TEX
+"textiles, leather, rubber",residual,Mn,mg/kgTS,32.215,32.215,MSW_URB_TEX
+"textiles, leather, rubber",residual,Mo,mg/kgTS,1.40138,1.40138,MSW_URB_TEX
+"textiles, leather, rubber",residual,N,%TS,2.0975,2.0975,MSW_URB_TEX
+"textiles, leather, rubber",residual,Na,mg/kgTS,821.0,821.0,MSW_URB_TEX
+"textiles, leather, rubber",residual,Nb,mg/kgTS,1.9696,1.9696,MSW_URB_TEX
+"textiles, leather, rubber",residual,Nd,mg/kgTS,0.8424,0.8424,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ni,mg/kgTS,12.415,12.415,MSW_URB_TEX
+"textiles, leather, rubber",residual,O,%TS,34.0555,34.0555,MSW_URB_TEX
+"textiles, leather, rubber",residual,P,mg/kgTS,378.41,378.41,MSW_URB_TEX
+"textiles, leather, rubber",residual,Pb,mg/kgTS,78.5426,78.5426,MSW_URB_TEX
+"textiles, leather, rubber",residual,Pd,mg/kgTS,0.064067,0.064067,MSW_URB_TEX
+"textiles, leather, rubber",residual,Pr,mg/kgTS,0.24361,0.24361,MSW_URB_TEX
+"textiles, leather, rubber",residual,Pt,mg/kgTS,0.061389,0.061389,MSW_URB_TEX
+"textiles, leather, rubber",residual,Rb,mg/kgTS,2.5852,2.5852,MSW_URB_TEX
+"textiles, leather, rubber",residual,Re,mg/kgTS,0.068556,0.068556,MSW_URB_TEX
+"textiles, leather, rubber",residual,Rh,mg/kgTS,0.003578,0.003578,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ru,mg/kgTS,0.031722,0.031722,MSW_URB_TEX
+"textiles, leather, rubber",residual,S,mg/kgTS,6346.9,6346.9,MSW_URB_TEX
+"textiles, leather, rubber",residual,Sb,mg/kgTS,53.1209,53.1209,MSW_URB_TEX
+"textiles, leather, rubber",residual,Sc,mg/kgTS,0.41546,0.41546,MSW_URB_TEX
+"textiles, leather, rubber",residual,Se,mg/kgTS,48.551,48.551,MSW_URB_TEX
+"textiles, leather, rubber",residual,Si,mg/kgTS,13024.0,13024.0,MSW_URB_TEX
+"textiles, leather, rubber",residual,Sm,mg/kgTS,0.11298,0.11298,MSW_URB_TEX
+"textiles, leather, rubber",residual,Sn,mg/kgTS,7.0757,7.0757,MSW_URB_TEX
+"textiles, leather, rubber",residual,Sr,mg/kgTS,28.898,28.898,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ta,mg/kgTS,0.1805,0.1805,MSW_URB_TEX
+"textiles, leather, rubber",residual,Tb,mg/kgTS,0.021044,0.021044,MSW_URB_TEX
+"textiles, leather, rubber",residual,Th,mg/kgTS,0.39837,0.39837,MSW_URB_TEX
+"textiles, leather, rubber",residual,Ti,mg/kgTS,1387.93,1387.93,MSW_URB_TEX
+"textiles, leather, rubber",residual,Tl,mg/kgTS,0.374489,0.374489,MSW_URB_TEX
+"textiles, leather, rubber",residual,Tm,mg/kgTS,0.009478,0.009478,MSW_URB_TEX
+"textiles, leather, rubber",residual,U,mg/kgTS,0.10882,0.10882,MSW_URB_TEX
+"textiles, leather, rubber",residual,V,mg/kgTS,4.2847,4.2847,MSW_URB_TEX
+"textiles, leather, rubber",residual,VS,%TS,90.8233,90.8233,MSW_URB_TEX
+"textiles, leather, rubber",residual,W,mg/kgTS,1.32242,1.32242,MSW_URB_TEX
+"textiles, leather, rubber",residual,Yb,mg/kgTS,0.060389,0.060389,MSW_URB_TEX
+"textiles, leather, rubber",residual,Zn,mg/kgTS,2407.66,2407.66,MSW_URB_TEX
+"textiles, leather, rubber",residual,Zr,mg/kgTS,10.586,10.586,MSW_URB_TEX
+"textiles, leather, rubber",residual,ash,%TS,9.1767,9.1767,MSW_URB_TEX
+wood,residual,Ag,mg/kgTS,84.9023,84.9023,MSW_URB_WOOD
+wood,residual,Al,mg/kgTS,251.3,251.3,MSW_URB_WOOD
+wood,residual,As,mg/kgTS,44.6288,44.6288,MSW_URB_WOOD
+wood,residual,Au,mg/kgTS,0.051033,0.051033,MSW_URB_WOOD
+wood,residual,Ba,mg/kgTS,45.1,45.1,MSW_URB_WOOD
+wood,residual,Be,mg/kgTS,1.99827,1.99827,MSW_URB_WOOD
+wood,residual,Br,%TS,0.001,0.001,MSW_URB_WOOD
+wood,residual,C,%TS,48.12,48.12,MSW_URB_WOOD
+wood,residual,Ca,mg/kgTS,1946.2,1946.2,MSW_URB_WOOD
+wood,residual,Cd,mg/kgTS,0.39603,0.39603,MSW_URB_WOOD
+wood,residual,Ce,mg/kgTS,0.3194,0.3194,MSW_URB_WOOD
+wood,residual,Cl,%TS,0.0665,0.0665,MSW_URB_WOOD
+wood,residual,Co,mg/kgTS,1.39303,1.39303,MSW_URB_WOOD
+wood,residual,Cr,mg/kgTS,64.16,64.16,MSW_URB_WOOD
+wood,residual,Cs,mg/kgTS,0.58413,0.58413,MSW_URB_WOOD
+wood,residual,Cu,mg/kgTS,47.037,47.037,MSW_URB_WOOD
+wood,residual,Dy,mg/kgTS,0.01053,0.01053,MSW_URB_WOOD
+wood,residual,Er,mg/kgTS,0.021033,0.021033,MSW_URB_WOOD
+wood,residual,Eu,mg/kgTS,0.009433,0.009433,MSW_URB_WOOD
+wood,residual,F,%TS,0.001,0.001,MSW_URB_WOOD
+wood,residual,Fe,mg/kgTS,4682.6,4682.6,MSW_URB_WOOD
+wood,residual,Ga,mg/kgTS,1.0953,1.0953,MSW_URB_WOOD
+wood,residual,Gd,mg/kgTS,0.01213,0.01213,MSW_URB_WOOD
+wood,residual,Ge,mg/kgTS,0.1664,0.1664,MSW_URB_WOOD
+wood,residual,H,%TS,6.76425,6.76425,MSW_URB_WOOD
+wood,residual,HHV,MJ/kgTS,19.1627,19.1627,MSW_URB_WOOD
+wood,residual,Hf,mg/kgTS,0.0845,0.0845,MSW_URB_WOOD
+wood,residual,Hg,μg/kgTS,8.933,8.933,MSW_URB_WOOD
+wood,residual,Ho,mg/kgTS,0.0045,0.0045,MSW_URB_WOOD
+wood,residual,In,mg/kgTS,0.009933,0.009933,MSW_URB_WOOD
+wood,residual,Ir,mg/kgTS,0.104433,0.104433,MSW_URB_WOOD
+wood,residual,K,mg/kgTS,834.3,834.3,MSW_URB_WOOD
+wood,residual,LHV,MJ/kgTS,17.676661917500002,17.676661917500002,MSW_URB_WOOD
+wood,residual,La,mg/kgTS,0.0723,0.0723,MSW_URB_WOOD
+wood,residual,Li,mg/kgTS,1.7635,1.7635,MSW_URB_WOOD
+wood,residual,Lu,mg/kgTS,0.0068,0.0068,MSW_URB_WOOD
+wood,residual,Mg,mg/kgTS,363.63,363.63,MSW_URB_WOOD
+wood,residual,Mn,mg/kgTS,105.917,105.917,MSW_URB_WOOD
+wood,residual,Mo,mg/kgTS,0.72343,0.72343,MSW_URB_WOOD
+wood,residual,N,%TS,1.1675,1.1675,MSW_URB_WOOD
+wood,residual,Na,mg/kgTS,621.9,621.9,MSW_URB_WOOD
+wood,residual,Nb,mg/kgTS,0.6008,0.6008,MSW_URB_WOOD
+wood,residual,Nd,mg/kgTS,0.0207,0.0207,MSW_URB_WOOD
+wood,residual,Ni,mg/kgTS,11.079,11.079,MSW_URB_WOOD
+wood,residual,O,%TS,45.6883,45.6883,MSW_URB_WOOD
+wood,residual,P,mg/kgTS,121.28,121.28,MSW_URB_WOOD
+wood,residual,Pb,mg/kgTS,6.8549,6.8549,MSW_URB_WOOD
+wood,residual,Pd,mg/kgTS,0.065333,0.065333,MSW_URB_WOOD
+wood,residual,Pr,mg/kgTS,0.00647,0.00647,MSW_URB_WOOD
+wood,residual,Pt,mg/kgTS,0.062667,0.062667,MSW_URB_WOOD
+wood,residual,Rb,mg/kgTS,1.8265,1.8265,MSW_URB_WOOD
+wood,residual,Re,mg/kgTS,0.069933,0.069933,MSW_URB_WOOD
+wood,residual,Rh,mg/kgTS,0.001767,0.001767,MSW_URB_WOOD
+wood,residual,Ru,mg/kgTS,0.032333,0.032333,MSW_URB_WOOD
+wood,residual,S,mg/kgTS,4172.1,4172.1,MSW_URB_WOOD
+wood,residual,Sb,mg/kgTS,0.9717,0.9717,MSW_URB_WOOD
+wood,residual,Sc,mg/kgTS,0.11653,0.11653,MSW_URB_WOOD
+wood,residual,Se,mg/kgTS,49.5306,49.5306,MSW_URB_WOOD
+wood,residual,Si,mg/kgTS,6275.0,6275.0,MSW_URB_WOOD
+wood,residual,Sm,mg/kgTS,0.03143,0.03143,MSW_URB_WOOD
+wood,residual,Sn,mg/kgTS,1.7063,1.7063,MSW_URB_WOOD
+wood,residual,Sr,mg/kgTS,8.575,8.575,MSW_URB_WOOD
+wood,residual,Ta,mg/kgTS,0.0801,0.0801,MSW_URB_WOOD
+wood,residual,Tb,mg/kgTS,0.003533,0.003533,MSW_URB_WOOD
+wood,residual,Th,mg/kgTS,0.01703,0.01703,MSW_URB_WOOD
+wood,residual,Ti,mg/kgTS,557.23,557.23,MSW_URB_WOOD
+wood,residual,Tl,mg/kgTS,0.382033,0.382033,MSW_URB_WOOD
+wood,residual,Tm,mg/kgTS,0.009667,0.009667,MSW_URB_WOOD
+wood,residual,U,mg/kgTS,0.00583,0.00583,MSW_URB_WOOD
+wood,residual,V,mg/kgTS,0.6838,0.6838,MSW_URB_WOOD
+wood,residual,VS,%TS,98.4767,98.4767,MSW_URB_WOOD
+wood,residual,W,mg/kgTS,0.8128,0.8128,MSW_URB_WOOD
+wood,residual,Yb,mg/kgTS,0.011133,0.011133,MSW_URB_WOOD
+wood,residual,Zn,mg/kgTS,98.59,98.59,MSW_URB_WOOD
+wood,residual,Zr,mg/kgTS,3.364,3.364,MSW_URB_WOOD
+wood,residual,ash,%TS,1.5233,1.5233,MSW_URB_WOOD
+"textiles, leather, rubber",source-segegated,Ag,mg/kgTS,83.4608,83.4608,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Al,mg/kgTS,6403.6,6403.6,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,As,mg/kgTS,4.0908,4.0908,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Au,mg/kgTS,0.050144,0.050144,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ba,mg/kgTS,1558.73,1558.73,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Be,mg/kgTS,1.96432,1.96432,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Br,%TS,0.016233,0.016233,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,C,%TS,57.53,57.53,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ca,mg/kgTS,18520.9,18520.9,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Cd,mg/kgTS,0.86771,0.86771,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ce,mg/kgTS,0.9875,0.9875,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Cl,%TS,3.6425,3.6425,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Co,mg/kgTS,6.14212,6.14212,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Cr,mg/kgTS,219.156,219.156,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Cs,mg/kgTS,0.6021,0.6021,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Cu,mg/kgTS,306.035,306.035,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Dy,mg/kgTS,0.03093,0.03093,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Er,mg/kgTS,0.021444,0.021444,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Eu,mg/kgTS,0.0274,0.0274,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,F,%TS,0.0083,0.0083,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Fe,mg/kgTS,1566.6,1566.6,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ga,mg/kgTS,31.6765,31.6765,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Gd,mg/kgTS,0.08604,0.08604,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ge,mg/kgTS,0.163567,0.163567,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,H,%TS,7.04133,7.04133,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,HHV,MJ/kgTS,25.2735,25.2735,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Hf,mg/kgTS,0.0931,0.0931,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Hg,μg/kgTS,5.067,5.067,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ho,mg/kgTS,0.004433,0.004433,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,In,mg/kgTS,0.011433,0.011433,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ir,mg/kgTS,0.102656,0.102656,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,K,mg/kgTS,299.8,299.8,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,LHV,MJ/kgTS,23.7265902123,23.7265902123,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,La,mg/kgTS,0.5162,0.5162,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Li,mg/kgTS,1.7806,1.7806,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Lu,mg/kgTS,0.006667,0.006667,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Mg,mg/kgTS,1366.14,1366.14,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Mn,mg/kgTS,32.261,32.261,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Mo,mg/kgTS,1.63482,1.63482,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,N,%TS,3.33667,3.33667,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Na,mg/kgTS,546.1,546.1,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Nb,mg/kgTS,7.1406,7.1406,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Nd,mg/kgTS,0.4504,0.4504,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ni,mg/kgTS,26.54,26.54,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,O,%TS,23.5745,23.5745,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,P,mg/kgTS,157.02,157.02,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Pb,mg/kgTS,21.1373,21.1373,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Pd,mg/kgTS,0.066189,0.066189,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Pr,mg/kgTS,0.12494,0.12494,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Pt,mg/kgTS,0.061567,0.061567,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Rb,mg/kgTS,1.9344,1.9344,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Re,mg/kgTS,0.068733,0.068733,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Rh,mg/kgTS,0.003867,0.003867,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ru,mg/kgTS,0.031811,0.031811,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,S,mg/kgTS,3753.4,3753.4,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Sb,mg/kgTS,52.839,52.839,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Sc,mg/kgTS,0.22638,0.22638,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Se,mg/kgTS,48.6897,48.6897,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Si,mg/kgTS,8386.0,8386.0,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Sm,mg/kgTS,0.05956,0.05956,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Sn,mg/kgTS,17.4731,17.4731,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Sr,mg/kgTS,47.902,47.902,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ta,mg/kgTS,0.43937,0.43937,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Tb,mg/kgTS,0.010356,0.010356,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Th,mg/kgTS,0.11447,0.11447,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Ti,mg/kgTS,2088.41,2088.41,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Tl,mg/kgTS,0.375544,0.375544,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Tm,mg/kgTS,0.0095,0.0095,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,U,mg/kgTS,0.09292,0.09292,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,V,mg/kgTS,2.0189,2.0189,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,VS,%TS,89.8733,89.8733,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,W,mg/kgTS,7.22086,7.22086,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Yb,mg/kgTS,0.0219,0.0219,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Zn,mg/kgTS,2402.47,2402.47,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,Zr,mg/kgTS,3.216,3.216,MSW_URB_TEX
+"textiles, leather, rubber",source-segegated,ash,%TS,10.1267,10.1267,MSW_URB_TEX
