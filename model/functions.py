@@ -1,5 +1,4 @@
 import pandas as pd
-from model.scenarios import get_dis_until2050, get_rcy_until2050
 import numpy as np
 
 def log_fit_fun(x,fit_params):
@@ -184,7 +183,7 @@ def con_3(params, years):
     #constraint: I<1
     return (1-estimate_incineration(params, years))
 def con_4(params, years):
-   """
+    """
     Constraint function enforcing that disposal plus recycling remains below 1.
 
     Ensures the residual incineration share is less than 1.
@@ -192,7 +191,7 @@ def con_4(params, years):
     #constraint: D+R<1
     return (1-model_D_R(params[:3], years)-model_D_R(params[3:], years))
 
-#%% REC and CIR scenario estimations
+#%% REC scenario estimations
 
 def value_at_2035(bau_data, treatment_method):
     """
@@ -290,39 +289,79 @@ def check_value_at_2035(bau_data, treatment_method, limit):
     return condition
 
 
-def get_rec_data(bau_data, treatment_method, limit, rec_data=[]):
+def get_rec_data(bau_data, treatment_method, limit=None, rec_data=None):
     """
     Return the scenario data for the requested treatment method over 2021-2050.
 
-    If the BAU path already meets the 2035 target, the BAU series is returned unchanged.
-    Otherwise, an adjusted trajectory is generated through 2050.
+    For recycling and disposal, the returned series is either the same as BAU path
+    if the 2035 target is already met, or an adjusted trajectory if the target
+    is not met.
+
+    For incineration, the trajectory is derived as the residual share from
+    recycling and disposal: 1 - RCY% - DIS%.
 
     Parameters
     ----------
     bau_data : pandas.DataFrame
         BAU scenario data containing TIME and treatment method values.
     treatment_method : str
-        Column name for the treatment method, either 'RCY%' or 'DIS%'.
+        Column name for the treatment method, either 'RCY%', 'DIS%', or 'INC%'.
     limit : float
         Target value for the treatment method in 2035 (e.g. 0.65 for recycling, 0.1 for disposal).
+        limit is not used for incineration since it is derived as a residual.
+    rec_data : pandas.DataFrame, optional
+        Required only for 'INC%'. Must contain 'RCY%' and 'DIS%' columns.
+
     Returns
     -------
     pandas.DataFrame
         DataFrame with TIME from 2021 to 2050 and the selected treatment method values.
+
+    Raises
+    ------
+    ValueError
+        If treatment_method is 'INC%' and rec_data is not provided or is missing
+        required columns.
     """
-    condition = check_value_at_2035(bau_data, treatment_method, limit)
-    if treatment_method != 'INC%':
+    if treatment_method == 'INC%':
+        if rec_data is None:
+            raise ValueError("Recycling and disposal data must be provided to compute the incineration trajectory.")
+        if not {'RCY%', 'DIS%'}.issubset(rec_data.columns):
+            raise ValueError("rec_data must contain 'RCY%' and 'DIS%' columns for incineration.")
+        output = pd.DataFrame({'TIME': np.arange(2021, 2051)})
+        output['INC%'] = 1 - rec_data['RCY%'] - rec_data['DIS%']
+    else:
+        condition = check_value_at_2035(bau_data, treatment_method, limit)
         if condition:
-            rec_data = bau_data[['TIME', treatment_method]].loc[bau_data['TIME'].isin(np.arange(2021, 2051))]
+            output = bau_data[['TIME', treatment_method]].loc[bau_data['TIME'].isin(np.arange(2021, 2051))]
         else:
-            rec_data = get_treatment_until2050(bau_data, treatment_method, limit)
-            rec_data.reset_index(drop=True, inplace=True)
-    elif treatment_method == 'INC%':
-            if rec_data==[]:
-                print("Error: Recycling and disposal data needed to compute the incineration trajectory.")
-                break
-            else:
-            rec_data = pd.DataFrame(columns = ['TIME','INC%'])
-            rec_data["TIME"]= np.arange(2021,2051)
-            rec_data['INC%'] = 1 - bau_data['RCY%'] - bau_data['DIS%']
-    return rec_data
+            output = get_treatment_until2050(bau_data, treatment_method, limit)
+            output.reset_index(drop=True, inplace=True)
+    return output
+
+#%% CIR scenario estimation
+
+def cir_msw_total(bau_data, diff_from_bau_2050):
+    """
+    Create a CIR scenario MSW generation projection through 2050.
+
+    Parameters
+    ----------
+    bau_data : pandas.DataFrame
+        BAU scenario data containing `TIME` and `MSW_GEN_T`.
+    diff_from_bau_2050 : float
+        Proportional reduction target from BAU by 2050 (e.g. 0.1 for 10%).
+
+    Returns
+    -------
+    pandas.DataFrame
+        DataFrame with `TIME` from 2021 to 2050 and the adjusted
+        `MSW_GEN_T` values under the CIR scenario.
+    """
+    msw_total_data = pd.DataFrame(columns = ['TIME','MSW_GEN_T'])
+    differences_from_2021 = pd.DataFrame({'TIME':np.arange(2021,2051),'Difference':  np.linspace(0, diff_from_bau_2050, 30)}) #30=2050-2021+1
+    
+    msw_total_data['TIME'] = np.arange(2021,2051)
+    msw_total_data['MSW_GEN_T']= bau_data["MSW_GEN_T"].loc[bau_data['TIME'].isin(np.arange(2021,2051))].reset_index(drop=True) * (1-differences_from_2021['Difference'])
+    
+    return msw_total_data
