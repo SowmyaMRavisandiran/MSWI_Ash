@@ -8,49 +8,55 @@ Created on Wed May 15 16:59:45 2024
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-file_name = "Data_Structure_Task4.1_Task4.2_BAU.csv"
 
 
-ash_data = pd.read_csv(file_name)
+def get_region_data(data, region, column_name):
+    return data.loc[data[column_name] == region]
 
-country_codes = pd.read_csv('data_saved/Country_Codes.csv')
+def plot_trends_ax(ax, bau_data, scenarios, columns, historic_labels, bau_labels, colors, title, ylabel):
+    for col_idx, (col, h_label, b_label, color) in enumerate(zip(columns, historic_labels, bau_labels, colors)):
+        ax.plot(bau_data.loc[bau_data['TIME'] <= 2021]['TIME'],
+                bau_data.loc[bau_data['TIME'] <= 2021][col],
+                'o', label=h_label, color=color)
 
-ash_data_obs = ash_data.loc[ash_data["Scenario"]=='OBS']
-obs_ba = ash_data_obs.loc[ash_data_obs["Substance main parent"]=='19 01 11*']
+        x = np.arange(2010, 2051)
+        ax.plot(x, bau_data[col].loc[bau_data['TIME'].isin(x)],
+                '-', label=b_label, color=color)
 
-# Plotting
-plt.figure(figsize=(10, 6))
+        for scenario_data, scenario_labels, style in scenarios:
+            ax.plot(scenario_data.loc[scenario_data['TIME'] >= 2022]['TIME'],
+                    scenario_data.loc[scenario_data['TIME'] >= 2022][col],
+                    style, label=scenario_labels[col_idx], color=color)
 
-for index,row in country_codes[:-1].iterrows():
-    data = obs_ba.loc[obs_ba['Country']==row['NUTS_code']]
-
-    plt.plot(data['Year'], data['Value'], label= row['Country'])
-
-plt.xlabel('Year')
-plt.ylabel('Ash Quantities in tonnes')
-plt.title('Incineration Bottom Ash Quantities by Country')
-plt.legend(loc='upper left', bbox_to_anchor=(1.05, 1), title="Countries", ncol=2, fontsize='small')
-plt.grid(True)
-
-# Adjust layout to make room for the legend
-plt.tight_layout(rect=[0, 0, 0.85, 1])
-
-plt.show()
+    ax.set_xlabel('Years')
+    ax.set_ylabel(ylabel)
+    ax.set_title(title)
 
 
-plt.figure(figsize=(10, 6))
-eu_data = ash_data.loc[(ash_data['Country']=='EU27+4')]
-for i in ash_data['Stock/Flow ID'].unique():
-    data = eu_data.loc[eu_data['Stock/Flow ID']==i]
+def plot_countries_subplots(countries, bau_df, rec_df, cir_df, columns, historic_labels, bau_labels, colors, title_template, ylabel):
+    n = len(countries)
+    ncols = 2
+    nrows = int(np.ceil(n / ncols))
+    fig, axes = plt.subplots(nrows, ncols, figsize=(12, 4 * nrows), sharex=True, sharey=True)
+    axes = axes.flatten()
 
-    plt.plot(data['Year'], data['Value'], label= i)
+    scenarios = [
+        (rec_df, [f'{lab} REC' for lab in bau_labels], '--'),
+        (cir_df, [f'{lab} CIR' for lab in bau_labels], '--')
+    ]
 
-plt.xlabel('Year')
-plt.ylabel('Ash Quantities in tonnes')
-plt.title('Projections of Ash quantities for EU27+4 (BAU)')
-plt.legend(loc='center right', title="Ash Type")
+    for ax, country in zip(axes, countries):
+        bau_country = bau_df[bau_df['LOCATION'] == country]
+        rec_country = rec_df[rec_df['LOCATION'] == country]
+        cir_country = cir_df[cir_df['LOCATION'] == country]
 
-# Adjust layout to make room for the legend
-plt.tight_layout(rect=[0, 0, 0.85, 1])
+        plot_trends_ax(ax, bau_country, scenarios, columns, historic_labels, bau_labels, colors,
+                       title_template.format(country=country), ylabel)
 
-plt.show()
+        ax.legend(fontsize=7, loc='upper center', bbox_to_anchor=(0.5, -0.15), ncol=2)
+
+    for ax in axes[n:]:
+        ax.axis('off')
+
+    fig.tight_layout()
+    plt.show()

@@ -1,0 +1,4166 @@
+unit,Geopolitical entity (reporting),TIME_PERIOD,category code,OBS_VALUE,Aggregated category name,NUTS_code
+T,Albania,2014,W10,1228884.0,mixed waste,
+T,Austria,2004,W01-05,8159.0,chemical and medical,AUT
+T,Austria,2004,W071,185802.0,glass,AUT
+T,Austria,2004,W072,601100.0,paper,AUT
+T,Austria,2004,W074,127000.0,plastic,AUT
+T,Austria,2004,W075,121305.0,wood,AUT
+T,Austria,2004,W077_08,65978.0,weee + batt + vehicles,AUT
+T,Austria,2004,W09,0.0,organic waste,AUT
+T,Austria,2004,W10,1631194.0,mixed waste,AUT
+T,Austria,2004,W11,0.0,common sludges,AUT
+T,Austria,2004,W12-13,0.0,mineral waste,AUT
+T,Austria,2006,W01-05,8054.0,chemical and medical,AUT
+T,Austria,2006,W071,195400.0,glass,AUT
+T,Austria,2006,W072,654800.0,paper,AUT
+T,Austria,2006,W074,129200.0,plastic,AUT
+T,Austria,2006,W075,142960.0,wood,AUT
+T,Austria,2006,W077_08,92858.0,weee + batt + vehicles,AUT
+T,Austria,2006,W09,0.0,organic waste,AUT
+T,Austria,2006,W10,1688157.0,mixed waste,AUT
+T,Austria,2006,W11,0.0,common sludges,AUT
+T,Austria,2006,W12-13,0.0,mineral waste,AUT
+T,Austria,2008,W01-05,7734.0,chemical and medical,AUT
+T,Austria,2008,W071,208461.0,glass,AUT
+T,Austria,2008,W072,703784.0,paper,AUT
+T,Austria,2008,W074,142013.0,plastic,AUT
+T,Austria,2008,W075,162901.0,wood,AUT
+T,Austria,2008,W077_08,96216.0,weee + batt + vehicles,AUT
+T,Austria,2008,W09,0.0,organic waste,AUT
+T,Austria,2008,W10,1643285.0,mixed waste,AUT
+T,Austria,2008,W11,0.0,common sludges,AUT
+T,Austria,2008,W12-13,0.0,mineral waste,AUT
+T,Austria,2010,W01-05,8115.0,chemical and medical,AUT
+T,Austria,2010,W06,117400.0,metal,AUT
+T,Austria,2010,W071,222851.0,glass,AUT
+T,Austria,2010,W072,677000.0,paper,AUT
+T,Austria,2010,W074,151456.0,plastic,AUT
+T,Austria,2010,W075,197204.0,wood,AUT
+T,Austria,2010,W077_08,88985.0,weee + batt + vehicles,AUT
+T,Austria,2010,W09,464120.0,organic waste,AUT
+T,Austria,2010,W10,1519578.0,mixed waste,AUT
+T,Austria,2010,W11,440.0,common sludges,AUT
+T,Austria,2010,W12-13,1132621.0,mineral waste,AUT
+T,Austria,2012,W01-05,14160.0,chemical and medical,AUT
+T,Austria,2012,W06,117196.0,metal,AUT
+T,Austria,2012,W071,221230.0,glass,AUT
+T,Austria,2012,W072,638564.0,paper,AUT
+T,Austria,2012,W074,152657.0,plastic,AUT
+T,Austria,2012,W075,220888.0,wood,AUT
+T,Austria,2012,W077_08,80573.0,weee + batt + vehicles,AUT
+T,Austria,2012,W09,878231.0,organic waste,AUT
+T,Austria,2012,W10,1667267.0,mixed waste,AUT
+T,Austria,2012,W11,0.0,common sludges,AUT
+T,Austria,2012,W12-13,0.0,mineral waste,AUT
+T,Austria,2014,W01-05,14411.0,chemical and medical,AUT
+T,Austria,2014,W06,114918.0,metal,AUT
+T,Austria,2014,W071,227143.0,glass,AUT
+T,Austria,2014,W072,677600.0,paper,AUT
+T,Austria,2014,W074,164240.0,plastic,AUT
+T,Austria,2014,W075,234184.0,wood,AUT
+T,Austria,2014,W077_08,80803.0,weee + batt + vehicles,AUT
+T,Austria,2014,W09,936360.0,organic waste,AUT
+T,Austria,2014,W10,1687166.0,mixed waste,AUT
+T,Austria,2014,W11,0.0,common sludges,AUT
+T,Austria,2014,W12-13,8.0,mineral waste,AUT
+T,Austria,2016,W01-05,14717.0,chemical and medical,AUT
+T,Austria,2016,W06,122897.0,metal,AUT
+T,Austria,2016,W071,223975.0,glass,AUT
+T,Austria,2016,W072,655631.0,paper,AUT
+T,Austria,2016,W074,168877.0,plastic,AUT
+T,Austria,2016,W075,253958.0,wood,AUT
+T,Austria,2016,W077_08,87115.0,weee + batt + vehicles,AUT
+T,Austria,2016,W09,1018113.0,organic waste,AUT
+T,Austria,2016,W10,1683308.0,mixed waste,AUT
+T,Austria,2016,W11,0.0,common sludges,AUT
+T,Austria,2016,W12-13,0.0,mineral waste,AUT
+T,Austria,2018,W01-05,13171.0,chemical and medical,AUT
+T,Austria,2018,W06,124347.0,metal,AUT
+T,Austria,2018,W071,236091.0,glass,AUT
+T,Austria,2018,W072,654178.0,paper,AUT
+T,Austria,2018,W074,176528.0,plastic,AUT
+T,Austria,2018,W075,283696.0,wood,AUT
+T,Austria,2018,W077_08,119549.0,weee + batt + vehicles,AUT
+T,Austria,2018,W09,1038854.0,organic waste,AUT
+T,Austria,2018,W10,1722103.0,mixed waste,AUT
+T,Austria,2018,W11,0.0,common sludges,AUT
+T,Austria,2018,W12-13,1.0,mineral waste,AUT
+T,Austria,2020,W01-05,14593.0,chemical and medical,AUT
+T,Austria,2020,W06,142057.0,metal,AUT
+T,Austria,2020,W071,260145.0,glass,AUT
+T,Austria,2020,W072,624853.0,paper,AUT
+T,Austria,2020,W074,185931.0,plastic,AUT
+T,Austria,2020,W075,292962.0,wood,AUT
+T,Austria,2020,W077_08,142068.0,weee + batt + vehicles,AUT
+T,Austria,2020,W09,1142547.0,organic waste,AUT
+T,Austria,2020,W10,1786814.0,mixed waste,AUT
+T,Austria,2020,W11,0.0,common sludges,AUT
+T,Austria,2020,W12-13,2.0,mineral waste,AUT
+T,Austria,2022,W01-05,14160.0,chemical and medical,AUT
+T,Austria,2022,W06,114451.0,metal,AUT
+T,Austria,2022,W071,264135.0,glass,AUT
+T,Austria,2022,W072,601648.0,paper,AUT
+T,Austria,2022,W074,185393.0,plastic,AUT
+T,Austria,2022,W075,250899.0,wood,AUT
+T,Austria,2022,W077_08,139963.0,weee + batt + vehicles,AUT
+T,Austria,2022,W09,1102121.0,organic waste,AUT
+T,Austria,2022,W10,1747312.0,mixed waste,AUT
+T,Austria,2022,W11,0.0,common sludges,AUT
+T,Austria,2022,W12-13,0.0,mineral waste,AUT
+T,Bosnia and Herzegovina,2012,W01-05,0.0,chemical and medical,
+T,Bosnia and Herzegovina,2012,W06,0.0,metal,
+T,Bosnia and Herzegovina,2012,W071,0.0,glass,
+T,Bosnia and Herzegovina,2012,W072,0.0,paper,
+T,Bosnia and Herzegovina,2012,W074,0.0,plastic,
+T,Bosnia and Herzegovina,2012,W075,0.0,wood,
+T,Bosnia and Herzegovina,2012,W077_08,0.0,weee + batt + vehicles,
+T,Bosnia and Herzegovina,2012,W09,0.0,organic waste,
+T,Bosnia and Herzegovina,2012,W10,0.0,mixed waste,
+T,Bosnia and Herzegovina,2012,W11,0.0,common sludges,
+T,Bosnia and Herzegovina,2012,W12-13,0.0,mineral waste,
+T,Bosnia and Herzegovina,2018,W01-05,0.0,chemical and medical,
+T,Bosnia and Herzegovina,2018,W06,909.0,metal,
+T,Bosnia and Herzegovina,2018,W071,4583.0,glass,
+T,Bosnia and Herzegovina,2018,W072,21468.0,paper,
+T,Bosnia and Herzegovina,2018,W074,7182.0,plastic,
+T,Bosnia and Herzegovina,2018,W075,399.0,wood,
+T,Bosnia and Herzegovina,2018,W077_08,0.0,weee + batt + vehicles,
+T,Bosnia and Herzegovina,2018,W09,26214.0,organic waste,
+T,Bosnia and Herzegovina,2018,W10,845335.0,mixed waste,
+T,Bosnia and Herzegovina,2018,W11,2105.0,common sludges,
+T,Bosnia and Herzegovina,2018,W12-13,6636.0,mineral waste,
+T,Bosnia and Herzegovina,2020,W01-05,1845.0,chemical and medical,
+T,Bosnia and Herzegovina,2020,W06,846.0,metal,
+T,Bosnia and Herzegovina,2020,W071,3673.0,glass,
+T,Bosnia and Herzegovina,2020,W072,16962.0,paper,
+T,Bosnia and Herzegovina,2020,W074,5445.0,plastic,
+T,Bosnia and Herzegovina,2020,W075,3734.0,wood,
+T,Bosnia and Herzegovina,2020,W077_08,0.0,weee + batt + vehicles,
+T,Bosnia and Herzegovina,2020,W09,26208.0,organic waste,
+T,Bosnia and Herzegovina,2020,W10,850385.0,mixed waste,
+T,Bosnia and Herzegovina,2020,W11,2237.0,common sludges,
+T,Bosnia and Herzegovina,2020,W12-13,7878.0,mineral waste,
+T,Bosnia and Herzegovina,2022,W01-05,1476.0,chemical and medical,
+T,Bosnia and Herzegovina,2022,W06,876.0,metal,
+T,Bosnia and Herzegovina,2022,W071,3384.0,glass,
+T,Bosnia and Herzegovina,2022,W072,12834.0,paper,
+T,Bosnia and Herzegovina,2022,W074,3832.0,plastic,
+T,Bosnia and Herzegovina,2022,W075,3266.0,wood,
+T,Bosnia and Herzegovina,2022,W077_08,34.0,weee + batt + vehicles,
+T,Bosnia and Herzegovina,2022,W09,14430.0,organic waste,
+T,Bosnia and Herzegovina,2022,W10,879532.0,mixed waste,
+T,Bosnia and Herzegovina,2022,W11,1813.0,common sludges,
+T,Bosnia and Herzegovina,2022,W12-13,3761.0,mineral waste,
+T,Belgium,2004,W01-05,15814.0,chemical and medical,BEL
+T,Belgium,2004,W071,245968.0,glass,BEL
+T,Belgium,2004,W072,506505.0,paper,BEL
+T,Belgium,2004,W074,50564.0,plastic,BEL
+T,Belgium,2004,W075,243154.0,wood,BEL
+T,Belgium,2004,W077_08,212990.0,weee + batt + vehicles,BEL
+T,Belgium,2004,W09,0.0,organic waste,BEL
+T,Belgium,2004,W10,1790209.0,mixed waste,BEL
+T,Belgium,2004,W11,0.0,common sludges,BEL
+T,Belgium,2004,W12-13,11794.0,mineral waste,BEL
+T,Belgium,2006,W01-05,11533.0,chemical and medical,BEL
+T,Belgium,2006,W071,309564.0,glass,BEL
+T,Belgium,2006,W072,667422.0,paper,BEL
+T,Belgium,2006,W074,110367.0,plastic,BEL
+T,Belgium,2006,W075,211495.0,wood,BEL
+T,Belgium,2006,W077_08,228033.0,weee + batt + vehicles,BEL
+T,Belgium,2006,W09,0.0,organic waste,BEL
+T,Belgium,2006,W10,1527324.0,mixed waste,BEL
+T,Belgium,2006,W11,1275.0,common sludges,BEL
+T,Belgium,2006,W12-13,0.0,mineral waste,BEL
+T,Belgium,2008,W01-05,17674.0,chemical and medical,BEL
+T,Belgium,2008,W071,305423.0,glass,BEL
+T,Belgium,2008,W072,670512.0,paper,BEL
+T,Belgium,2008,W074,102297.0,plastic,BEL
+T,Belgium,2008,W075,235856.0,wood,BEL
+T,Belgium,2008,W077_08,215341.0,weee + batt + vehicles,BEL
+T,Belgium,2008,W09,0.0,organic waste,BEL
+T,Belgium,2008,W10,1666524.0,mixed waste,BEL
+T,Belgium,2008,W11,0.0,common sludges,BEL
+T,Belgium,2008,W12-13,0.0,mineral waste,BEL
+T,Belgium,2010,W01-05,18662.0,chemical and medical,BEL
+T,Belgium,2010,W06,104586.0,metal,BEL
+T,Belgium,2010,W071,330316.0,glass,BEL
+T,Belgium,2010,W072,789769.0,paper,BEL
+T,Belgium,2010,W074,119392.0,plastic,BEL
+T,Belgium,2010,W075,246612.0,wood,BEL
+T,Belgium,2010,W077_08,259470.0,weee + batt + vehicles,BEL
+T,Belgium,2010,W09,1198636.0,organic waste,BEL
+T,Belgium,2010,W10,2020011.0,mixed waste,BEL
+T,Belgium,2010,W11,0.0,common sludges,BEL
+T,Belgium,2010,W12-13,691145.0,mineral waste,BEL
+T,Belgium,2012,W01-05,18914.0,chemical and medical,BEL
+T,Belgium,2012,W06,94073.0,metal,BEL
+T,Belgium,2012,W071,326931.0,glass,BEL
+T,Belgium,2012,W072,777126.0,paper,BEL
+T,Belgium,2012,W074,112624.0,plastic,BEL
+T,Belgium,2012,W075,248665.0,wood,BEL
+T,Belgium,2012,W077_08,263387.0,weee + batt + vehicles,BEL
+T,Belgium,2012,W09,1098995.0,organic waste,BEL
+T,Belgium,2012,W10,1543242.0,mixed waste,BEL
+T,Belgium,2012,W11,11499.0,common sludges,BEL
+T,Belgium,2012,W12-13,716067.0,mineral waste,BEL
+T,Belgium,2014,W01-05,18395.0,chemical and medical,BEL
+T,Belgium,2014,W06,89959.0,metal,BEL
+T,Belgium,2014,W071,330006.0,glass,BEL
+T,Belgium,2014,W072,704912.0,paper,BEL
+T,Belgium,2014,W074,117952.0,plastic,BEL
+T,Belgium,2014,W075,248857.0,wood,BEL
+T,Belgium,2014,W077_08,261636.0,weee + batt + vehicles,BEL
+T,Belgium,2014,W09,963126.0,organic waste,BEL
+T,Belgium,2014,W10,1977703.0,mixed waste,BEL
+T,Belgium,2014,W11,13678.0,common sludges,BEL
+T,Belgium,2014,W12-13,613011.0,mineral waste,BEL
+T,Belgium,2016,W01-05,17785.0,chemical and medical,BEL
+T,Belgium,2016,W06,90683.0,metal,BEL
+T,Belgium,2016,W071,335381.0,glass,BEL
+T,Belgium,2016,W072,639384.0,paper,BEL
+T,Belgium,2016,W074,107451.0,plastic,BEL
+T,Belgium,2016,W075,321884.0,wood,BEL
+T,Belgium,2016,W077_08,263651.0,weee + batt + vehicles,BEL
+T,Belgium,2016,W09,796560.0,organic waste,BEL
+T,Belgium,2016,W10,1915893.0,mixed waste,BEL
+T,Belgium,2016,W11,0.0,common sludges,BEL
+T,Belgium,2016,W12-13,470210.0,mineral waste,BEL
+T,Belgium,2018,W01-05,14804.0,chemical and medical,BEL
+T,Belgium,2018,W06,89852.0,metal,BEL
+T,Belgium,2018,W071,338312.0,glass,BEL
+T,Belgium,2018,W072,614540.0,paper,BEL
+T,Belgium,2018,W074,93871.0,plastic,BEL
+T,Belgium,2018,W075,327963.0,wood,BEL
+T,Belgium,2018,W077_08,262717.0,weee + batt + vehicles,BEL
+T,Belgium,2018,W09,769887.0,organic waste,BEL
+T,Belgium,2018,W10,1867383.0,mixed waste,BEL
+T,Belgium,2018,W11,0.0,common sludges,BEL
+T,Belgium,2018,W12-13,418954.0,mineral waste,BEL
+T,Belgium,2020,W01-05,15761.0,chemical and medical,BEL
+T,Belgium,2020,W06,117214.0,metal,BEL
+T,Belgium,2020,W071,368075.0,glass,BEL
+T,Belgium,2020,W072,592994.0,paper,BEL
+T,Belgium,2020,W074,154179.0,plastic,BEL
+T,Belgium,2020,W075,356303.0,wood,BEL
+T,Belgium,2020,W077_08,263586.0,weee + batt + vehicles,BEL
+T,Belgium,2020,W09,982157.0,organic waste,BEL
+T,Belgium,2020,W10,1985882.0,mixed waste,BEL
+T,Belgium,2020,W11,0.0,common sludges,BEL
+T,Belgium,2020,W12-13,416496.0,mineral waste,BEL
+T,Belgium,2022,W01-05,21311.0,chemical and medical,BEL
+T,Belgium,2022,W06,100917.0,metal,BEL
+T,Belgium,2022,W071,349967.0,glass,BEL
+T,Belgium,2022,W072,543759.0,paper,BEL
+T,Belgium,2022,W074,182704.0,plastic,BEL
+T,Belgium,2022,W075,305849.0,wood,BEL
+T,Belgium,2022,W077_08,116885.0,weee + batt + vehicles,BEL
+T,Belgium,2022,W09,910287.0,organic waste,BEL
+T,Belgium,2022,W10,1842042.0,mixed waste,BEL
+T,Belgium,2022,W11,311.0,common sludges,BEL
+T,Belgium,2022,W12-13,330908.0,mineral waste,BEL
+T,Bulgaria,2004,W01-05,0.0,chemical and medical,BGR
+T,Bulgaria,2004,W071,0.0,glass,BGR
+T,Bulgaria,2004,W072,0.0,paper,BGR
+T,Bulgaria,2004,W074,0.0,plastic,BGR
+T,Bulgaria,2004,W075,0.0,wood,BGR
+T,Bulgaria,2004,W077_08,0.0,weee + batt + vehicles,BGR
+T,Bulgaria,2004,W09,0.0,organic waste,BGR
+T,Bulgaria,2004,W10,2633592.0,mixed waste,BGR
+T,Bulgaria,2004,W11,0.0,common sludges,BGR
+T,Bulgaria,2004,W12-13,0.0,mineral waste,BGR
+T,Bulgaria,2006,W01-05,0.0,chemical and medical,BGR
+T,Bulgaria,2006,W071,0.0,glass,BGR
+T,Bulgaria,2006,W072,0.0,paper,BGR
+T,Bulgaria,2006,W074,0.0,plastic,BGR
+T,Bulgaria,2006,W075,0.0,wood,BGR
+T,Bulgaria,2006,W077_08,0.0,weee + batt + vehicles,BGR
+T,Bulgaria,2006,W09,0.0,organic waste,BGR
+T,Bulgaria,2006,W10,2928981.0,mixed waste,BGR
+T,Bulgaria,2006,W11,0.0,common sludges,BGR
+T,Bulgaria,2006,W12-13,0.0,mineral waste,BGR
+T,Bulgaria,2008,W01-05,0.0,chemical and medical,BGR
+T,Bulgaria,2008,W071,0.0,glass,BGR
+T,Bulgaria,2008,W072,0.0,paper,BGR
+T,Bulgaria,2008,W074,0.0,plastic,BGR
+T,Bulgaria,2008,W075,0.0,wood,BGR
+T,Bulgaria,2008,W077_08,0.0,weee + batt + vehicles,BGR
+T,Bulgaria,2008,W09,0.0,organic waste,BGR
+T,Bulgaria,2008,W10,2907121.0,mixed waste,BGR
+T,Bulgaria,2008,W11,0.0,common sludges,BGR
+T,Bulgaria,2008,W12-13,0.0,mineral waste,BGR
+T,Bulgaria,2010,W01-05,2825.0,chemical and medical,BGR
+T,Bulgaria,2010,W06,826424.0,metal,BGR
+T,Bulgaria,2010,W071,62258.0,glass,BGR
+T,Bulgaria,2010,W072,83327.0,paper,BGR
+T,Bulgaria,2010,W074,21229.0,plastic,BGR
+T,Bulgaria,2010,W075,0.0,wood,BGR
+T,Bulgaria,2010,W077_08,127611.0,weee + batt + vehicles,BGR
+T,Bulgaria,2010,W09,0.0,organic waste,BGR
+T,Bulgaria,2010,W10,2396337.0,mixed waste,BGR
+T,Bulgaria,2010,W11,0.0,common sludges,BGR
+T,Bulgaria,2010,W12-13,0.0,mineral waste,BGR
+T,Bulgaria,2012,W01-05,3202.0,chemical and medical,BGR
+T,Bulgaria,2012,W06,538681.0,metal,BGR
+T,Bulgaria,2012,W071,27126.0,glass,BGR
+T,Bulgaria,2012,W072,80632.0,paper,BGR
+T,Bulgaria,2012,W074,39286.0,plastic,BGR
+T,Bulgaria,2012,W075,32134.0,wood,BGR
+T,Bulgaria,2012,W077_08,102632.0,weee + batt + vehicles,BGR
+T,Bulgaria,2012,W09,0.0,organic waste,BGR
+T,Bulgaria,2012,W10,1911667.0,mixed waste,BGR
+T,Bulgaria,2012,W11,0.0,common sludges,BGR
+T,Bulgaria,2012,W12-13,0.0,mineral waste,BGR
+T,Bulgaria,2014,W01-05,98.0,chemical and medical,BGR
+T,Bulgaria,2014,W06,314298.0,metal,BGR
+T,Bulgaria,2014,W071,12564.0,glass,BGR
+T,Bulgaria,2014,W072,152912.0,paper,BGR
+T,Bulgaria,2014,W074,54075.0,plastic,BGR
+T,Bulgaria,2014,W075,6792.0,wood,BGR
+T,Bulgaria,2014,W077_08,97712.0,weee + batt + vehicles,BGR
+T,Bulgaria,2014,W09,34920.0,organic waste,BGR
+T,Bulgaria,2014,W10,2001525.0,mixed waste,BGR
+T,Bulgaria,2014,W11,3711.0,common sludges,BGR
+T,Bulgaria,2014,W12-13,3175.0,mineral waste,BGR
+T,Bulgaria,2016,W01-05,18204.0,chemical and medical,BGR
+T,Bulgaria,2016,W06,103351.0,metal,BGR
+T,Bulgaria,2016,W071,72619.0,glass,BGR
+T,Bulgaria,2016,W072,169975.0,paper,BGR
+T,Bulgaria,2016,W074,37179.0,plastic,BGR
+T,Bulgaria,2016,W075,51400.0,wood,BGR
+T,Bulgaria,2016,W077_08,159086.0,weee + batt + vehicles,BGR
+T,Bulgaria,2016,W09,141838.0,organic waste,BGR
+T,Bulgaria,2016,W10,1618280.0,mixed waste,BGR
+T,Bulgaria,2016,W11,0.0,common sludges,BGR
+T,Bulgaria,2016,W12-13,435824.0,mineral waste,BGR
+T,Bulgaria,2018,W01-05,1724.0,chemical and medical,BGR
+T,Bulgaria,2018,W06,190195.0,metal,BGR
+T,Bulgaria,2018,W071,118578.0,glass,BGR
+T,Bulgaria,2018,W072,342991.0,paper,BGR
+T,Bulgaria,2018,W074,175231.0,plastic,BGR
+T,Bulgaria,2018,W075,82767.0,wood,BGR
+T,Bulgaria,2018,W077_08,215433.0,weee + batt + vehicles,BGR
+T,Bulgaria,2018,W09,85213.0,organic waste,BGR
+T,Bulgaria,2018,W10,1913175.0,mixed waste,BGR
+T,Bulgaria,2018,W11,16321.0,common sludges,BGR
+T,Bulgaria,2018,W12-13,1910.0,mineral waste,BGR
+T,Bulgaria,2020,W01-05,4858.0,chemical and medical,BGR
+T,Bulgaria,2020,W06,100283.0,metal,BGR
+T,Bulgaria,2020,W071,13438.0,glass,BGR
+T,Bulgaria,2020,W072,109656.0,paper,BGR
+T,Bulgaria,2020,W074,32595.0,plastic,BGR
+T,Bulgaria,2020,W075,9274.0,wood,BGR
+T,Bulgaria,2020,W077_08,125435.0,weee + batt + vehicles,BGR
+T,Bulgaria,2020,W09,24510.0,organic waste,BGR
+T,Bulgaria,2020,W10,1853959.0,mixed waste,BGR
+T,Bulgaria,2020,W11,29540.0,common sludges,BGR
+T,Bulgaria,2020,W12-13,7757.0,mineral waste,BGR
+T,Bulgaria,2022,W01-05,2329.0,chemical and medical,BGR
+T,Bulgaria,2022,W06,112708.0,metal,BGR
+T,Bulgaria,2022,W071,20034.0,glass,BGR
+T,Bulgaria,2022,W072,120903.0,paper,BGR
+T,Bulgaria,2022,W074,29969.0,plastic,BGR
+T,Bulgaria,2022,W075,31002.0,wood,BGR
+T,Bulgaria,2022,W077_08,183153.0,weee + batt + vehicles,BGR
+T,Bulgaria,2022,W09,83095.0,organic waste,BGR
+T,Bulgaria,2022,W10,2022982.0,mixed waste,BGR
+T,Bulgaria,2022,W11,0.0,common sludges,BGR
+T,Bulgaria,2022,W12-13,0.0,mineral waste,BGR
+T,Cyprus,2004,W01-05,0.0,chemical and medical,CYP
+T,Cyprus,2004,W071,4408.0,glass,CYP
+T,Cyprus,2004,W072,104695.0,paper,CYP
+T,Cyprus,2004,W074,44450.0,plastic,CYP
+T,Cyprus,2004,W075,0.0,wood,CYP
+T,Cyprus,2004,W077_08,0.0,weee + batt + vehicles,CYP
+T,Cyprus,2004,W09,0.0,organic waste,CYP
+T,Cyprus,2004,W10,180738.0,mixed waste,CYP
+T,Cyprus,2004,W11,0.0,common sludges,CYP
+T,Cyprus,2004,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2006,W01-05,1260.0,chemical and medical,CYP
+T,Cyprus,2006,W071,4175.0,glass,CYP
+T,Cyprus,2006,W072,99211.0,paper,CYP
+T,Cyprus,2006,W074,42124.0,plastic,CYP
+T,Cyprus,2006,W075,0.0,wood,CYP
+T,Cyprus,2006,W077_08,3152.0,weee + batt + vehicles,CYP
+T,Cyprus,2006,W09,0.0,organic waste,CYP
+T,Cyprus,2006,W10,171276.0,mixed waste,CYP
+T,Cyprus,2006,W11,0.0,common sludges,CYP
+T,Cyprus,2006,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2008,W01-05,1616.0,chemical and medical,CYP
+T,Cyprus,2008,W071,11410.0,glass,CYP
+T,Cyprus,2008,W072,113561.0,paper,CYP
+T,Cyprus,2008,W074,58306.0,plastic,CYP
+T,Cyprus,2008,W075,0.0,wood,CYP
+T,Cyprus,2008,W077_08,8449.0,weee + batt + vehicles,CYP
+T,Cyprus,2008,W09,0.0,organic waste,CYP
+T,Cyprus,2008,W10,98259.0,mixed waste,CYP
+T,Cyprus,2008,W11,0.0,common sludges,CYP
+T,Cyprus,2008,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2010,W01-05,951.0,chemical and medical,CYP
+T,Cyprus,2010,W06,17088.0,metal,CYP
+T,Cyprus,2010,W071,15596.0,glass,CYP
+T,Cyprus,2010,W072,111079.0,paper,CYP
+T,Cyprus,2010,W074,76203.0,plastic,CYP
+T,Cyprus,2010,W075,7769.0,wood,CYP
+T,Cyprus,2010,W077_08,13144.0,weee + batt + vehicles,CYP
+T,Cyprus,2010,W09,40741.0,organic waste,CYP
+T,Cyprus,2010,W10,96533.0,mixed waste,CYP
+T,Cyprus,2010,W11,0.0,common sludges,CYP
+T,Cyprus,2010,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2012,W01-05,0.0,chemical and medical,CYP
+T,Cyprus,2012,W06,0.0,metal,CYP
+T,Cyprus,2012,W071,5030.0,glass,CYP
+T,Cyprus,2012,W072,11511.0,paper,CYP
+T,Cyprus,2012,W074,0.0,plastic,CYP
+T,Cyprus,2012,W075,0.0,wood,CYP
+T,Cyprus,2012,W077_08,11004.0,weee + batt + vehicles,CYP
+T,Cyprus,2012,W09,6780.0,organic waste,CYP
+T,Cyprus,2012,W10,334151.0,mixed waste,CYP
+T,Cyprus,2012,W11,0.0,common sludges,CYP
+T,Cyprus,2012,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2014,W01-05,0.0,chemical and medical,CYP
+T,Cyprus,2014,W06,0.0,metal,CYP
+T,Cyprus,2014,W071,4962.0,glass,CYP
+T,Cyprus,2014,W072,10235.0,paper,CYP
+T,Cyprus,2014,W074,0.0,plastic,CYP
+T,Cyprus,2014,W075,0.0,wood,CYP
+T,Cyprus,2014,W077_08,10168.0,weee + batt + vehicles,CYP
+T,Cyprus,2014,W09,14602.0,organic waste,CYP
+T,Cyprus,2014,W10,282592.0,mixed waste,CYP
+T,Cyprus,2014,W11,0.0,common sludges,CYP
+T,Cyprus,2014,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2016,W01-05,0.0,chemical and medical,CYP
+T,Cyprus,2016,W06,0.0,metal,CYP
+T,Cyprus,2016,W071,5727.0,glass,CYP
+T,Cyprus,2016,W072,10263.0,paper,CYP
+T,Cyprus,2016,W074,0.0,plastic,CYP
+T,Cyprus,2016,W075,0.0,wood,CYP
+T,Cyprus,2016,W077_08,8291.0,weee + batt + vehicles,CYP
+T,Cyprus,2016,W09,16032.0,organic waste,CYP
+T,Cyprus,2016,W10,352556.0,mixed waste,CYP
+T,Cyprus,2016,W11,0.0,common sludges,CYP
+T,Cyprus,2016,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2018,W01-05,0.0,chemical and medical,CYP
+T,Cyprus,2018,W06,0.0,metal,CYP
+T,Cyprus,2018,W071,7007.0,glass,CYP
+T,Cyprus,2018,W072,10076.0,paper,CYP
+T,Cyprus,2018,W074,0.0,plastic,CYP
+T,Cyprus,2018,W075,0.0,wood,CYP
+T,Cyprus,2018,W077_08,7195.0,weee + batt + vehicles,CYP
+T,Cyprus,2018,W09,16247.0,organic waste,CYP
+T,Cyprus,2018,W10,343616.0,mixed waste,CYP
+T,Cyprus,2018,W11,0.0,common sludges,CYP
+T,Cyprus,2018,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2020,W01-05,0.0,chemical and medical,CYP
+T,Cyprus,2020,W06,0.0,metal,CYP
+T,Cyprus,2020,W071,5967.0,glass,CYP
+T,Cyprus,2020,W072,9480.0,paper,CYP
+T,Cyprus,2020,W074,171.0,plastic,CYP
+T,Cyprus,2020,W075,32.0,wood,CYP
+T,Cyprus,2020,W077_08,7653.0,weee + batt + vehicles,CYP
+T,Cyprus,2020,W09,12900.0,organic waste,CYP
+T,Cyprus,2020,W10,338931.0,mixed waste,CYP
+T,Cyprus,2020,W11,0.0,common sludges,CYP
+T,Cyprus,2020,W12-13,0.0,mineral waste,CYP
+T,Cyprus,2022,W01-05,0.0,chemical and medical,CYP
+T,Cyprus,2022,W06,0.0,metal,CYP
+T,Cyprus,2022,W071,9071.0,glass,CYP
+T,Cyprus,2022,W072,9763.0,paper,CYP
+T,Cyprus,2022,W074,0.0,plastic,CYP
+T,Cyprus,2022,W075,0.0,wood,CYP
+T,Cyprus,2022,W077_08,7245.0,weee + batt + vehicles,CYP
+T,Cyprus,2022,W09,16794.0,organic waste,CYP
+T,Cyprus,2022,W10,336016.0,mixed waste,CYP
+T,Cyprus,2022,W11,0.0,common sludges,CYP
+T,Cyprus,2022,W12-13,0.0,mineral waste,CYP
+T,Czechia,2004,W01-05,3457.0,chemical and medical,CZE
+T,Czechia,2004,W071,50165.0,glass,CZE
+T,Czechia,2004,W072,82983.0,paper,CZE
+T,Czechia,2004,W074,37380.0,plastic,CZE
+T,Czechia,2004,W075,8621.0,wood,CZE
+T,Czechia,2004,W077_08,15994.0,weee + batt + vehicles,CZE
+T,Czechia,2004,W09,0.0,organic waste,CZE
+T,Czechia,2004,W10,2496991.0,mixed waste,CZE
+T,Czechia,2004,W11,18006.0,common sludges,CZE
+T,Czechia,2004,W12-13,0.0,mineral waste,CZE
+T,Czechia,2006,W01-05,4635.0,chemical and medical,CZE
+T,Czechia,2006,W071,76670.0,glass,CZE
+T,Czechia,2006,W072,134272.0,paper,CZE
+T,Czechia,2006,W074,53698.0,plastic,CZE
+T,Czechia,2006,W075,34277.0,wood,CZE
+T,Czechia,2006,W077_08,7711.0,weee + batt + vehicles,CZE
+T,Czechia,2006,W09,0.0,organic waste,CZE
+T,Czechia,2006,W10,2645471.0,mixed waste,CZE
+T,Czechia,2006,W11,10209.0,common sludges,CZE
+T,Czechia,2006,W12-13,1266.0,mineral waste,CZE
+T,Czechia,2008,W01-05,3304.0,chemical and medical,CZE
+T,Czechia,2008,W071,69698.0,glass,CZE
+T,Czechia,2008,W072,134501.0,paper,CZE
+T,Czechia,2008,W074,53647.0,plastic,CZE
+T,Czechia,2008,W075,10216.0,wood,CZE
+T,Czechia,2008,W077_08,2405.0,weee + batt + vehicles,CZE
+T,Czechia,2008,W09,0.0,organic waste,CZE
+T,Czechia,2008,W10,2665624.0,mixed waste,CZE
+T,Czechia,2008,W11,1394.0,common sludges,CZE
+T,Czechia,2008,W12-13,0.0,mineral waste,CZE
+T,Czechia,2010,W01-05,3804.0,chemical and medical,CZE
+T,Czechia,2010,W06,82672.0,metal,CZE
+T,Czechia,2010,W071,78289.0,glass,CZE
+T,Czechia,2010,W072,158626.0,paper,CZE
+T,Czechia,2010,W074,63500.0,plastic,CZE
+T,Czechia,2010,W075,27923.0,wood,CZE
+T,Czechia,2010,W077_08,1591.0,weee + batt + vehicles,CZE
+T,Czechia,2010,W09,172197.0,organic waste,CZE
+T,Czechia,2010,W10,2704811.0,mixed waste,CZE
+T,Czechia,2010,W11,1208.0,common sludges,CZE
+T,Czechia,2010,W12-13,8576.0,mineral waste,CZE
+T,Czechia,2012,W01-05,5509.0,chemical and medical,CZE
+T,Czechia,2012,W06,55523.0,metal,CZE
+T,Czechia,2012,W071,108734.0,glass,CZE
+T,Czechia,2012,W072,164289.0,paper,CZE
+T,Czechia,2012,W074,95789.0,plastic,CZE
+T,Czechia,2012,W075,29913.0,wood,CZE
+T,Czechia,2012,W077_08,1712.0,weee + batt + vehicles,CZE
+T,Czechia,2012,W09,213617.0,organic waste,CZE
+T,Czechia,2012,W10,2532145.0,mixed waste,CZE
+T,Czechia,2012,W11,2165.0,common sludges,CZE
+T,Czechia,2012,W12-13,3798.0,mineral waste,CZE
+T,Czechia,2014,W01-05,6444.0,chemical and medical,CZE
+T,Czechia,2014,W06,58832.0,metal,CZE
+T,Czechia,2014,W071,109726.0,glass,CZE
+T,Czechia,2014,W072,162625.0,paper,CZE
+T,Czechia,2014,W074,103184.0,plastic,CZE
+T,Czechia,2014,W075,33648.0,wood,CZE
+T,Czechia,2014,W077_08,1009.0,weee + batt + vehicles,CZE
+T,Czechia,2014,W09,317704.0,organic waste,CZE
+T,Czechia,2014,W10,2436082.0,mixed waste,CZE
+T,Czechia,2014,W11,1319.0,common sludges,CZE
+T,Czechia,2014,W12-13,10806.0,mineral waste,CZE
+T,Czechia,2016,W01-05,6632.0,chemical and medical,CZE
+T,Czechia,2016,W06,33229.0,metal,CZE
+T,Czechia,2016,W071,122770.0,glass,CZE
+T,Czechia,2016,W072,177342.0,paper,CZE
+T,Czechia,2016,W074,121243.0,plastic,CZE
+T,Czechia,2016,W075,55051.0,wood,CZE
+T,Czechia,2016,W077_08,407.0,weee + batt + vehicles,CZE
+T,Czechia,2016,W09,497448.0,organic waste,CZE
+T,Czechia,2016,W10,2530114.0,mixed waste,CZE
+T,Czechia,2016,W11,2686.0,common sludges,CZE
+T,Czechia,2016,W12-13,10768.0,mineral waste,CZE
+T,Czechia,2018,W01-05,9177.0,chemical and medical,CZE
+T,Czechia,2018,W06,800529.0,metal,CZE
+T,Czechia,2018,W071,140990.0,glass,CZE
+T,Czechia,2018,W072,355705.0,paper,CZE
+T,Czechia,2018,W074,154812.0,plastic,CZE
+T,Czechia,2018,W075,70438.0,wood,CZE
+T,Czechia,2018,W077_08,12189.0,weee + batt + vehicles,CZE
+T,Czechia,2018,W09,636432.0,organic waste,CZE
+T,Czechia,2018,W10,2597877.0,mixed waste,CZE
+T,Czechia,2018,W11,5183.0,common sludges,CZE
+T,Czechia,2018,W12-13,957542.0,mineral waste,CZE
+T,Czechia,2020,W01-05,13972.0,chemical and medical,CZE
+T,Czechia,2020,W06,724054.0,metal,CZE
+T,Czechia,2020,W071,170380.0,glass,CZE
+T,Czechia,2020,W072,307995.0,paper,CZE
+T,Czechia,2020,W074,179886.0,plastic,CZE
+T,Czechia,2020,W075,67499.0,wood,CZE
+T,Czechia,2020,W077_08,169107.0,weee + batt + vehicles,CZE
+T,Czechia,2020,W09,727093.0,organic waste,CZE
+T,Czechia,2020,W10,2740365.0,mixed waste,CZE
+T,Czechia,2020,W11,5483.0,common sludges,CZE
+T,Czechia,2020,W12-13,925085.0,mineral waste,CZE
+T,Czechia,2022,W01-05,7722.0,chemical and medical,CZE
+T,Czechia,2022,W06,59073.0,metal,CZE
+T,Czechia,2022,W071,158787.0,glass,CZE
+T,Czechia,2022,W072,221613.0,paper,CZE
+T,Czechia,2022,W074,182930.0,plastic,CZE
+T,Czechia,2022,W075,70570.0,wood,CZE
+T,Czechia,2022,W077_08,335.0,weee + batt + vehicles,CZE
+T,Czechia,2022,W09,725508.0,organic waste,CZE
+T,Czechia,2022,W10,2461810.0,mixed waste,CZE
+T,Czechia,2022,W11,0.0,common sludges,CZE
+T,Czechia,2022,W12-13,363213.0,mineral waste,CZE
+T,Germany,2004,W01-05,38785.0,chemical and medical,DEU
+T,Germany,2004,W071,2288408.0,glass,DEU
+T,Germany,2004,W072,5735935.0,paper,DEU
+T,Germany,2004,W074,173577.0,plastic,DEU
+T,Germany,2004,W075,581865.0,wood,DEU
+T,Germany,2004,W077_08,311418.0,weee + batt + vehicles,DEU
+T,Germany,2004,W09,0.0,organic waste,DEU
+T,Germany,2004,W10,24060010.0,mixed waste,DEU
+T,Germany,2004,W11,0.0,common sludges,DEU
+T,Germany,2004,W12-13,0.0,mineral waste,DEU
+T,Germany,2006,W01-05,18169.0,chemical and medical,DEU
+T,Germany,2006,W071,970120.0,glass,DEU
+T,Germany,2006,W072,5551627.0,paper,DEU
+T,Germany,2006,W074,298376.0,plastic,DEU
+T,Germany,2006,W075,661304.0,wood,DEU
+T,Germany,2006,W077_08,286638.0,weee + batt + vehicles,DEU
+T,Germany,2006,W09,0.0,organic waste,DEU
+T,Germany,2006,W10,18878223.0,mixed waste,DEU
+T,Germany,2006,W11,0.0,common sludges,DEU
+T,Germany,2006,W12-13,0.0,mineral waste,DEU
+T,Germany,2008,W01-05,21300.0,chemical and medical,DEU
+T,Germany,2008,W071,1378378.0,glass,DEU
+T,Germany,2008,W072,6130580.0,paper,DEU
+T,Germany,2008,W074,129754.0,plastic,DEU
+T,Germany,2008,W075,720532.0,wood,DEU
+T,Germany,2008,W077_08,401729.0,weee + batt + vehicles,DEU
+T,Germany,2008,W09,0.0,organic waste,DEU
+T,Germany,2008,W10,18525137.0,mixed waste,DEU
+T,Germany,2008,W11,0.0,common sludges,DEU
+T,Germany,2008,W12-13,0.0,mineral waste,DEU
+T,Germany,2010,W01-05,27294.0,chemical and medical,DEU
+T,Germany,2010,W06,272139.0,metal,DEU
+T,Germany,2010,W071,1910846.0,glass,DEU
+T,Germany,2010,W072,5645743.0,paper,DEU
+T,Germany,2010,W074,45895.0,plastic,DEU
+T,Germany,2010,W075,670517.0,wood,DEU
+T,Germany,2010,W077_08,524839.0,weee + batt + vehicles,DEU
+T,Germany,2010,W09,8494631.0,organic waste,DEU
+T,Germany,2010,W10,18638974.0,mixed waste,DEU
+T,Germany,2010,W11,0.0,common sludges,DEU
+T,Germany,2010,W12-13,0.0,mineral waste,DEU
+T,Germany,2012,W01-05,26331.0,chemical and medical,DEU
+T,Germany,2012,W06,253306.0,metal,DEU
+T,Germany,2012,W071,1908787.0,glass,DEU
+T,Germany,2012,W072,5635120.0,paper,DEU
+T,Germany,2012,W074,126095.0,plastic,DEU
+T,Germany,2012,W075,624903.0,wood,DEU
+T,Germany,2012,W077_08,544549.0,weee + batt + vehicles,DEU
+T,Germany,2012,W09,9080387.0,organic waste,DEU
+T,Germany,2012,W10,18172377.0,mixed waste,DEU
+T,Germany,2012,W11,0.0,common sludges,DEU
+T,Germany,2012,W12-13,0.0,mineral waste,DEU
+T,Germany,2014,W01-05,32019.0,chemical and medical,DEU
+T,Germany,2014,W06,261372.0,metal,DEU
+T,Germany,2014,W071,1877855.0,glass,DEU
+T,Germany,2014,W072,5405753.0,paper,DEU
+T,Germany,2014,W074,101694.0,plastic,DEU
+T,Germany,2014,W075,735461.0,wood,DEU
+T,Germany,2014,W077_08,516435.0,weee + batt + vehicles,DEU
+T,Germany,2014,W09,9654331.0,organic waste,DEU
+T,Germany,2014,W10,18188484.0,mixed waste,DEU
+T,Germany,2014,W11,0.0,common sludges,DEU
+T,Germany,2014,W12-13,0.0,mineral waste,DEU
+T,Germany,2016,W01-05,32676.0,chemical and medical,DEU
+T,Germany,2016,W06,295510.0,metal,DEU
+T,Germany,2016,W071,1879165.0,glass,DEU
+T,Germany,2016,W072,5411523.0,paper,DEU
+T,Germany,2016,W074,123789.0,plastic,DEU
+T,Germany,2016,W075,665722.0,wood,DEU
+T,Germany,2016,W077_08,551972.0,weee + batt + vehicles,DEU
+T,Germany,2016,W09,9981055.0,organic waste,DEU
+T,Germany,2016,W10,18326817.0,mixed waste,DEU
+T,Germany,2016,W11,0.0,common sludges,DEU
+T,Germany,2016,W12-13,0.0,mineral waste,DEU
+T,Germany,2018,W01-05,34972.0,chemical and medical,DEU
+T,Germany,2018,W06,318436.0,metal,DEU
+T,Germany,2018,W071,1876686.0,glass,DEU
+T,Germany,2018,W072,5380142.0,paper,DEU
+T,Germany,2018,W074,111219.0,plastic,DEU
+T,Germany,2018,W075,696884.0,wood,DEU
+T,Germany,2018,W077_08,626908.0,weee + batt + vehicles,DEU
+T,Germany,2018,W09,9753346.0,organic waste,DEU
+T,Germany,2018,W10,18369353.0,mixed waste,DEU
+T,Germany,2018,W11,0.0,common sludges,DEU
+T,Germany,2018,W12-13,0.0,mineral waste,DEU
+T,Germany,2020,W01-05,37050.0,chemical and medical,DEU
+T,Germany,2020,W06,354683.0,metal,DEU
+T,Germany,2020,W071,2034166.0,glass,DEU
+T,Germany,2020,W072,4708052.0,paper,DEU
+T,Germany,2020,W074,106495.0,plastic,DEU
+T,Germany,2020,W075,720144.0,wood,DEU
+T,Germany,2020,W077_08,732579.0,weee + batt + vehicles,DEU
+T,Germany,2020,W09,10500498.0,organic waste,DEU
+T,Germany,2020,W10,19156559.0,mixed waste,DEU
+T,Germany,2020,W11,0.0,common sludges,DEU
+T,Germany,2020,W12-13,0.0,mineral waste,DEU
+T,Germany,2022,W01-05,33378.0,chemical and medical,DEU
+T,Germany,2022,W06,367065.0,metal,DEU
+T,Germany,2022,W071,1970936.0,glass,DEU
+T,Germany,2022,W072,4703070.0,paper,DEU
+T,Germany,2022,W074,130167.0,plastic,DEU
+T,Germany,2022,W075,618371.0,wood,DEU
+T,Germany,2022,W077_08,642833.0,weee + batt + vehicles,DEU
+T,Germany,2022,W09,9697460.0,organic waste,DEU
+T,Germany,2022,W10,18016076.0,mixed waste,DEU
+T,Germany,2022,W11,0.0,common sludges,DEU
+T,Germany,2022,W12-13,0.0,mineral waste,DEU
+T,Denmark,2004,W01-05,111.0,chemical and medical,DNK
+T,Denmark,2004,W071,50532.0,glass,DNK
+T,Denmark,2004,W072,124557.0,paper,DNK
+T,Denmark,2004,W074,2809.0,plastic,DNK
+T,Denmark,2004,W075,209974.0,wood,DNK
+T,Denmark,2004,W077_08,2259.0,weee + batt + vehicles,DNK
+T,Denmark,2004,W09,0.0,organic waste,DNK
+T,Denmark,2004,W10,1481559.0,mixed waste,DNK
+T,Denmark,2004,W11,456.0,common sludges,DNK
+T,Denmark,2004,W12-13,6.0,mineral waste,DNK
+T,Denmark,2006,W01-05,17.0,chemical and medical,DNK
+T,Denmark,2006,W071,42695.0,glass,DNK
+T,Denmark,2006,W072,92022.0,paper,DNK
+T,Denmark,2006,W074,2152.0,plastic,DNK
+T,Denmark,2006,W075,265070.0,wood,DNK
+T,Denmark,2006,W077_08,2060.0,weee + batt + vehicles,DNK
+T,Denmark,2006,W09,0.0,organic waste,DNK
+T,Denmark,2006,W10,1544669.0,mixed waste,DNK
+T,Denmark,2006,W11,346.0,common sludges,DNK
+T,Denmark,2006,W12-13,61.0,mineral waste,DNK
+T,Denmark,2008,W01-05,240.0,chemical and medical,DNK
+T,Denmark,2008,W071,38936.0,glass,DNK
+T,Denmark,2008,W072,97153.0,paper,DNK
+T,Denmark,2008,W074,2523.0,plastic,DNK
+T,Denmark,2008,W075,236657.0,wood,DNK
+T,Denmark,2008,W077_08,31844.0,weee + batt + vehicles,DNK
+T,Denmark,2008,W09,0.0,organic waste,DNK
+T,Denmark,2008,W10,1556991.0,mixed waste,DNK
+T,Denmark,2008,W11,894.0,common sludges,DNK
+T,Denmark,2008,W12-13,0.0,mineral waste,DNK
+T,Denmark,2010,W01-05,27862.0,chemical and medical,DNK
+T,Denmark,2010,W06,155530.0,metal,DNK
+T,Denmark,2010,W071,152905.0,glass,DNK
+T,Denmark,2010,W072,232896.0,paper,DNK
+T,Denmark,2010,W074,25074.0,plastic,DNK
+T,Denmark,2010,W075,86728.0,wood,DNK
+T,Denmark,2010,W077_08,62018.0,weee + batt + vehicles,DNK
+T,Denmark,2010,W09,497424.0,organic waste,DNK
+T,Denmark,2010,W10,2019247.0,mixed waste,DNK
+T,Denmark,2010,W11,15451.0,common sludges,DNK
+T,Denmark,2010,W12-13,237924.0,mineral waste,DNK
+T,Denmark,2012,W01-05,25758.0,chemical and medical,DNK
+T,Denmark,2012,W06,96955.0,metal,DNK
+T,Denmark,2012,W071,115788.0,glass,DNK
+T,Denmark,2012,W072,241432.0,paper,DNK
+T,Denmark,2012,W074,25388.0,plastic,DNK
+T,Denmark,2012,W075,108574.0,wood,DNK
+T,Denmark,2012,W077_08,60155.0,weee + batt + vehicles,DNK
+T,Denmark,2012,W09,605941.0,organic waste,DNK
+T,Denmark,2012,W10,2002150.0,mixed waste,DNK
+T,Denmark,2012,W11,213.0,common sludges,DNK
+T,Denmark,2012,W12-13,16364.0,mineral waste,DNK
+T,Denmark,2014,W01-05,13838.0,chemical and medical,DNK
+T,Denmark,2014,W06,108990.0,metal,DNK
+T,Denmark,2014,W071,115645.0,glass,DNK
+T,Denmark,2014,W072,246100.0,paper,DNK
+T,Denmark,2014,W074,30058.0,plastic,DNK
+T,Denmark,2014,W075,365881.0,wood,DNK
+T,Denmark,2014,W077_08,81994.0,weee + batt + vehicles,DNK
+T,Denmark,2014,W09,652408.0,organic waste,DNK
+T,Denmark,2014,W10,1925141.0,mixed waste,DNK
+T,Denmark,2014,W11,247.0,common sludges,DNK
+T,Denmark,2014,W12-13,12239.0,mineral waste,DNK
+T,Denmark,2016,W01-05,15492.0,chemical and medical,DNK
+T,Denmark,2016,W06,145339.0,metal,DNK
+T,Denmark,2016,W071,127738.0,glass,DNK
+T,Denmark,2016,W072,267638.0,paper,DNK
+T,Denmark,2016,W074,38917.0,plastic,DNK
+T,Denmark,2016,W075,200376.0,wood,DNK
+T,Denmark,2016,W077_08,88269.0,weee + batt + vehicles,DNK
+T,Denmark,2016,W09,684026.0,organic waste,DNK
+T,Denmark,2016,W10,1810069.0,mixed waste,DNK
+T,Denmark,2016,W11,204.0,common sludges,DNK
+T,Denmark,2016,W12-13,2307.0,mineral waste,DNK
+T,Denmark,2018,W01-05,14398.0,chemical and medical,DNK
+T,Denmark,2018,W06,144253.0,metal,DNK
+T,Denmark,2018,W071,136756.0,glass,DNK
+T,Denmark,2018,W072,253497.0,paper,DNK
+T,Denmark,2018,W074,49528.0,plastic,DNK
+T,Denmark,2018,W075,268184.0,wood,DNK
+T,Denmark,2018,W077_08,78040.0,weee + batt + vehicles,DNK
+T,Denmark,2018,W09,775087.0,organic waste,DNK
+T,Denmark,2018,W10,1729903.0,mixed waste,DNK
+T,Denmark,2018,W11,136.0,common sludges,DNK
+T,Denmark,2018,W12-13,1612.0,mineral waste,DNK
+T,Denmark,2020,W01-05,16521.0,chemical and medical,DNK
+T,Denmark,2020,W06,148757.0,metal,DNK
+T,Denmark,2020,W071,148302.0,glass,DNK
+T,Denmark,2020,W072,234058.0,paper,DNK
+T,Denmark,2020,W074,81410.0,plastic,DNK
+T,Denmark,2020,W075,315893.0,wood,DNK
+T,Denmark,2020,W077_08,94905.0,weee + batt + vehicles,DNK
+T,Denmark,2020,W09,950701.0,organic waste,DNK
+T,Denmark,2020,W10,1598373.0,mixed waste,DNK
+T,Denmark,2020,W11,149.0,common sludges,DNK
+T,Denmark,2020,W12-13,742.0,mineral waste,DNK
+T,Denmark,2022,W01-05,18853.0,chemical and medical,DNK
+T,Denmark,2022,W06,110560.0,metal,DNK
+T,Denmark,2022,W071,138863.0,glass,DNK
+T,Denmark,2022,W072,210526.0,paper,DNK
+T,Denmark,2022,W074,87190.0,plastic,DNK
+T,Denmark,2022,W075,238560.0,wood,DNK
+T,Denmark,2022,W077_08,60390.0,weee + batt + vehicles,DNK
+T,Denmark,2022,W09,940153.0,organic waste,DNK
+T,Denmark,2022,W10,1430167.0,mixed waste,DNK
+T,Denmark,2022,W11,675.0,common sludges,DNK
+T,Denmark,2022,W12-13,388.0,mineral waste,DNK
+T,Estonia,2004,W01-05,523.0,chemical and medical,EST
+T,Estonia,2004,W071,4489.0,glass,EST
+T,Estonia,2004,W072,6000.0,paper,EST
+T,Estonia,2004,W074,1455.0,plastic,EST
+T,Estonia,2004,W075,3764.0,wood,EST
+T,Estonia,2004,W077_08,7223.0,weee + batt + vehicles,EST
+T,Estonia,2004,W09,0.0,organic waste,EST
+T,Estonia,2004,W10,176259.0,mixed waste,EST
+T,Estonia,2004,W11,1449.0,common sludges,EST
+T,Estonia,2004,W12-13,2418.0,mineral waste,EST
+T,Estonia,2006,W01-05,520.0,chemical and medical,EST
+T,Estonia,2006,W071,3703.0,glass,EST
+T,Estonia,2006,W072,7507.0,paper,EST
+T,Estonia,2006,W074,444.0,plastic,EST
+T,Estonia,2006,W075,3569.0,wood,EST
+T,Estonia,2006,W077_08,11327.0,weee + batt + vehicles,EST
+T,Estonia,2006,W09,0.0,organic waste,EST
+T,Estonia,2006,W10,164787.0,mixed waste,EST
+T,Estonia,2006,W11,1906.0,common sludges,EST
+T,Estonia,2006,W12-13,144.0,mineral waste,EST
+T,Estonia,2008,W01-05,746.0,chemical and medical,EST
+T,Estonia,2008,W071,13349.0,glass,EST
+T,Estonia,2008,W072,10487.0,paper,EST
+T,Estonia,2008,W074,2125.0,plastic,EST
+T,Estonia,2008,W075,3919.0,wood,EST
+T,Estonia,2008,W077_08,16281.0,weee + batt + vehicles,EST
+T,Estonia,2008,W09,0.0,organic waste,EST
+T,Estonia,2008,W10,175720.0,mixed waste,EST
+T,Estonia,2008,W11,1532.0,common sludges,EST
+T,Estonia,2008,W12-13,116.0,mineral waste,EST
+T,Estonia,2010,W01-05,377.0,chemical and medical,EST
+T,Estonia,2010,W06,167702.0,metal,EST
+T,Estonia,2010,W071,20313.0,glass,EST
+T,Estonia,2010,W072,10158.0,paper,EST
+T,Estonia,2010,W074,2543.0,plastic,EST
+T,Estonia,2010,W075,1955.0,wood,EST
+T,Estonia,2010,W077_08,14488.0,weee + batt + vehicles,EST
+T,Estonia,2010,W09,8116.0,organic waste,EST
+T,Estonia,2010,W10,178591.0,mixed waste,EST
+T,Estonia,2010,W11,767.0,common sludges,EST
+T,Estonia,2010,W12-13,22388.0,mineral waste,EST
+T,Estonia,2012,W01-05,431.0,chemical and medical,EST
+T,Estonia,2012,W06,173514.0,metal,EST
+T,Estonia,2012,W071,12097.0,glass,EST
+T,Estonia,2012,W072,9738.0,paper,EST
+T,Estonia,2012,W074,1674.0,plastic,EST
+T,Estonia,2012,W075,5359.0,wood,EST
+T,Estonia,2012,W077_08,17323.0,weee + batt + vehicles,EST
+T,Estonia,2012,W09,15726.0,organic waste,EST
+T,Estonia,2012,W10,176665.0,mixed waste,EST
+T,Estonia,2012,W11,71.0,common sludges,EST
+T,Estonia,2012,W12-13,20899.0,mineral waste,EST
+T,Estonia,2014,W01-05,937.0,chemical and medical,EST
+T,Estonia,2014,W06,162261.0,metal,EST
+T,Estonia,2014,W071,7190.0,glass,EST
+T,Estonia,2014,W072,16745.0,paper,EST
+T,Estonia,2014,W074,3450.0,plastic,EST
+T,Estonia,2014,W075,7528.0,wood,EST
+T,Estonia,2014,W077_08,17534.0,weee + batt + vehicles,EST
+T,Estonia,2014,W09,9682.0,organic waste,EST
+T,Estonia,2014,W10,223081.0,mixed waste,EST
+T,Estonia,2014,W11,381.0,common sludges,EST
+T,Estonia,2014,W12-13,29100.0,mineral waste,EST
+T,Estonia,2016,W01-05,739.0,chemical and medical,EST
+T,Estonia,2016,W06,106100.0,metal,EST
+T,Estonia,2016,W071,7952.0,glass,EST
+T,Estonia,2016,W072,16683.0,paper,EST
+T,Estonia,2016,W074,2706.0,plastic,EST
+T,Estonia,2016,W075,11859.0,wood,EST
+T,Estonia,2016,W077_08,16354.0,weee + batt + vehicles,EST
+T,Estonia,2016,W09,11487.0,organic waste,EST
+T,Estonia,2016,W10,219166.0,mixed waste,EST
+T,Estonia,2016,W11,215.0,common sludges,EST
+T,Estonia,2016,W12-13,31328.0,mineral waste,EST
+T,Estonia,2018,W01-05,919.0,chemical and medical,EST
+T,Estonia,2018,W06,133473.0,metal,EST
+T,Estonia,2018,W071,13165.0,glass,EST
+T,Estonia,2018,W072,22863.0,paper,EST
+T,Estonia,2018,W074,5170.0,plastic,EST
+T,Estonia,2018,W075,19332.0,wood,EST
+T,Estonia,2018,W077_08,59638.0,weee + batt + vehicles,EST
+T,Estonia,2018,W09,20946.0,organic waste,EST
+T,Estonia,2018,W10,224937.0,mixed waste,EST
+T,Estonia,2018,W11,646.0,common sludges,EST
+T,Estonia,2018,W12-13,44663.0,mineral waste,EST
+T,Estonia,2020,W01-05,1281.0,chemical and medical,EST
+T,Estonia,2020,W06,130366.0,metal,EST
+T,Estonia,2020,W071,13205.0,glass,EST
+T,Estonia,2020,W072,21974.0,paper,EST
+T,Estonia,2020,W074,4718.0,plastic,EST
+T,Estonia,2020,W075,14439.0,wood,EST
+T,Estonia,2020,W077_08,24434.0,weee + batt + vehicles,EST
+T,Estonia,2020,W09,17323.0,organic waste,EST
+T,Estonia,2020,W10,235141.0,mixed waste,EST
+T,Estonia,2020,W11,161.0,common sludges,EST
+T,Estonia,2020,W12-13,77474.0,mineral waste,EST
+T,Estonia,2022,W01-05,1639.0,chemical and medical,EST
+T,Estonia,2022,W06,125189.0,metal,EST
+T,Estonia,2022,W071,14415.0,glass,EST
+T,Estonia,2022,W072,15402.0,paper,EST
+T,Estonia,2022,W074,6079.0,plastic,EST
+T,Estonia,2022,W075,21023.0,wood,EST
+T,Estonia,2022,W077_08,24749.0,weee + batt + vehicles,EST
+T,Estonia,2022,W09,23565.0,organic waste,EST
+T,Estonia,2022,W10,149957.0,mixed waste,EST
+T,Estonia,2022,W11,211.0,common sludges,EST
+T,Estonia,2022,W12-13,62034.0,mineral waste,EST
+T,Greece,2004,W01-05,0.0,chemical and medical,GRC
+T,Greece,2004,W071,0.0,glass,GRC
+T,Greece,2004,W072,0.0,paper,GRC
+T,Greece,2004,W074,0.0,plastic,GRC
+T,Greece,2004,W075,0.0,wood,GRC
+T,Greece,2004,W077_08,0.0,weee + batt + vehicles,GRC
+T,Greece,2004,W09,0.0,organic waste,GRC
+T,Greece,2004,W10,4212962.0,mixed waste,GRC
+T,Greece,2004,W11,0.0,common sludges,GRC
+T,Greece,2004,W12-13,0.0,mineral waste,GRC
+T,Greece,2006,W01-05,0.0,chemical and medical,GRC
+T,Greece,2006,W071,6056.0,glass,GRC
+T,Greece,2006,W072,14135.0,paper,GRC
+T,Greece,2006,W074,11836.0,plastic,GRC
+T,Greece,2006,W075,2713.0,wood,GRC
+T,Greece,2006,W077_08,0.0,weee + batt + vehicles,GRC
+T,Greece,2006,W09,0.0,organic waste,GRC
+T,Greece,2006,W10,4088124.0,mixed waste,GRC
+T,Greece,2006,W11,0.0,common sludges,GRC
+T,Greece,2006,W12-13,0.0,mineral waste,GRC
+T,Greece,2008,W01-05,0.0,chemical and medical,GRC
+T,Greece,2008,W071,0.0,glass,GRC
+T,Greece,2008,W072,0.0,paper,GRC
+T,Greece,2008,W074,0.0,plastic,GRC
+T,Greece,2008,W075,0.0,wood,GRC
+T,Greece,2008,W077_08,0.0,weee + batt + vehicles,GRC
+T,Greece,2008,W09,0.0,organic waste,GRC
+T,Greece,2008,W10,3954486.0,mixed waste,GRC
+T,Greece,2008,W11,0.0,common sludges,GRC
+T,Greece,2008,W12-13,0.0,mineral waste,GRC
+T,Greece,2010,W01-05,0.0,chemical and medical,GRC
+T,Greece,2010,W06,0.0,metal,GRC
+T,Greece,2010,W071,0.0,glass,GRC
+T,Greece,2010,W072,0.0,paper,GRC
+T,Greece,2010,W074,0.0,plastic,GRC
+T,Greece,2010,W075,0.0,wood,GRC
+T,Greece,2010,W077_08,44491.0,weee + batt + vehicles,GRC
+T,Greece,2010,W09,0.0,organic waste,GRC
+T,Greece,2010,W10,5153028.0,mixed waste,GRC
+T,Greece,2010,W11,0.0,common sludges,GRC
+T,Greece,2010,W12-13,0.0,mineral waste,GRC
+T,Greece,2016,W01-05,0.0,chemical and medical,GRC
+T,Greece,2016,W06,0.0,metal,GRC
+T,Greece,2016,W071,0.0,glass,GRC
+T,Greece,2016,W072,0.0,paper,GRC
+T,Greece,2016,W074,0.0,plastic,GRC
+T,Greece,2016,W075,0.0,wood,GRC
+T,Greece,2016,W077_08,90847.0,weee + batt + vehicles,GRC
+T,Greece,2016,W09,182017.0,organic waste,GRC
+T,Greece,2016,W10,4516077.0,mixed waste,GRC
+T,Greece,2016,W11,0.0,common sludges,GRC
+T,Greece,2016,W12-13,0.0,mineral waste,GRC
+T,Greece,2018,W01-05,1176.0,chemical and medical,GRC
+T,Greece,2018,W06,8079.0,metal,GRC
+T,Greece,2018,W071,13586.0,glass,GRC
+T,Greece,2018,W072,29683.0,paper,GRC
+T,Greece,2018,W074,10553.0,plastic,GRC
+T,Greece,2018,W075,846.0,wood,GRC
+T,Greece,2018,W077_08,6918.0,weee + batt + vehicles,GRC
+T,Greece,2018,W09,65531.0,organic waste,GRC
+T,Greece,2018,W10,4388618.0,mixed waste,GRC
+T,Greece,2018,W11,11.0,common sludges,GRC
+T,Greece,2018,W12-13,50019.0,mineral waste,GRC
+T,Greece,2020,W01-05,980.0,chemical and medical,GRC
+T,Greece,2020,W06,793.0,metal,GRC
+T,Greece,2020,W071,11017.0,glass,GRC
+T,Greece,2020,W072,14976.0,paper,GRC
+T,Greece,2020,W074,16115.0,plastic,GRC
+T,Greece,2020,W075,515.0,wood,GRC
+T,Greece,2020,W077_08,3448.0,weee + batt + vehicles,GRC
+T,Greece,2020,W09,98204.0,organic waste,GRC
+T,Greece,2020,W10,4253277.0,mixed waste,GRC
+T,Greece,2020,W11,53.0,common sludges,GRC
+T,Greece,2020,W12-13,105021.0,mineral waste,GRC
+T,Greece,2022,W01-05,1403.0,chemical and medical,GRC
+T,Greece,2022,W06,622.0,metal,GRC
+T,Greece,2022,W071,10255.0,glass,GRC
+T,Greece,2022,W072,4351.0,paper,GRC
+T,Greece,2022,W074,1751.0,plastic,GRC
+T,Greece,2022,W075,53.0,wood,GRC
+T,Greece,2022,W077_08,4156.0,weee + batt + vehicles,GRC
+T,Greece,2022,W09,66762.0,organic waste,GRC
+T,Greece,2022,W10,3621569.0,mixed waste,GRC
+T,Greece,2022,W11,130.0,common sludges,GRC
+T,Greece,2022,W12-13,267557.0,mineral waste,GRC
+T,Spain,2004,W01-05,43093.0,chemical and medical,ESP
+T,Spain,2004,W071,401540.0,glass,ESP
+T,Spain,2004,W072,698274.0,paper,ESP
+T,Spain,2004,W074,132703.0,plastic,ESP
+T,Spain,2004,W075,117273.0,wood,ESP
+T,Spain,2004,W077_08,153893.0,weee + batt + vehicles,ESP
+T,Spain,2004,W09,11858.0,organic waste,ESP
+T,Spain,2004,W10,20121000.0,mixed waste,ESP
+T,Spain,2004,W11,46556.0,common sludges,ESP
+T,Spain,2004,W12-13,373.0,mineral waste,ESP
+T,Spain,2006,W01-05,46744.0,chemical and medical,ESP
+T,Spain,2006,W071,552114.0,glass,ESP
+T,Spain,2006,W072,824871.0,paper,ESP
+T,Spain,2006,W074,109383.0,plastic,ESP
+T,Spain,2006,W075,65747.0,wood,ESP
+T,Spain,2006,W077_08,91389.0,weee + batt + vehicles,ESP
+T,Spain,2006,W09,3052.0,organic waste,ESP
+T,Spain,2006,W10,20401721.0,mixed waste,ESP
+T,Spain,2006,W11,62891.0,common sludges,ESP
+T,Spain,2006,W12-13,0.0,mineral waste,ESP
+T,Spain,2008,W01-05,2895.0,chemical and medical,ESP
+T,Spain,2008,W071,526929.0,glass,ESP
+T,Spain,2008,W072,1098374.0,paper,ESP
+T,Spain,2008,W074,183948.0,plastic,ESP
+T,Spain,2008,W075,121059.0,wood,ESP
+T,Spain,2008,W077_08,111876.0,weee + batt + vehicles,ESP
+T,Spain,2008,W09,0.0,organic waste,ESP
+T,Spain,2008,W10,20912109.0,mixed waste,ESP
+T,Spain,2008,W11,30511.0,common sludges,ESP
+T,Spain,2008,W12-13,0.0,mineral waste,ESP
+T,Spain,2010,W01-05,2370.0,chemical and medical,ESP
+T,Spain,2010,W06,56415.0,metal,ESP
+T,Spain,2010,W071,609835.0,glass,ESP
+T,Spain,2010,W072,1224038.0,paper,ESP
+T,Spain,2010,W074,185499.0,plastic,ESP
+T,Spain,2010,W075,192053.0,wood,ESP
+T,Spain,2010,W077_08,102295.0,weee + batt + vehicles,ESP
+T,Spain,2010,W09,558430.0,organic waste,ESP
+T,Spain,2010,W10,19883975.0,mixed waste,ESP
+T,Spain,2010,W11,0.0,common sludges,ESP
+T,Spain,2010,W12-13,373386.0,mineral waste,ESP
+T,Spain,2012,W01-05,6677.0,chemical and medical,ESP
+T,Spain,2012,W06,34640.0,metal,ESP
+T,Spain,2012,W071,641815.0,glass,ESP
+T,Spain,2012,W072,847717.0,paper,ESP
+T,Spain,2012,W074,107524.0,plastic,ESP
+T,Spain,2012,W075,130509.0,wood,ESP
+T,Spain,2012,W077_08,52573.0,weee + batt + vehicles,ESP
+T,Spain,2012,W09,547564.0,organic waste,ESP
+T,Spain,2012,W10,18395381.0,mixed waste,ESP
+T,Spain,2012,W11,0.0,common sludges,ESP
+T,Spain,2012,W12-13,438925.0,mineral waste,ESP
+T,Spain,2014,W01-05,6879.0,chemical and medical,ESP
+T,Spain,2014,W06,22598.0,metal,ESP
+T,Spain,2014,W071,622299.0,glass,ESP
+T,Spain,2014,W072,762851.0,paper,ESP
+T,Spain,2014,W074,39891.0,plastic,ESP
+T,Spain,2014,W075,88583.0,wood,ESP
+T,Spain,2014,W077_08,73541.0,weee + batt + vehicles,ESP
+T,Spain,2014,W09,539685.0,organic waste,ESP
+T,Spain,2014,W10,17501185.0,mixed waste,ESP
+T,Spain,2014,W11,0.0,common sludges,ESP
+T,Spain,2014,W12-13,459629.0,mineral waste,ESP
+T,Spain,2016,W01-05,4238.0,chemical and medical,ESP
+T,Spain,2016,W06,20376.0,metal,ESP
+T,Spain,2016,W071,797928.0,glass,ESP
+T,Spain,2016,W072,1021166.0,paper,ESP
+T,Spain,2016,W074,25119.0,plastic,ESP
+T,Spain,2016,W075,95081.0,wood,ESP
+T,Spain,2016,W077_08,47989.0,weee + batt + vehicles,ESP
+T,Spain,2016,W09,596985.0,organic waste,ESP
+T,Spain,2016,W10,18750797.0,mixed waste,ESP
+T,Spain,2016,W11,0.0,common sludges,ESP
+T,Spain,2016,W12-13,295080.0,mineral waste,ESP
+T,Spain,2018,W01-05,9272.0,chemical and medical,ESP
+T,Spain,2018,W06,27875.0,metal,ESP
+T,Spain,2018,W071,834764.0,glass,ESP
+T,Spain,2018,W072,1067385.0,paper,ESP
+T,Spain,2018,W074,24050.0,plastic,ESP
+T,Spain,2018,W075,136153.0,wood,ESP
+T,Spain,2018,W077_08,60623.0,weee + batt + vehicles,ESP
+T,Spain,2018,W09,1010017.0,organic waste,ESP
+T,Spain,2018,W10,19016231.0,mixed waste,ESP
+T,Spain,2018,W11,0.0,common sludges,ESP
+T,Spain,2018,W12-13,472548.0,mineral waste,ESP
+T,Spain,2020,W01-05,4357.0,chemical and medical,ESP
+T,Spain,2020,W06,23051.0,metal,ESP
+T,Spain,2020,W071,828865.0,glass,ESP
+T,Spain,2020,W072,1340017.0,paper,ESP
+T,Spain,2020,W074,8713.0,plastic,ESP
+T,Spain,2020,W075,137533.0,wood,ESP
+T,Spain,2020,W077_08,179838.0,weee + batt + vehicles,ESP
+T,Spain,2020,W09,1253212.0,organic waste,ESP
+T,Spain,2020,W10,18217499.0,mixed waste,ESP
+T,Spain,2020,W11,0.0,common sludges,ESP
+T,Spain,2020,W12-13,451652.0,mineral waste,ESP
+T,Spain,2022,W01-05,4988.0,chemical and medical,ESP
+T,Spain,2022,W06,24192.0,metal,ESP
+T,Spain,2022,W071,934156.0,glass,ESP
+T,Spain,2022,W072,1493450.0,paper,ESP
+T,Spain,2022,W074,24293.0,plastic,ESP
+T,Spain,2022,W075,165040.0,wood,ESP
+T,Spain,2022,W077_08,209335.0,weee + batt + vehicles,ESP
+T,Spain,2022,W09,1466356.0,organic waste,ESP
+T,Spain,2022,W10,18790508.0,mixed waste,ESP
+T,Spain,2022,W11,0.0,common sludges,ESP
+T,Spain,2022,W12-13,496513.0,mineral waste,ESP
+T,European Union - 27 countries (from 2020),2004,W01-05,230000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W071,7090000.0,glass,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W072,14220000.0,paper,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W074,1510000.0,plastic,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W075,2100000.0,wood,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W077_08,1600000.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W09,10000.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W10,129950000.0,mixed waste,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W11,160000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2004,W12-13,10000.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W01-05,280000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W071,6430000.0,glass,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W072,14900000.0,paper,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W074,2090000.0,plastic,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W075,2470000.0,wood,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W077_08,1710000.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W09,0.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W10,129300000.0,mixed waste,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W11,170000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W12-13,310000.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W01-05,160000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W071,6920000.0,glass,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W072,15880000.0,paper,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W074,1860000.0,plastic,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W075,2730000.0,wood,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W077_08,1920000.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W09,0.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W10,128570000.0,mixed waste,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W11,130000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W12-13,0.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W01-05,170000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W06,3630000.0,metal,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W071,8220000.0,glass,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W072,16010000.0,paper,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W074,2070000.0,plastic,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W075,3280000.0,wood,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W077_08,2850000.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W09,22250000.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W10,126560000.0,mixed waste,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W11,250000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W12-13,3280000.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2012,W01-05,70000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2012,W077_08,0.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2012,W09,0.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2012,W11,120000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2012,W12-13,100000.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2014,W01-05,60000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2014,W077_08,0.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2014,W09,0.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2014,W11,120000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2014,W12-13,90000.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W01-05,220000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W06,2570000.0,metal,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W071,8490000.0,glass,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W072,15360000.0,paper,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W074,2900000.0,plastic,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W075,4330000.0,wood,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W077_08,3430000.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W09,28310000.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W10,114400000.0,mixed waste,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W11,110000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W12-13,5510000.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W01-05,150000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W06,4200000.0,metal,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W071,9070000.0,glass,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W072,16240000.0,paper,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W074,3280000.0,plastic,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W075,4870000.0,wood,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W077_08,4400000.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W09,21630000.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W10,112530000.0,mixed waste,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W11,130000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W12-13,6120000.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W01-05,210000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W06,4540000.0,metal,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W071,9910000.0,glass,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W072,15690000.0,paper,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W074,3800000.0,plastic,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W075,5100000.0,wood,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W077_08,4430000.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W09,33560000.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W10,113670000.0,mixed waste,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W11,230000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W12-13,7420000.0,mineral waste,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W01-05,200000.0,chemical and medical,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W06,3930000.0,metal,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W071,10240000.0,glass,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W072,16000000.0,paper,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W074,4020000.0,plastic,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W075,4840000.0,wood,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W077_08,4150000.0,weee + batt + vehicles,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W09,33550000.0,organic waste,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W10,110570000.0,mixed waste,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W11,90000.0,common sludges,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W12-13,7140000.0,mineral waste,EU27_2020
+T,European Union - 28 countries (2013-2020),2004,W01-05,240000.0,chemical and medical,
+T,European Union - 28 countries (2013-2020),2004,W071,7880000.0,glass,
+T,European Union - 28 countries (2013-2020),2004,W072,16280000.0,paper,
+T,European Union - 28 countries (2013-2020),2004,W074,1630000.0,plastic,
+T,European Union - 28 countries (2013-2020),2004,W075,2390000.0,wood,
+T,European Union - 28 countries (2013-2020),2004,W077_08,2230000.0,weee + batt + vehicles,
+T,European Union - 28 countries (2013-2020),2004,W09,10000.0,organic waste,
+T,European Union - 28 countries (2013-2020),2004,W10,154410000.0,mixed waste,
+T,European Union - 28 countries (2013-2020),2004,W11,160000.0,common sludges,
+T,European Union - 28 countries (2013-2020),2004,W12-13,20000.0,mineral waste,
+T,European Union - 28 countries (2013-2020),2006,W01-05,290000.0,chemical and medical,
+T,European Union - 28 countries (2013-2020),2006,W071,7380000.0,glass,
+T,European Union - 28 countries (2013-2020),2006,W072,16770000.0,paper,
+T,European Union - 28 countries (2013-2020),2006,W074,2170000.0,plastic,
+T,European Union - 28 countries (2013-2020),2006,W075,3010000.0,wood,
+T,European Union - 28 countries (2013-2020),2006,W077_08,2900000.0,weee + batt + vehicles,
+T,European Union - 28 countries (2013-2020),2006,W09,0.0,organic waste,
+T,European Union - 28 countries (2013-2020),2006,W10,152390000.0,mixed waste,
+T,European Union - 28 countries (2013-2020),2006,W11,170000.0,common sludges,
+T,European Union - 28 countries (2013-2020),2006,W12-13,310000.0,mineral waste,
+T,European Union - 28 countries (2013-2020),2008,W01-05,200000.0,chemical and medical,
+T,European Union - 28 countries (2013-2020),2008,W071,8010000.0,glass,
+T,European Union - 28 countries (2013-2020),2008,W072,17680000.0,paper,
+T,European Union - 28 countries (2013-2020),2008,W074,1960000.0,plastic,
+T,European Union - 28 countries (2013-2020),2008,W075,3280000.0,wood,
+T,European Union - 28 countries (2013-2020),2008,W077_08,3120000.0,weee + batt + vehicles,
+T,European Union - 28 countries (2013-2020),2008,W09,0.0,organic waste,
+T,European Union - 28 countries (2013-2020),2008,W10,149740000.0,mixed waste,
+T,European Union - 28 countries (2013-2020),2008,W11,130000.0,common sludges,
+T,European Union - 28 countries (2013-2020),2008,W12-13,0.0,mineral waste,
+T,European Union - 28 countries (2013-2020),2010,W01-05,180000.0,chemical and medical,
+T,European Union - 28 countries (2013-2020),2010,W06,4140000.0,metal,
+T,European Union - 28 countries (2013-2020),2010,W071,9580000.0,glass,
+T,European Union - 28 countries (2013-2020),2010,W072,18920000.0,paper,
+T,European Union - 28 countries (2013-2020),2010,W074,2410000.0,plastic,
+T,European Union - 28 countries (2013-2020),2010,W075,4020000.0,wood,
+T,European Union - 28 countries (2013-2020),2010,W077_08,3200000.0,weee + batt + vehicles,
+T,European Union - 28 countries (2013-2020),2010,W09,26550000.0,organic waste,
+T,European Union - 28 countries (2013-2020),2010,W10,143090000.0,mixed waste,
+T,European Union - 28 countries (2013-2020),2010,W11,250000.0,common sludges,
+T,European Union - 28 countries (2013-2020),2010,W12-13,3460000.0,mineral waste,
+T,European Union - 28 countries (2013-2020),2012,W01-05,210000.0,chemical and medical,
+T,European Union - 28 countries (2013-2020),2012,W06,3560000.0,metal,
+T,European Union - 28 countries (2013-2020),2012,W071,9520000.0,glass,
+T,European Union - 28 countries (2013-2020),2012,W072,18530000.0,paper,
+T,European Union - 28 countries (2013-2020),2012,W074,2880000.0,plastic,
+T,European Union - 28 countries (2013-2020),2012,W075,4200000.0,wood,
+T,European Union - 28 countries (2013-2020),2012,W077_08,3140000.0,weee + batt + vehicles,
+T,European Union - 28 countries (2013-2020),2012,W09,28730000.0,organic waste,
+T,European Union - 28 countries (2013-2020),2012,W10,135310000.0,mixed waste,
+T,European Union - 28 countries (2013-2020),2012,W11,120000.0,common sludges,
+T,European Union - 28 countries (2013-2020),2012,W12-13,2160000.0,mineral waste,
+T,European Union - 28 countries (2013-2020),2014,W01-05,210000.0,chemical and medical,
+T,European Union - 28 countries (2013-2020),2014,W06,2950000.0,metal,
+T,European Union - 28 countries (2013-2020),2014,W071,9460000.0,glass,
+T,European Union - 28 countries (2013-2020),2014,W072,17920000.0,paper,
+T,European Union - 28 countries (2013-2020),2014,W074,3100000.0,plastic,
+T,European Union - 28 countries (2013-2020),2014,W075,5020000.0,wood,
+T,European Union - 28 countries (2013-2020),2014,W077_08,3140000.0,weee + batt + vehicles,
+T,European Union - 28 countries (2013-2020),2014,W09,31150000.0,organic waste,
+T,European Union - 28 countries (2013-2020),2014,W10,128600000.0,mixed waste,
+T,European Union - 28 countries (2013-2020),2014,W11,120000.0,common sludges,
+T,European Union - 28 countries (2013-2020),2014,W12-13,2080000.0,mineral waste,
+T,European Union - 28 countries (2013-2020),2016,W01-05,240000.0,chemical and medical,
+T,European Union - 28 countries (2013-2020),2016,W06,3180000.0,metal,
+T,European Union - 28 countries (2013-2020),2016,W071,9920000.0,glass,
+T,European Union - 28 countries (2013-2020),2016,W072,18120000.0,paper,
+T,European Union - 28 countries (2013-2020),2016,W074,3410000.0,plastic,
+T,European Union - 28 countries (2013-2020),2016,W075,5230000.0,wood,
+T,European Union - 28 countries (2013-2020),2016,W077_08,3800000.0,weee + batt + vehicles,
+T,European Union - 28 countries (2013-2020),2016,W09,33270000.0,organic waste,
+T,European Union - 28 countries (2013-2020),2016,W10,130000000.0,mixed waste,
+T,European Union - 28 countries (2013-2020),2016,W11,110000.0,common sludges,
+T,European Union - 28 countries (2013-2020),2016,W12-13,5510000.0,mineral waste,
+T,European Union - 28 countries (2013-2020),2018,W01-05,180000.0,chemical and medical,
+T,European Union - 28 countries (2013-2020),2018,W06,4770000.0,metal,
+T,European Union - 28 countries (2013-2020),2018,W071,10500000.0,glass,
+T,European Union - 28 countries (2013-2020),2018,W072,18930000.0,paper,
+T,European Union - 28 countries (2013-2020),2018,W074,3810000.0,plastic,
+T,European Union - 28 countries (2013-2020),2018,W075,5750000.0,wood,
+T,European Union - 28 countries (2013-2020),2018,W077_08,4730000.0,weee + batt + vehicles,
+T,European Union - 28 countries (2013-2020),2018,W09,25710000.0,organic waste,
+T,European Union - 28 countries (2013-2020),2018,W10,127610000.0,mixed waste,
+T,European Union - 28 countries (2013-2020),2018,W11,130000.0,common sludges,
+T,European Union - 28 countries (2013-2020),2018,W12-13,6120000.0,mineral waste,
+T,Finland,2004,W01-05,1805.0,chemical and medical,FIN
+T,Finland,2004,W071,54745.0,glass,FIN
+T,Finland,2004,W072,205000.0,paper,FIN
+T,Finland,2004,W074,11529.0,plastic,FIN
+T,Finland,2004,W075,23746.0,wood,FIN
+T,Finland,2004,W077_08,8529.0,weee + batt + vehicles,FIN
+T,Finland,2004,W09,0.0,organic waste,FIN
+T,Finland,2004,W10,779609.0,mixed waste,FIN
+T,Finland,2004,W11,0.0,common sludges,FIN
+T,Finland,2004,W12-13,0.0,mineral waste,FIN
+T,Finland,2006,W01-05,1184.0,chemical and medical,FIN
+T,Finland,2006,W071,63036.0,glass,FIN
+T,Finland,2006,W072,196123.0,paper,FIN
+T,Finland,2006,W074,12914.0,plastic,FIN
+T,Finland,2006,W075,14454.0,wood,FIN
+T,Finland,2006,W077_08,20522.0,weee + batt + vehicles,FIN
+T,Finland,2006,W09,0.0,organic waste,FIN
+T,Finland,2006,W10,772587.0,mixed waste,FIN
+T,Finland,2006,W11,0.0,common sludges,FIN
+T,Finland,2006,W12-13,0.0,mineral waste,FIN
+T,Finland,2008,W01-05,354.0,chemical and medical,FIN
+T,Finland,2008,W071,53300.0,glass,FIN
+T,Finland,2008,W072,226900.0,paper,FIN
+T,Finland,2008,W074,22800.0,plastic,FIN
+T,Finland,2008,W075,62400.0,wood,FIN
+T,Finland,2008,W077_08,35855.0,weee + batt + vehicles,FIN
+T,Finland,2008,W09,0.0,organic waste,FIN
+T,Finland,2008,W10,1063591.0,mixed waste,FIN
+T,Finland,2008,W11,0.0,common sludges,FIN
+T,Finland,2008,W12-13,0.0,mineral waste,FIN
+T,Finland,2010,W01-05,0.0,chemical and medical,FIN
+T,Finland,2010,W06,9778.0,metal,FIN
+T,Finland,2010,W071,43187.0,glass,FIN
+T,Finland,2010,W072,247067.0,paper,FIN
+T,Finland,2010,W074,9463.0,plastic,FIN
+T,Finland,2010,W075,22696.0,wood,FIN
+T,Finland,2010,W077_08,187700.0,weee + batt + vehicles,FIN
+T,Finland,2010,W09,168474.0,organic waste,FIN
+T,Finland,2010,W10,862089.0,mixed waste,FIN
+T,Finland,2010,W11,130309.0,common sludges,FIN
+T,Finland,2010,W12-13,0.0,mineral waste,FIN
+T,Finland,2012,W01-05,4920.0,chemical and medical,FIN
+T,Finland,2012,W06,88040.0,metal,FIN
+T,Finland,2012,W071,70209.0,glass,FIN
+T,Finland,2012,W072,206590.0,paper,FIN
+T,Finland,2012,W074,1978.0,plastic,FIN
+T,Finland,2012,W075,34866.0,wood,FIN
+T,Finland,2012,W077_08,193880.0,weee + batt + vehicles,FIN
+T,Finland,2012,W09,165165.0,organic waste,FIN
+T,Finland,2012,W10,961112.0,mixed waste,FIN
+T,Finland,2012,W11,0.0,common sludges,FIN
+T,Finland,2012,W12-13,0.0,mineral waste,FIN
+T,Finland,2014,W01-05,0.0,chemical and medical,FIN
+T,Finland,2014,W06,31486.0,metal,FIN
+T,Finland,2014,W071,4997.0,glass,FIN
+T,Finland,2014,W072,203397.0,paper,FIN
+T,Finland,2014,W074,28559.0,plastic,FIN
+T,Finland,2014,W075,28473.0,wood,FIN
+T,Finland,2014,W077_08,165068.0,weee + batt + vehicles,FIN
+T,Finland,2014,W09,222542.0,organic waste,FIN
+T,Finland,2014,W10,918437.0,mixed waste,FIN
+T,Finland,2014,W11,0.0,common sludges,FIN
+T,Finland,2014,W12-13,0.0,mineral waste,FIN
+T,Finland,2016,W01-05,0.0,chemical and medical,FIN
+T,Finland,2016,W06,113343.0,metal,FIN
+T,Finland,2016,W071,54150.0,glass,FIN
+T,Finland,2016,W072,71636.0,paper,FIN
+T,Finland,2016,W074,27614.0,plastic,FIN
+T,Finland,2016,W075,29264.0,wood,FIN
+T,Finland,2016,W077_08,158453.0,weee + batt + vehicles,FIN
+T,Finland,2016,W09,261041.0,organic waste,FIN
+T,Finland,2016,W10,1076158.0,mixed waste,FIN
+T,Finland,2016,W11,0.0,common sludges,FIN
+T,Finland,2016,W12-13,0.0,mineral waste,FIN
+T,Finland,2018,W01-05,491.0,chemical and medical,FIN
+T,Finland,2018,W06,89916.0,metal,FIN
+T,Finland,2018,W071,62896.0,glass,FIN
+T,Finland,2018,W072,291650.0,paper,FIN
+T,Finland,2018,W074,37500.0,plastic,FIN
+T,Finland,2018,W075,67771.0,wood,FIN
+T,Finland,2018,W077_08,165655.0,weee + batt + vehicles,FIN
+T,Finland,2018,W09,301787.0,organic waste,FIN
+T,Finland,2018,W10,1003775.0,mixed waste,FIN
+T,Finland,2018,W11,2633.0,common sludges,FIN
+T,Finland,2018,W12-13,0.0,mineral waste,FIN
+T,Finland,2020,W01-05,1188.0,chemical and medical,FIN
+T,Finland,2020,W06,87004.0,metal,FIN
+T,Finland,2020,W071,55009.0,glass,FIN
+T,Finland,2020,W072,357573.0,paper,FIN
+T,Finland,2020,W074,69644.0,plastic,FIN
+T,Finland,2020,W075,71953.0,wood,FIN
+T,Finland,2020,W077_08,184896.0,weee + batt + vehicles,FIN
+T,Finland,2020,W09,370047.0,organic waste,FIN
+T,Finland,2020,W10,1277803.0,mixed waste,FIN
+T,Finland,2020,W11,0.0,common sludges,FIN
+T,Finland,2020,W12-13,0.0,mineral waste,FIN
+T,Finland,2022,W01-05,1367.0,chemical and medical,FIN
+T,Finland,2022,W06,24370.0,metal,FIN
+T,Finland,2022,W071,57049.0,glass,FIN
+T,Finland,2022,W072,219688.0,paper,FIN
+T,Finland,2022,W074,44886.0,plastic,FIN
+T,Finland,2022,W075,41678.0,wood,FIN
+T,Finland,2022,W077_08,169681.0,weee + batt + vehicles,FIN
+T,Finland,2022,W09,253231.0,organic waste,FIN
+T,Finland,2022,W10,832741.0,mixed waste,FIN
+T,Finland,2022,W11,0.0,common sludges,FIN
+T,Finland,2022,W12-13,340.0,mineral waste,FIN
+T,France,2004,W01-05,38200.0,chemical and medical,FRA
+T,France,2004,W071,1466000.0,glass,FRA
+T,France,2004,W072,1038500.0,paper,FRA
+T,France,2004,W074,157000.0,plastic,FRA
+T,France,2004,W075,0.0,wood,FRA
+T,France,2004,W077_08,9000.0,weee + batt + vehicles,FRA
+T,France,2004,W09,0.0,organic waste,FRA
+T,France,2004,W10,19818000.0,mixed waste,FRA
+T,France,2004,W11,0.0,common sludges,FRA
+T,France,2004,W12-13,0.0,mineral waste,FRA
+T,France,2006,W01-05,31700.0,chemical and medical,FRA
+T,France,2006,W071,1492400.0,glass,FRA
+T,France,2006,W072,1110800.0,paper,FRA
+T,France,2006,W074,176500.0,plastic,FRA
+T,France,2006,W075,0.0,wood,FRA
+T,France,2006,W077_08,36800.0,weee + batt + vehicles,FRA
+T,France,2006,W09,0.0,organic waste,FRA
+T,France,2006,W10,20441500.0,mixed waste,FRA
+T,France,2006,W11,0.0,common sludges,FRA
+T,France,2006,W12-13,0.0,mineral waste,FRA
+T,France,2008,W01-05,54060.0,chemical and medical,FRA
+T,France,2008,W071,1668800.0,glass,FRA
+T,France,2008,W072,1246430.0,paper,FRA
+T,France,2008,W074,180940.0,plastic,FRA
+T,France,2008,W075,0.0,wood,FRA
+T,France,2008,W077_08,94910.0,weee + batt + vehicles,FRA
+T,France,2008,W09,0.0,organic waste,FRA
+T,France,2008,W10,19468000.0,mixed waste,FRA
+T,France,2008,W11,0.0,common sludges,FRA
+T,France,2008,W12-13,0.0,mineral waste,FRA
+T,France,2010,W01-05,14435.0,chemical and medical,FRA
+T,France,2010,W06,636131.0,metal,FRA
+T,France,2010,W071,1706185.0,glass,FRA
+T,France,2010,W072,1392789.0,paper,FRA
+T,France,2010,W074,190900.0,plastic,FRA
+T,France,2010,W075,624775.0,wood,FRA
+T,France,2010,W077_08,228374.0,weee + batt + vehicles,FRA
+T,France,2010,W09,3771278.0,organic waste,FRA
+T,France,2010,W10,18042903.0,mixed waste,FRA
+T,France,2010,W11,0.0,common sludges,FRA
+T,France,2010,W12-13,0.0,mineral waste,FRA
+T,France,2012,W01-05,19382.0,chemical and medical,FRA
+T,France,2012,W06,622342.0,metal,FRA
+T,France,2012,W071,1745115.0,glass,FRA
+T,France,2012,W072,1697280.0,paper,FRA
+T,France,2012,W074,288600.0,plastic,FRA
+T,France,2012,W075,840381.0,wood,FRA
+T,France,2012,W077_08,222581.0,weee + batt + vehicles,FRA
+T,France,2012,W09,3703923.0,organic waste,FRA
+T,France,2012,W10,17657408.0,mixed waste,FRA
+T,France,2012,W11,0.0,common sludges,FRA
+T,France,2012,W12-13,0.0,mineral waste,FRA
+T,France,2014,W01-05,12437.0,chemical and medical,FRA
+T,France,2014,W06,363702.0,metal,FRA
+T,France,2014,W071,1733653.0,glass,FRA
+T,France,2014,W072,1595000.0,paper,FRA
+T,France,2014,W074,251000.0,plastic,FRA
+T,France,2014,W075,916810.0,wood,FRA
+T,France,2014,W077_08,231751.0,weee + batt + vehicles,FRA
+T,France,2014,W09,3696763.0,organic waste,FRA
+T,France,2014,W10,16639173.0,mixed waste,FRA
+T,France,2014,W11,0.0,common sludges,FRA
+T,France,2014,W12-13,0.0,mineral waste,FRA
+T,France,2016,W01-05,13188.0,chemical and medical,FRA
+T,France,2016,W06,569159.0,metal,FRA
+T,France,2016,W071,1551910.0,glass,FRA
+T,France,2016,W072,1580280.0,paper,FRA
+T,France,2016,W074,282000.0,plastic,FRA
+T,France,2016,W075,979676.0,wood,FRA
+T,France,2016,W077_08,767168.0,weee + batt + vehicles,FRA
+T,France,2016,W09,3806779.0,organic waste,FRA
+T,France,2016,W10,16516350.0,mixed waste,FRA
+T,France,2016,W11,0.0,common sludges,FRA
+T,France,2016,W12-13,2806451.0,mineral waste,FRA
+T,France,2018,W01-05,36500.0,chemical and medical,FRA
+T,France,2018,W06,668654.0,metal,FRA
+T,France,2018,W071,1603493.0,glass,FRA
+T,France,2018,W072,1567800.0,paper,FRA
+T,France,2018,W074,313000.0,plastic,FRA
+T,France,2018,W075,996757.0,wood,FRA
+T,France,2018,W077_08,1064118.0,weee + batt + vehicles,FRA
+T,France,2018,W09,4095868.0,organic waste,FRA
+T,France,2018,W10,16416986.0,mixed waste,FRA
+T,France,2018,W11,0.0,common sludges,FRA
+T,France,2018,W12-13,2857203.0,mineral waste,FRA
+T,France,2020,W01-05,15715.0,chemical and medical,FRA
+T,France,2020,W06,693760.0,metal,FRA
+T,France,2020,W071,1819353.0,glass,FRA
+T,France,2020,W072,1383247.0,paper,FRA
+T,France,2020,W074,329000.0,plastic,FRA
+T,France,2020,W075,1026710.0,wood,FRA
+T,France,2020,W077_08,945357.0,weee + batt + vehicles,FRA
+T,France,2020,W09,4519392.0,organic waste,FRA
+T,France,2020,W10,16125769.0,mixed waste,FRA
+T,France,2020,W11,0.0,common sludges,FRA
+T,France,2020,W12-13,2893458.0,mineral waste,FRA
+T,France,2022,W01-05,5654.0,chemical and medical,FRA
+T,France,2022,W06,755182.0,metal,FRA
+T,France,2022,W071,1928585.0,glass,FRA
+T,France,2022,W072,1504061.0,paper,FRA
+T,France,2022,W074,380000.0,plastic,FRA
+T,France,2022,W075,1096826.0,wood,FRA
+T,France,2022,W077_08,958992.0,weee + batt + vehicles,FRA
+T,France,2022,W09,4833002.0,organic waste,FRA
+T,France,2022,W10,16227886.0,mixed waste,FRA
+T,France,2022,W11,0.0,common sludges,FRA
+T,France,2022,W12-13,3360359.0,mineral waste,FRA
+T,Croatia,2004,W01-05,0.0,chemical and medical,HRV
+T,Croatia,2004,W071,0.0,glass,HRV
+T,Croatia,2004,W072,0.0,paper,HRV
+T,Croatia,2004,W074,0.0,plastic,HRV
+T,Croatia,2004,W075,0.0,wood,HRV
+T,Croatia,2004,W077_08,0.0,weee + batt + vehicles,HRV
+T,Croatia,2004,W09,0.0,organic waste,HRV
+T,Croatia,2004,W10,0.0,mixed waste,HRV
+T,Croatia,2004,W11,0.0,common sludges,HRV
+T,Croatia,2004,W12-13,0.0,mineral waste,HRV
+T,Croatia,2006,W01-05,89556.0,chemical and medical,HRV
+T,Croatia,2006,W071,0.0,glass,HRV
+T,Croatia,2006,W072,0.0,paper,HRV
+T,Croatia,2006,W074,0.0,plastic,HRV
+T,Croatia,2006,W075,32833.0,wood,HRV
+T,Croatia,2006,W077_08,3324.0,weee + batt + vehicles,HRV
+T,Croatia,2006,W09,0.0,organic waste,HRV
+T,Croatia,2006,W10,19.0,mixed waste,HRV
+T,Croatia,2006,W11,0.0,common sludges,HRV
+T,Croatia,2006,W12-13,2381.0,mineral waste,HRV
+T,Croatia,2008,W01-05,0.0,chemical and medical,HRV
+T,Croatia,2008,W071,0.0,glass,HRV
+T,Croatia,2008,W072,0.0,paper,HRV
+T,Croatia,2008,W074,0.0,plastic,HRV
+T,Croatia,2008,W075,0.0,wood,HRV
+T,Croatia,2008,W077_08,0.0,weee + batt + vehicles,HRV
+T,Croatia,2008,W09,0.0,organic waste,HRV
+T,Croatia,2008,W10,0.0,mixed waste,HRV
+T,Croatia,2008,W11,0.0,common sludges,HRV
+T,Croatia,2008,W12-13,0.0,mineral waste,HRV
+T,Croatia,2010,W01-05,0.0,chemical and medical,HRV
+T,Croatia,2010,W06,0.0,metal,HRV
+T,Croatia,2010,W071,0.0,glass,HRV
+T,Croatia,2010,W072,0.0,paper,HRV
+T,Croatia,2010,W074,0.0,plastic,HRV
+T,Croatia,2010,W075,0.0,wood,HRV
+T,Croatia,2010,W077_08,0.0,weee + batt + vehicles,HRV
+T,Croatia,2010,W09,0.0,organic waste,HRV
+T,Croatia,2010,W10,0.0,mixed waste,HRV
+T,Croatia,2010,W11,0.0,common sludges,HRV
+T,Croatia,2010,W12-13,0.0,mineral waste,HRV
+T,Croatia,2012,W01-05,33.0,chemical and medical,HRV
+T,Croatia,2012,W06,14009.0,metal,HRV
+T,Croatia,2012,W071,15644.0,glass,HRV
+T,Croatia,2012,W072,20436.0,paper,HRV
+T,Croatia,2012,W074,10817.0,plastic,HRV
+T,Croatia,2012,W075,685.0,wood,HRV
+T,Croatia,2012,W077_08,42351.0,weee + batt + vehicles,HRV
+T,Croatia,2012,W09,32343.0,organic waste,HRV
+T,Croatia,2012,W10,1054213.0,mixed waste,HRV
+T,Croatia,2012,W11,0.0,common sludges,HRV
+T,Croatia,2012,W12-13,0.0,mineral waste,HRV
+T,Croatia,2014,W01-05,10.0,chemical and medical,HRV
+T,Croatia,2014,W06,4900.0,metal,HRV
+T,Croatia,2014,W071,22066.0,glass,HRV
+T,Croatia,2014,W072,28652.0,paper,HRV
+T,Croatia,2014,W074,15169.0,plastic,HRV
+T,Croatia,2014,W075,8242.0,wood,HRV
+T,Croatia,2014,W077_08,35061.0,weee + batt + vehicles,HRV
+T,Croatia,2014,W09,37302.0,organic waste,HRV
+T,Croatia,2014,W10,1010519.0,mixed waste,HRV
+T,Croatia,2014,W11,0.0,common sludges,HRV
+T,Croatia,2014,W12-13,0.0,mineral waste,HRV
+T,Croatia,2016,W01-05,18.0,chemical and medical,HRV
+T,Croatia,2016,W06,4944.0,metal,HRV
+T,Croatia,2016,W071,20137.0,glass,HRV
+T,Croatia,2016,W072,39015.0,paper,HRV
+T,Croatia,2016,W074,18094.0,plastic,HRV
+T,Croatia,2016,W075,1180.0,wood,HRV
+T,Croatia,2016,W077_08,40969.0,weee + batt + vehicles,HRV
+T,Croatia,2016,W09,23398.0,organic waste,HRV
+T,Croatia,2016,W10,994849.0,mixed waste,HRV
+T,Croatia,2016,W11,0.0,common sludges,HRV
+T,Croatia,2016,W12-13,0.0,mineral waste,HRV
+T,Croatia,2018,W01-05,307.0,chemical and medical,HRV
+T,Croatia,2018,W06,51189.0,metal,HRV
+T,Croatia,2018,W071,10242.0,glass,HRV
+T,Croatia,2018,W072,60277.0,paper,HRV
+T,Croatia,2018,W074,18250.0,plastic,HRV
+T,Croatia,2018,W075,8838.0,wood,HRV
+T,Croatia,2018,W077_08,68414.0,weee + batt + vehicles,HRV
+T,Croatia,2018,W09,26533.0,organic waste,HRV
+T,Croatia,2018,W10,1045430.0,mixed waste,HRV
+T,Croatia,2018,W11,0.0,common sludges,HRV
+T,Croatia,2018,W12-13,30.0,mineral waste,HRV
+T,Croatia,2020,W01-05,730.0,chemical and medical,HRV
+T,Croatia,2020,W06,30500.0,metal,HRV
+T,Croatia,2020,W071,11515.0,glass,HRV
+T,Croatia,2020,W072,68796.0,paper,HRV
+T,Croatia,2020,W074,32934.0,plastic,HRV
+T,Croatia,2020,W075,14360.0,wood,HRV
+T,Croatia,2020,W077_08,86410.0,weee + batt + vehicles,HRV
+T,Croatia,2020,W09,59213.0,organic waste,HRV
+T,Croatia,2020,W10,902314.0,mixed waste,HRV
+T,Croatia,2020,W11,0.0,common sludges,HRV
+T,Croatia,2020,W12-13,26.0,mineral waste,HRV
+T,Croatia,2022,W01-05,860.0,chemical and medical,HRV
+T,Croatia,2022,W06,29160.0,metal,HRV
+T,Croatia,2022,W071,17442.0,glass,HRV
+T,Croatia,2022,W072,82279.0,paper,HRV
+T,Croatia,2022,W074,45875.0,plastic,HRV
+T,Croatia,2022,W075,20319.0,wood,HRV
+T,Croatia,2022,W077_08,70427.0,weee + batt + vehicles,HRV
+T,Croatia,2022,W09,71624.0,organic waste,HRV
+T,Croatia,2022,W10,881913.0,mixed waste,HRV
+T,Croatia,2022,W11,0.0,common sludges,HRV
+T,Croatia,2022,W12-13,49.0,mineral waste,HRV
+T,Hungary,2004,W01-05,0.0,chemical and medical,HUN
+T,Hungary,2004,W071,3490.0,glass,HUN
+T,Hungary,2004,W072,431710.0,paper,HUN
+T,Hungary,2004,W074,30680.0,plastic,HUN
+T,Hungary,2004,W075,25530.0,wood,HUN
+T,Hungary,2004,W077_08,0.0,weee + batt + vehicles,HUN
+T,Hungary,2004,W09,0.0,organic waste,HUN
+T,Hungary,2004,W10,3764130.0,mixed waste,HUN
+T,Hungary,2004,W11,0.0,common sludges,HUN
+T,Hungary,2004,W12-13,0.0,mineral waste,HUN
+T,Hungary,2006,W01-05,0.0,chemical and medical,HUN
+T,Hungary,2006,W071,13455.0,glass,HUN
+T,Hungary,2006,W072,50883.0,paper,HUN
+T,Hungary,2006,W074,16632.0,plastic,HUN
+T,Hungary,2006,W075,0.0,wood,HUN
+T,Hungary,2006,W077_08,0.0,weee + batt + vehicles,HUN
+T,Hungary,2006,W09,0.0,organic waste,HUN
+T,Hungary,2006,W10,2847370.0,mixed waste,HUN
+T,Hungary,2006,W11,0.0,common sludges,HUN
+T,Hungary,2006,W12-13,0.0,mineral waste,HUN
+T,Hungary,2008,W01-05,0.0,chemical and medical,HUN
+T,Hungary,2008,W071,17742.0,glass,HUN
+T,Hungary,2008,W072,122236.0,paper,HUN
+T,Hungary,2008,W074,20193.0,plastic,HUN
+T,Hungary,2008,W075,1464.0,wood,HUN
+T,Hungary,2008,W077_08,42537.0,weee + batt + vehicles,HUN
+T,Hungary,2008,W09,0.0,organic waste,HUN
+T,Hungary,2008,W10,3020031.0,mixed waste,HUN
+T,Hungary,2008,W11,0.0,common sludges,HUN
+T,Hungary,2008,W12-13,0.0,mineral waste,HUN
+T,Hungary,2010,W01-05,104.0,chemical and medical,HUN
+T,Hungary,2010,W06,177536.0,metal,HUN
+T,Hungary,2010,W071,22007.0,glass,HUN
+T,Hungary,2010,W072,120293.0,paper,HUN
+T,Hungary,2010,W074,23481.0,plastic,HUN
+T,Hungary,2010,W075,2940.0,wood,HUN
+T,Hungary,2010,W077_08,27940.0,weee + batt + vehicles,HUN
+T,Hungary,2010,W09,103086.0,organic waste,HUN
+T,Hungary,2010,W10,2367376.0,mixed waste,HUN
+T,Hungary,2010,W11,0.0,common sludges,HUN
+T,Hungary,2010,W12-13,2604.0,mineral waste,HUN
+T,Hungary,2012,W01-05,172.0,chemical and medical,HUN
+T,Hungary,2012,W06,205377.0,metal,HUN
+T,Hungary,2012,W071,36004.0,glass,HUN
+T,Hungary,2012,W072,153177.0,paper,HUN
+T,Hungary,2012,W074,42722.0,plastic,HUN
+T,Hungary,2012,W075,2071.0,wood,HUN
+T,Hungary,2012,W077_08,37400.0,weee + batt + vehicles,HUN
+T,Hungary,2012,W09,4012.0,organic waste,HUN
+T,Hungary,2012,W10,2197125.0,mixed waste,HUN
+T,Hungary,2012,W11,0.0,common sludges,HUN
+T,Hungary,2012,W12-13,0.0,mineral waste,HUN
+T,Hungary,2014,W01-05,21.0,chemical and medical,HUN
+T,Hungary,2014,W06,152697.0,metal,HUN
+T,Hungary,2014,W071,21782.0,glass,HUN
+T,Hungary,2014,W072,140033.0,paper,HUN
+T,Hungary,2014,W074,27610.0,plastic,HUN
+T,Hungary,2014,W075,2131.0,wood,HUN
+T,Hungary,2014,W077_08,24487.0,weee + batt + vehicles,HUN
+T,Hungary,2014,W09,529.0,organic waste,HUN
+T,Hungary,2014,W10,2581736.0,mixed waste,HUN
+T,Hungary,2014,W11,0.0,common sludges,HUN
+T,Hungary,2014,W12-13,0.0,mineral waste,HUN
+T,Hungary,2016,W01-05,1192.0,chemical and medical,HUN
+T,Hungary,2016,W06,4935.0,metal,HUN
+T,Hungary,2016,W071,24377.0,glass,HUN
+T,Hungary,2016,W072,113164.0,paper,HUN
+T,Hungary,2016,W074,21369.0,plastic,HUN
+T,Hungary,2016,W075,1312.0,wood,HUN
+T,Hungary,2016,W077_08,18012.0,weee + batt + vehicles,HUN
+T,Hungary,2016,W09,9796.0,organic waste,HUN
+T,Hungary,2016,W10,2628484.0,mixed waste,HUN
+T,Hungary,2016,W11,0.0,common sludges,HUN
+T,Hungary,2016,W12-13,0.0,mineral waste,HUN
+T,Hungary,2018,W01-05,1239.0,chemical and medical,HUN
+T,Hungary,2018,W06,6730.0,metal,HUN
+T,Hungary,2018,W071,28226.0,glass,HUN
+T,Hungary,2018,W072,105378.0,paper,HUN
+T,Hungary,2018,W074,15049.0,plastic,HUN
+T,Hungary,2018,W075,1178.0,wood,HUN
+T,Hungary,2018,W077_08,30027.0,weee + batt + vehicles,HUN
+T,Hungary,2018,W09,9508.0,organic waste,HUN
+T,Hungary,2018,W10,2540391.0,mixed waste,HUN
+T,Hungary,2018,W11,0.0,common sludges,HUN
+T,Hungary,2018,W12-13,0.0,mineral waste,HUN
+T,Hungary,2020,W01-05,1725.0,chemical and medical,HUN
+T,Hungary,2020,W06,496087.0,metal,HUN
+T,Hungary,2020,W071,38727.0,glass,HUN
+T,Hungary,2020,W072,134636.0,paper,HUN
+T,Hungary,2020,W074,13416.0,plastic,HUN
+T,Hungary,2020,W075,4000.0,wood,HUN
+T,Hungary,2020,W077_08,79534.0,weee + batt + vehicles,HUN
+T,Hungary,2020,W09,344228.0,organic waste,HUN
+T,Hungary,2020,W10,2750620.0,mixed waste,HUN
+T,Hungary,2020,W11,100203.0,common sludges,HUN
+T,Hungary,2020,W12-13,690856.0,mineral waste,HUN
+T,Hungary,2022,W01-05,1836.0,chemical and medical,HUN
+T,Hungary,2022,W06,541898.0,metal,HUN
+T,Hungary,2022,W071,34423.0,glass,HUN
+T,Hungary,2022,W072,155456.0,paper,HUN
+T,Hungary,2022,W074,14958.0,plastic,HUN
+T,Hungary,2022,W075,5989.0,wood,HUN
+T,Hungary,2022,W077_08,77765.0,weee + batt + vehicles,HUN
+T,Hungary,2022,W09,329688.0,organic waste,HUN
+T,Hungary,2022,W10,2796293.0,mixed waste,HUN
+T,Hungary,2022,W11,735.0,common sludges,HUN
+T,Hungary,2022,W12-13,904475.0,mineral waste,HUN
+T,Ireland,2004,W01-05,149.0,chemical and medical,IRL
+T,Ireland,2004,W071,111693.0,glass,IRL
+T,Ireland,2004,W072,353746.0,paper,IRL
+T,Ireland,2004,W074,187131.0,plastic,IRL
+T,Ireland,2004,W075,16661.0,wood,IRL
+T,Ireland,2004,W077_08,15894.0,weee + batt + vehicles,IRL
+T,Ireland,2004,W09,0.0,organic waste,IRL
+T,Ireland,2004,W10,362993.0,mixed waste,IRL
+T,Ireland,2004,W11,0.0,common sludges,IRL
+T,Ireland,2004,W12-13,0.0,mineral waste,IRL
+T,Ireland,2006,W01-05,0.0,chemical and medical,IRL
+T,Ireland,2006,W071,136908.0,glass,IRL
+T,Ireland,2006,W072,450772.0,paper,IRL
+T,Ireland,2006,W074,222499.0,plastic,IRL
+T,Ireland,2006,W075,26882.0,wood,IRL
+T,Ireland,2006,W077_08,602.0,weee + batt + vehicles,IRL
+T,Ireland,2006,W09,0.0,organic waste,IRL
+T,Ireland,2006,W10,369845.0,mixed waste,IRL
+T,Ireland,2006,W11,0.0,common sludges,IRL
+T,Ireland,2006,W12-13,0.0,mineral waste,IRL
+T,Ireland,2010,W01-05,1355.0,chemical and medical,IRL
+T,Ireland,2010,W06,10762.0,metal,IRL
+T,Ireland,2010,W071,86832.0,glass,IRL
+T,Ireland,2010,W072,20968.0,paper,IRL
+T,Ireland,2010,W074,6044.0,plastic,IRL
+T,Ireland,2010,W075,10156.0,wood,IRL
+T,Ireland,2010,W077_08,81449.0,weee + batt + vehicles,IRL
+T,Ireland,2010,W09,123626.0,organic waste,IRL
+T,Ireland,2010,W10,1381217.0,mixed waste,IRL
+T,Ireland,2010,W11,0.0,common sludges,IRL
+T,Ireland,2010,W12-13,7505.0,mineral waste,IRL
+T,Ireland,2012,W01-05,1634.0,chemical and medical,IRL
+T,Ireland,2012,W06,8000.0,metal,IRL
+T,Ireland,2012,W071,82333.0,glass,IRL
+T,Ireland,2012,W072,16142.0,paper,IRL
+T,Ireland,2012,W074,4970.0,plastic,IRL
+T,Ireland,2012,W075,9197.0,wood,IRL
+T,Ireland,2012,W077_08,80146.0,weee + batt + vehicles,IRL
+T,Ireland,2012,W09,130550.0,organic waste,IRL
+T,Ireland,2012,W10,1315810.0,mixed waste,IRL
+T,Ireland,2012,W11,0.0,common sludges,IRL
+T,Ireland,2012,W12-13,7647.0,mineral waste,IRL
+T,Ireland,2014,W01-05,1639.0,chemical and medical,IRL
+T,Ireland,2014,W06,9624.0,metal,IRL
+T,Ireland,2014,W071,84398.0,glass,IRL
+T,Ireland,2014,W072,16447.0,paper,IRL
+T,Ireland,2014,W074,4977.0,plastic,IRL
+T,Ireland,2014,W075,9438.0,wood,IRL
+T,Ireland,2014,W077_08,92364.0,weee + batt + vehicles,IRL
+T,Ireland,2014,W09,114820.0,organic waste,IRL
+T,Ireland,2014,W10,1180762.0,mixed waste,IRL
+T,Ireland,2014,W11,0.0,common sludges,IRL
+T,Ireland,2014,W12-13,9371.0,mineral waste,IRL
+T,Ireland,2016,W01-05,1823.0,chemical and medical,IRL
+T,Ireland,2016,W06,11085.0,metal,IRL
+T,Ireland,2016,W071,86074.0,glass,IRL
+T,Ireland,2016,W072,17350.0,paper,IRL
+T,Ireland,2016,W074,5772.0,plastic,IRL
+T,Ireland,2016,W075,14613.0,wood,IRL
+T,Ireland,2016,W077_08,64066.0,weee + batt + vehicles,IRL
+T,Ireland,2016,W09,136568.0,organic waste,IRL
+T,Ireland,2016,W10,1163990.0,mixed waste,IRL
+T,Ireland,2016,W11,0.0,common sludges,IRL
+T,Ireland,2016,W12-13,11464.0,mineral waste,IRL
+T,Ireland,2018,W01-05,2236.0,chemical and medical,IRL
+T,Ireland,2018,W06,11981.0,metal,IRL
+T,Ireland,2018,W071,89984.0,glass,IRL
+T,Ireland,2018,W072,16670.0,paper,IRL
+T,Ireland,2018,W074,5082.0,plastic,IRL
+T,Ireland,2018,W075,17178.0,wood,IRL
+T,Ireland,2018,W077_08,112701.0,weee + batt + vehicles,IRL
+T,Ireland,2018,W09,158920.0,organic waste,IRL
+T,Ireland,2018,W10,1164804.0,mixed waste,IRL
+T,Ireland,2018,W11,0.0,common sludges,IRL
+T,Ireland,2018,W12-13,10898.0,mineral waste,IRL
+T,Ireland,2020,W01-05,2713.0,chemical and medical,IRL
+T,Ireland,2020,W06,15911.0,metal,IRL
+T,Ireland,2020,W071,131967.0,glass,IRL
+T,Ireland,2020,W072,18228.0,paper,IRL
+T,Ireland,2020,W074,5463.0,plastic,IRL
+T,Ireland,2020,W075,25738.0,wood,IRL
+T,Ireland,2020,W077_08,110489.0,weee + batt + vehicles,IRL
+T,Ireland,2020,W09,210034.0,organic waste,IRL
+T,Ireland,2020,W10,1401148.0,mixed waste,IRL
+T,Ireland,2020,W11,0.0,common sludges,IRL
+T,Ireland,2020,W12-13,18430.0,mineral waste,IRL
+T,Ireland,2022,W01-05,2320.0,chemical and medical,IRL
+T,Ireland,2022,W06,13678.0,metal,IRL
+T,Ireland,2022,W071,112997.0,glass,IRL
+T,Ireland,2022,W072,14839.0,paper,IRL
+T,Ireland,2022,W074,4241.0,plastic,IRL
+T,Ireland,2022,W075,23787.0,wood,IRL
+T,Ireland,2022,W077_08,85523.0,weee + batt + vehicles,IRL
+T,Ireland,2022,W09,211940.0,organic waste,IRL
+T,Ireland,2022,W10,1349629.0,mixed waste,IRL
+T,Ireland,2022,W11,0.0,common sludges,IRL
+T,Ireland,2022,W12-13,19891.0,mineral waste,IRL
+T,Iceland,2004,W01-05,0.0,chemical and medical,ISL
+T,Iceland,2004,W071,5500.0,glass,ISL
+T,Iceland,2004,W072,7800.0,paper,ISL
+T,Iceland,2004,W074,1500.0,plastic,ISL
+T,Iceland,2004,W075,3000.0,wood,ISL
+T,Iceland,2004,W077_08,537.0,weee + batt + vehicles,ISL
+T,Iceland,2004,W09,0.0,organic waste,ISL
+T,Iceland,2004,W10,110000.0,mixed waste,ISL
+T,Iceland,2004,W11,0.0,common sludges,ISL
+T,Iceland,2004,W12-13,0.0,mineral waste,ISL
+T,Iceland,2010,W01-05,27.0,chemical and medical,ISL
+T,Iceland,2010,W06,36204.0,metal,ISL
+T,Iceland,2010,W071,68.0,glass,ISL
+T,Iceland,2010,W072,17200.0,paper,ISL
+T,Iceland,2010,W074,1779.0,plastic,ISL
+T,Iceland,2010,W075,1905.0,wood,ISL
+T,Iceland,2010,W077_08,3804.0,weee + batt + vehicles,ISL
+T,Iceland,2010,W09,11783.0,organic waste,ISL
+T,Iceland,2010,W10,140906.0,mixed waste,ISL
+T,Iceland,2010,W11,0.0,common sludges,ISL
+T,Iceland,2010,W12-13,1943.0,mineral waste,ISL
+T,Iceland,2012,W01-05,27.0,chemical and medical,ISL
+T,Iceland,2012,W06,37222.0,metal,ISL
+T,Iceland,2012,W071,40.0,glass,ISL
+T,Iceland,2012,W072,19922.0,paper,ISL
+T,Iceland,2012,W074,2623.0,plastic,ISL
+T,Iceland,2012,W075,1802.0,wood,ISL
+T,Iceland,2012,W077_08,5162.0,weee + batt + vehicles,ISL
+T,Iceland,2012,W09,13741.0,organic waste,ISL
+T,Iceland,2012,W10,141209.0,mixed waste,ISL
+T,Iceland,2012,W11,0.0,common sludges,ISL
+T,Iceland,2012,W12-13,1393.0,mineral waste,ISL
+T,Iceland,2014,W01-05,303.0,chemical and medical,ISL
+T,Iceland,2014,W06,44000.0,metal,ISL
+T,Iceland,2014,W071,212.0,glass,ISL
+T,Iceland,2014,W072,24380.0,paper,ISL
+T,Iceland,2014,W074,2275.0,plastic,ISL
+T,Iceland,2014,W075,1952.0,wood,ISL
+T,Iceland,2014,W077_08,7640.0,weee + batt + vehicles,ISL
+T,Iceland,2014,W09,21560.0,organic waste,ISL
+T,Iceland,2014,W10,105185.0,mixed waste,ISL
+T,Iceland,2014,W11,37.0,common sludges,ISL
+T,Iceland,2014,W12-13,69757.0,mineral waste,ISL
+T,Iceland,2016,W01-05,361.0,chemical and medical,ISL
+T,Iceland,2016,W06,58444.0,metal,ISL
+T,Iceland,2016,W071,144.0,glass,ISL
+T,Iceland,2016,W072,30449.0,paper,ISL
+T,Iceland,2016,W074,3270.0,plastic,ISL
+T,Iceland,2016,W075,2767.0,wood,ISL
+T,Iceland,2016,W077_08,10018.0,weee + batt + vehicles,ISL
+T,Iceland,2016,W09,10519.0,organic waste,ISL
+T,Iceland,2016,W10,119687.0,mixed waste,ISL
+T,Iceland,2016,W11,44.0,common sludges,ISL
+T,Iceland,2016,W12-13,175155.0,mineral waste,ISL
+T,Iceland,2018,W01-05,334.0,chemical and medical,ISL
+T,Iceland,2018,W06,77836.0,metal,ISL
+T,Iceland,2018,W071,155.0,glass,ISL
+T,Iceland,2018,W072,30892.0,paper,ISL
+T,Iceland,2018,W074,4496.0,plastic,ISL
+T,Iceland,2018,W075,2990.0,wood,ISL
+T,Iceland,2018,W077_08,17549.0,weee + batt + vehicles,ISL
+T,Iceland,2018,W09,9666.0,organic waste,ISL
+T,Iceland,2018,W10,131894.0,mixed waste,ISL
+T,Iceland,2018,W11,40.0,common sludges,ISL
+T,Iceland,2018,W12-13,228681.0,mineral waste,ISL
+T,Iceland,2020,W01-05,43.0,chemical and medical,ISL
+T,Iceland,2020,W06,79284.0,metal,ISL
+T,Iceland,2020,W071,129.0,glass,ISL
+T,Iceland,2020,W072,20518.0,paper,ISL
+T,Iceland,2020,W074,3269.0,plastic,ISL
+T,Iceland,2020,W075,5375.0,wood,ISL
+T,Iceland,2020,W077_08,17705.0,weee + batt + vehicles,ISL
+T,Iceland,2020,W09,10702.0,organic waste,ISL
+T,Iceland,2020,W10,108746.0,mixed waste,ISL
+T,Iceland,2020,W11,45.0,common sludges,ISL
+T,Iceland,2020,W12-13,160660.0,mineral waste,ISL
+T,Iceland,2022,W01-05,42.0,chemical and medical,ISL
+T,Iceland,2022,W06,9140.0,metal,ISL
+T,Iceland,2022,W071,5425.0,glass,ISL
+T,Iceland,2022,W072,4309.0,paper,ISL
+T,Iceland,2022,W074,2362.0,plastic,ISL
+T,Iceland,2022,W075,6375.0,wood,ISL
+T,Iceland,2022,W077_08,1078.0,weee + batt + vehicles,ISL
+T,Iceland,2022,W09,4380.0,organic waste,ISL
+T,Iceland,2022,W10,18407.0,mixed waste,ISL
+T,Iceland,2022,W11,258.0,common sludges,ISL
+T,Iceland,2022,W12-13,1162.0,mineral waste,ISL
+T,Italy,2004,W01-05,12696.0,chemical and medical,ITA
+T,Italy,2004,W071,1056400.0,glass,ITA
+T,Italy,2004,W072,2153825.0,paper,ITA
+T,Italy,2004,W074,353162.0,plastic,ITA
+T,Italy,2004,W075,477792.0,wood,ITA
+T,Italy,2004,W077_08,85397.0,weee + batt + vehicles,ITA
+T,Italy,2004,W09,0.0,organic waste,ITA
+T,Italy,2004,W10,24376698.0,mixed waste,ITA
+T,Italy,2004,W11,0.0,common sludges,ITA
+T,Italy,2004,W12-13,0.0,mineral waste,ITA
+T,Italy,2006,W01-05,9631.0,chemical and medical,ITA
+T,Italy,2006,W071,1240192.0,glass,ITA
+T,Italy,2006,W072,2529463.0,paper,ITA
+T,Italy,2006,W074,457250.0,plastic,ITA
+T,Italy,2006,W075,580882.0,wood,ITA
+T,Italy,2006,W077_08,126268.0,weee + batt + vehicles,ITA
+T,Italy,2006,W09,0.0,organic waste,ITA
+T,Italy,2006,W10,24464573.0,mixed waste,ITA
+T,Italy,2006,W11,0.0,common sludges,ITA
+T,Italy,2006,W12-13,0.0,mineral waste,ITA
+T,Italy,2008,W01-05,11769.0,chemical and medical,ITA
+T,Italy,2008,W071,1496227.0,glass,ITA
+T,Italy,2008,W072,2934146.0,paper,ITA
+T,Italy,2008,W074,577378.0,plastic,ITA
+T,Italy,2008,W075,680993.0,wood,ITA
+T,Italy,2008,W077_08,171698.0,weee + batt + vehicles,ITA
+T,Italy,2008,W09,0.0,organic waste,ITA
+T,Italy,2008,W10,22838700.0,mixed waste,ITA
+T,Italy,2008,W11,0.0,common sludges,ITA
+T,Italy,2008,W12-13,0.0,mineral waste,ITA
+T,Italy,2010,W01-05,15346.0,chemical and medical,ITA
+T,Italy,2010,W06,317822.0,metal,ITA
+T,Italy,2010,W071,1778507.0,glass,ITA
+T,Italy,2010,W072,3062718.0,paper,ITA
+T,Italy,2010,W074,648642.0,plastic,ITA
+T,Italy,2010,W075,691888.0,wood,ITA
+T,Italy,2010,W077_08,269374.0,weee + batt + vehicles,ITA
+T,Italy,2010,W09,4154330.0,organic waste,ITA
+T,Italy,2010,W10,21423512.0,mixed waste,ITA
+T,Italy,2010,W11,0.0,common sludges,ITA
+T,Italy,2010,W12-13,1619.0,mineral waste,ITA
+T,Italy,2012,W01-05,16769.0,chemical and medical,ITA
+T,Italy,2012,W06,248907.0,metal,ITA
+T,Italy,2012,W071,1598135.0,glass,ITA
+T,Italy,2012,W072,3037536.0,paper,ITA
+T,Italy,2012,W074,889801.0,plastic,ITA
+T,Italy,2012,W075,614095.0,wood,ITA
+T,Italy,2012,W077_08,232739.0,weee + batt + vehicles,ITA
+T,Italy,2012,W09,4773389.0,organic waste,ITA
+T,Italy,2012,W10,18458498.0,mixed waste,ITA
+T,Italy,2012,W11,0.0,common sludges,ITA
+T,Italy,2012,W12-13,0.0,mineral waste,ITA
+T,Italy,2014,W01-05,19425.0,chemical and medical,ITA
+T,Italy,2014,W06,249574.0,metal,ITA
+T,Italy,2014,W071,1691303.0,glass,ITA
+T,Italy,2014,W072,3153874.0,paper,ITA
+T,Italy,2014,W074,1012545.0,plastic,ITA
+T,Italy,2014,W075,675974.0,wood,ITA
+T,Italy,2014,W077_08,224185.0,weee + batt + vehicles,ITA
+T,Italy,2014,W09,5685442.0,organic waste,ITA
+T,Italy,2014,W10,16796295.0,mixed waste,ITA
+T,Italy,2014,W11,0.0,common sludges,ITA
+T,Italy,2014,W12-13,0.0,mineral waste,ITA
+T,Italy,2016,W01-05,21908.0,chemical and medical,ITA
+T,Italy,2016,W06,293127.0,metal,ITA
+T,Italy,2016,W071,1852019.0,glass,ITA
+T,Italy,2016,W072,3218725.0,paper,ITA
+T,Italy,2016,W074,1233972.0,plastic,ITA
+T,Italy,2016,W075,739470.0,wood,ITA
+T,Italy,2016,W077_08,243791.0,weee + batt + vehicles,ITA
+T,Italy,2016,W09,6468997.0,organic waste,ITA
+T,Italy,2016,W10,15535099.0,mixed waste,ITA
+T,Italy,2016,W11,0.0,common sludges,ITA
+T,Italy,2016,W12-13,350309.0,mineral waste,ITA
+T,Italy,2018,W01-05,25364.0,chemical and medical,ITA
+T,Italy,2018,W06,332070.0,metal,ITA
+T,Italy,2018,W071,2119591.0,glass,ITA
+T,Italy,2018,W072,3418441.0,paper,ITA
+T,Italy,2018,W074,1362248.0,plastic,ITA
+T,Italy,2018,W075,908276.0,wood,ITA
+T,Italy,2018,W077_08,264716.0,weee + batt + vehicles,ITA
+T,Italy,2018,W09,7031136.0,organic waste,ITA
+T,Italy,2018,W10,14139156.0,mixed waste,ITA
+T,Italy,2018,W11,0.0,common sludges,ITA
+T,Italy,2018,W12-13,390359.0,mineral waste,ITA
+T,Italy,2020,W01-05,30807.0,chemical and medical,ITA
+T,Italy,2020,W06,368082.0,metal,ITA
+T,Italy,2020,W071,2223798.0,glass,ITA
+T,Italy,2020,W072,3508537.0,paper,ITA
+T,Italy,2020,W074,1574883.0,plastic,ITA
+T,Italy,2020,W075,881507.0,wood,ITA
+T,Italy,2020,W077_08,294886.0,weee + batt + vehicles,ITA
+T,Italy,2020,W09,7142266.0,organic waste,ITA
+T,Italy,2020,W10,12353544.0,mixed waste,ITA
+T,Italy,2020,W11,0.0,common sludges,ITA
+T,Italy,2020,W12-13,403297.0,mineral waste,ITA
+T,Italy,2022,W01-05,30413.0,chemical and medical,ITA
+T,Italy,2022,W06,356020.0,metal,ITA
+T,Italy,2022,W071,2329395.0,glass,ITA
+T,Italy,2022,W072,3652779.0,paper,ITA
+T,Italy,2022,W074,1703154.0,plastic,ITA
+T,Italy,2022,W075,1003517.0,wood,ITA
+T,Italy,2022,W077_08,281519.0,weee + batt + vehicles,ITA
+T,Italy,2022,W09,7210347.0,organic waste,ITA
+T,Italy,2022,W10,11946906.0,mixed waste,ITA
+T,Italy,2022,W11,39.0,common sludges,ITA
+T,Italy,2022,W12-13,362849.0,mineral waste,ITA
+T,Liechtenstein,2008,W01-05,0.0,chemical and medical,
+T,Liechtenstein,2008,W071,0.0,glass,
+T,Liechtenstein,2008,W072,0.0,paper,
+T,Liechtenstein,2008,W074,0.0,plastic,
+T,Liechtenstein,2008,W075,0.0,wood,
+T,Liechtenstein,2008,W077_08,0.0,weee + batt + vehicles,
+T,Liechtenstein,2008,W09,0.0,organic waste,
+T,Liechtenstein,2008,W10,0.0,mixed waste,
+T,Liechtenstein,2008,W11,0.0,common sludges,
+T,Liechtenstein,2008,W12-13,0.0,mineral waste,
+T,Liechtenstein,2010,W01-05,0.0,chemical and medical,
+T,Liechtenstein,2010,W06,0.0,metal,
+T,Liechtenstein,2010,W071,0.0,glass,
+T,Liechtenstein,2010,W072,0.0,paper,
+T,Liechtenstein,2010,W074,0.0,plastic,
+T,Liechtenstein,2010,W075,0.0,wood,
+T,Liechtenstein,2010,W077_08,0.0,weee + batt + vehicles,
+T,Liechtenstein,2010,W09,0.0,organic waste,
+T,Liechtenstein,2010,W10,0.0,mixed waste,
+T,Liechtenstein,2010,W11,0.0,common sludges,
+T,Liechtenstein,2010,W12-13,0.0,mineral waste,
+T,Liechtenstein,2012,W01-05,20.0,chemical and medical,
+T,Liechtenstein,2012,W06,3226.0,metal,
+T,Liechtenstein,2012,W071,925.0,glass,
+T,Liechtenstein,2012,W072,6522.0,paper,
+T,Liechtenstein,2012,W074,54.0,plastic,
+T,Liechtenstein,2012,W075,0.0,wood,
+T,Liechtenstein,2012,W077_08,170.0,weee + batt + vehicles,
+T,Liechtenstein,2012,W09,1.0,organic waste,
+T,Liechtenstein,2012,W10,3086.0,mixed waste,
+T,Liechtenstein,2012,W11,8289.0,common sludges,
+T,Liechtenstein,2012,W12-13,0.0,mineral waste,
+T,Liechtenstein,2014,W01-05,19.0,chemical and medical,
+T,Liechtenstein,2014,W06,4857.0,metal,
+T,Liechtenstein,2014,W071,944.0,glass,
+T,Liechtenstein,2014,W072,4791.0,paper,
+T,Liechtenstein,2014,W074,50.0,plastic,
+T,Liechtenstein,2014,W075,0.0,wood,
+T,Liechtenstein,2014,W077_08,416.0,weee + batt + vehicles,
+T,Liechtenstein,2014,W09,7330.0,organic waste,
+T,Liechtenstein,2014,W10,8581.0,mixed waste,
+T,Liechtenstein,2014,W11,0.0,common sludges,
+T,Liechtenstein,2014,W12-13,0.0,mineral waste,
+T,Liechtenstein,2016,W01-05,25.0,chemical and medical,
+T,Liechtenstein,2016,W06,5308.0,metal,
+T,Liechtenstein,2016,W071,1149.0,glass,
+T,Liechtenstein,2016,W072,4780.0,paper,
+T,Liechtenstein,2016,W074,176.0,plastic,
+T,Liechtenstein,2016,W075,0.0,wood,
+T,Liechtenstein,2016,W077_08,747.0,weee + batt + vehicles,
+T,Liechtenstein,2016,W09,6714.0,organic waste,
+T,Liechtenstein,2016,W10,8268.0,mixed waste,
+T,Liechtenstein,2016,W11,0.0,common sludges,
+T,Liechtenstein,2016,W12-13,0.0,mineral waste,
+T,Liechtenstein,2018,W01-05,26.0,chemical and medical,
+T,Liechtenstein,2018,W06,6854.0,metal,
+T,Liechtenstein,2018,W071,1502.0,glass,
+T,Liechtenstein,2018,W072,5415.0,paper,
+T,Liechtenstein,2018,W074,182.0,plastic,
+T,Liechtenstein,2018,W075,0.0,wood,
+T,Liechtenstein,2018,W077_08,839.0,weee + batt + vehicles,
+T,Liechtenstein,2018,W09,6320.0,organic waste,
+T,Liechtenstein,2018,W10,8264.0,mixed waste,
+T,Liechtenstein,2018,W11,0.0,common sludges,
+T,Liechtenstein,2018,W12-13,0.0,mineral waste,
+T,Liechtenstein,2020,W01-05,15.0,chemical and medical,
+T,Liechtenstein,2020,W06,7659.0,metal,
+T,Liechtenstein,2020,W071,1919.0,glass,
+T,Liechtenstein,2020,W072,4606.0,paper,
+T,Liechtenstein,2020,W074,288.0,plastic,
+T,Liechtenstein,2020,W075,0.0,wood,
+T,Liechtenstein,2020,W077_08,963.0,weee + batt + vehicles,
+T,Liechtenstein,2020,W09,9016.0,organic waste,
+T,Liechtenstein,2020,W10,8202.0,mixed waste,
+T,Liechtenstein,2020,W11,0.0,common sludges,
+T,Liechtenstein,2020,W12-13,0.0,mineral waste,
+T,Liechtenstein,2022,W01-05,0.0,chemical and medical,
+T,Liechtenstein,2022,W06,8827.0,metal,
+T,Liechtenstein,2022,W071,1594.0,glass,
+T,Liechtenstein,2022,W072,5010.0,paper,
+T,Liechtenstein,2022,W074,283.0,plastic,
+T,Liechtenstein,2022,W075,0.0,wood,
+T,Liechtenstein,2022,W077_08,640.0,weee + batt + vehicles,
+T,Liechtenstein,2022,W09,7633.0,organic waste,
+T,Liechtenstein,2022,W10,7871.0,mixed waste,
+T,Liechtenstein,2022,W11,0.0,common sludges,
+T,Liechtenstein,2022,W12-13,0.0,mineral waste,
+T,Lithuania,2004,W01-05,91.0,chemical and medical,LTU
+T,Lithuania,2004,W071,1788.0,glass,LTU
+T,Lithuania,2004,W072,4456.0,paper,LTU
+T,Lithuania,2004,W074,2145.0,plastic,LTU
+T,Lithuania,2004,W075,196.0,wood,LTU
+T,Lithuania,2004,W077_08,8445.0,weee + batt + vehicles,LTU
+T,Lithuania,2004,W09,0.0,organic waste,LTU
+T,Lithuania,2004,W10,532435.0,mixed waste,LTU
+T,Lithuania,2004,W11,2197.0,common sludges,LTU
+T,Lithuania,2004,W12-13,33.0,mineral waste,LTU
+T,Lithuania,2006,W01-05,109.0,chemical and medical,LTU
+T,Lithuania,2006,W071,28683.0,glass,LTU
+T,Lithuania,2006,W072,33318.0,paper,LTU
+T,Lithuania,2006,W074,5698.0,plastic,LTU
+T,Lithuania,2006,W075,1935.0,wood,LTU
+T,Lithuania,2006,W077_08,8886.0,weee + batt + vehicles,LTU
+T,Lithuania,2006,W09,18.0,organic waste,LTU
+T,Lithuania,2006,W10,878686.0,mixed waste,LTU
+T,Lithuania,2006,W11,273.0,common sludges,LTU
+T,Lithuania,2006,W12-13,3.0,mineral waste,LTU
+T,Lithuania,2008,W01-05,292.0,chemical and medical,LTU
+T,Lithuania,2008,W071,23555.0,glass,LTU
+T,Lithuania,2008,W072,49364.0,paper,LTU
+T,Lithuania,2008,W074,8443.0,plastic,LTU
+T,Lithuania,2008,W075,2793.0,wood,LTU
+T,Lithuania,2008,W077_08,21794.0,weee + batt + vehicles,LTU
+T,Lithuania,2008,W09,0.0,organic waste,LTU
+T,Lithuania,2008,W10,823888.0,mixed waste,LTU
+T,Lithuania,2008,W11,865.0,common sludges,LTU
+T,Lithuania,2008,W12-13,650.0,mineral waste,LTU
+T,Lithuania,2010,W01-05,10.0,chemical and medical,LTU
+T,Lithuania,2010,W06,351481.0,metal,LTU
+T,Lithuania,2010,W071,22945.0,glass,LTU
+T,Lithuania,2010,W072,49539.0,paper,LTU
+T,Lithuania,2010,W074,13815.0,plastic,LTU
+T,Lithuania,2010,W075,9610.0,wood,LTU
+T,Lithuania,2010,W077_08,32078.0,weee + batt + vehicles,LTU
+T,Lithuania,2010,W09,4459.0,organic waste,LTU
+T,Lithuania,2010,W10,758993.0,mixed waste,LTU
+T,Lithuania,2010,W11,0.0,common sludges,LTU
+T,Lithuania,2010,W12-13,10946.0,mineral waste,LTU
+T,Lithuania,2012,W01-05,206.0,chemical and medical,LTU
+T,Lithuania,2012,W06,231372.0,metal,LTU
+T,Lithuania,2012,W071,28220.0,glass,LTU
+T,Lithuania,2012,W072,19584.0,paper,LTU
+T,Lithuania,2012,W074,9416.0,plastic,LTU
+T,Lithuania,2012,W075,1425.0,wood,LTU
+T,Lithuania,2012,W077_08,40643.0,weee + batt + vehicles,LTU
+T,Lithuania,2012,W09,2698.0,organic waste,LTU
+T,Lithuania,2012,W10,779935.0,mixed waste,LTU
+T,Lithuania,2012,W11,0.0,common sludges,LTU
+T,Lithuania,2012,W12-13,41701.0,mineral waste,LTU
+T,Lithuania,2014,W01-05,359.0,chemical and medical,LTU
+T,Lithuania,2014,W06,188551.0,metal,LTU
+T,Lithuania,2014,W071,28714.0,glass,LTU
+T,Lithuania,2014,W072,30621.0,paper,LTU
+T,Lithuania,2014,W074,12726.0,plastic,LTU
+T,Lithuania,2014,W075,1884.0,wood,LTU
+T,Lithuania,2014,W077_08,52590.0,weee + batt + vehicles,LTU
+T,Lithuania,2014,W09,13178.0,organic waste,LTU
+T,Lithuania,2014,W10,766807.0,mixed waste,LTU
+T,Lithuania,2014,W11,0.0,common sludges,LTU
+T,Lithuania,2014,W12-13,45286.0,mineral waste,LTU
+T,Lithuania,2016,W01-05,496.0,chemical and medical,LTU
+T,Lithuania,2016,W06,197689.0,metal,LTU
+T,Lithuania,2016,W071,37840.0,glass,LTU
+T,Lithuania,2016,W072,28161.0,paper,LTU
+T,Lithuania,2016,W074,17057.0,plastic,LTU
+T,Lithuania,2016,W075,2489.0,wood,LTU
+T,Lithuania,2016,W077_08,37527.0,weee + batt + vehicles,LTU
+T,Lithuania,2016,W09,46137.0,organic waste,LTU
+T,Lithuania,2016,W10,686568.0,mixed waste,LTU
+T,Lithuania,2016,W11,0.0,common sludges,LTU
+T,Lithuania,2016,W12-13,41590.0,mineral waste,LTU
+T,Lithuania,2018,W01-05,471.0,chemical and medical,LTU
+T,Lithuania,2018,W06,358511.0,metal,LTU
+T,Lithuania,2018,W071,33560.0,glass,LTU
+T,Lithuania,2018,W072,27889.0,paper,LTU
+T,Lithuania,2018,W074,19078.0,plastic,LTU
+T,Lithuania,2018,W075,3447.0,wood,LTU
+T,Lithuania,2018,W077_08,34510.0,weee + batt + vehicles,LTU
+T,Lithuania,2018,W09,89463.0,organic waste,LTU
+T,Lithuania,2018,W10,757869.0,mixed waste,LTU
+T,Lithuania,2018,W11,0.0,common sludges,LTU
+T,Lithuania,2018,W12-13,61845.0,mineral waste,LTU
+T,Lithuania,2020,W01-05,672.0,chemical and medical,LTU
+T,Lithuania,2020,W06,330270.0,metal,LTU
+T,Lithuania,2020,W071,47028.0,glass,LTU
+T,Lithuania,2020,W072,29257.0,paper,LTU
+T,Lithuania,2020,W074,24591.0,plastic,LTU
+T,Lithuania,2020,W075,7107.0,wood,LTU
+T,Lithuania,2020,W077_08,51920.0,weee + batt + vehicles,LTU
+T,Lithuania,2020,W09,57606.0,organic waste,LTU
+T,Lithuania,2020,W10,734222.0,mixed waste,LTU
+T,Lithuania,2020,W11,4.0,common sludges,LTU
+T,Lithuania,2020,W12-13,76808.0,mineral waste,LTU
+T,Lithuania,2022,W01-05,840.0,chemical and medical,LTU
+T,Lithuania,2022,W06,304540.0,metal,LTU
+T,Lithuania,2022,W071,42320.0,glass,LTU
+T,Lithuania,2022,W072,45517.0,paper,LTU
+T,Lithuania,2022,W074,54979.0,plastic,LTU
+T,Lithuania,2022,W075,9228.0,wood,LTU
+T,Lithuania,2022,W077_08,59075.0,weee + batt + vehicles,LTU
+T,Lithuania,2022,W09,59245.0,organic waste,LTU
+T,Lithuania,2022,W10,702855.0,mixed waste,LTU
+T,Lithuania,2022,W11,10.0,common sludges,LTU
+T,Lithuania,2022,W12-13,91986.0,mineral waste,LTU
+T,Luxembourg,2004,W01-05,1062.0,chemical and medical,LUX
+T,Luxembourg,2004,W071,547.0,glass,LUX
+T,Luxembourg,2004,W072,3656.0,paper,LUX
+T,Luxembourg,2004,W074,135.0,plastic,LUX
+T,Luxembourg,2004,W075,808.0,wood,LUX
+T,Luxembourg,2004,W077_08,1518.0,weee + batt + vehicles,LUX
+T,Luxembourg,2004,W09,0.0,organic waste,LUX
+T,Luxembourg,2004,W10,133056.0,mixed waste,LUX
+T,Luxembourg,2004,W11,967.0,common sludges,LUX
+T,Luxembourg,2004,W12-13,0.0,mineral waste,LUX
+T,Luxembourg,2006,W01-05,245.0,chemical and medical,LUX
+T,Luxembourg,2006,W071,3543.0,glass,LUX
+T,Luxembourg,2006,W072,361.0,paper,LUX
+T,Luxembourg,2006,W074,23.0,plastic,LUX
+T,Luxembourg,2006,W075,804.0,wood,LUX
+T,Luxembourg,2006,W077_08,2625.0,weee + batt + vehicles,LUX
+T,Luxembourg,2006,W09,0.0,organic waste,LUX
+T,Luxembourg,2006,W10,104312.0,mixed waste,LUX
+T,Luxembourg,2006,W11,834.0,common sludges,LUX
+T,Luxembourg,2006,W12-13,0.0,mineral waste,LUX
+T,Luxembourg,2008,W01-05,113.0,chemical and medical,LUX
+T,Luxembourg,2008,W071,15952.0,glass,LUX
+T,Luxembourg,2008,W072,15000.0,paper,LUX
+T,Luxembourg,2008,W074,444.0,plastic,LUX
+T,Luxembourg,2008,W075,4428.0,wood,LUX
+T,Luxembourg,2008,W077_08,3815.0,weee + batt + vehicles,LUX
+T,Luxembourg,2008,W09,0.0,organic waste,LUX
+T,Luxembourg,2008,W10,146078.0,mixed waste,LUX
+T,Luxembourg,2008,W11,815.0,common sludges,LUX
+T,Luxembourg,2008,W12-13,0.0,mineral waste,LUX
+T,Luxembourg,2010,W01-05,300.0,chemical and medical,LUX
+T,Luxembourg,2010,W06,8421.0,metal,LUX
+T,Luxembourg,2010,W071,12553.0,glass,LUX
+T,Luxembourg,2010,W072,24661.0,paper,LUX
+T,Luxembourg,2010,W074,346.0,plastic,LUX
+T,Luxembourg,2010,W075,5386.0,wood,LUX
+T,Luxembourg,2010,W077_08,1439.0,weee + batt + vehicles,LUX
+T,Luxembourg,2010,W09,67700.0,organic waste,LUX
+T,Luxembourg,2010,W10,118697.0,mixed waste,LUX
+T,Luxembourg,2010,W11,733.0,common sludges,LUX
+T,Luxembourg,2010,W12-13,5540.0,mineral waste,LUX
+T,Luxembourg,2012,W01-05,212.0,chemical and medical,LUX
+T,Luxembourg,2012,W06,10970.0,metal,LUX
+T,Luxembourg,2012,W071,9195.0,glass,LUX
+T,Luxembourg,2012,W072,26266.0,paper,LUX
+T,Luxembourg,2012,W074,231.0,plastic,LUX
+T,Luxembourg,2012,W075,3351.0,wood,LUX
+T,Luxembourg,2012,W077_08,1667.0,weee + batt + vehicles,LUX
+T,Luxembourg,2012,W09,66065.0,organic waste,LUX
+T,Luxembourg,2012,W10,119427.0,mixed waste,LUX
+T,Luxembourg,2012,W11,346.0,common sludges,LUX
+T,Luxembourg,2012,W12-13,6997.0,mineral waste,LUX
+T,Luxembourg,2014,W01-05,187.0,chemical and medical,LUX
+T,Luxembourg,2014,W06,378.0,metal,LUX
+T,Luxembourg,2014,W071,8247.0,glass,LUX
+T,Luxembourg,2014,W072,21479.0,paper,LUX
+T,Luxembourg,2014,W074,248.0,plastic,LUX
+T,Luxembourg,2014,W075,2288.0,wood,LUX
+T,Luxembourg,2014,W077_08,1102.0,weee + batt + vehicles,LUX
+T,Luxembourg,2014,W09,71818.0,organic waste,LUX
+T,Luxembourg,2014,W10,119068.0,mixed waste,LUX
+T,Luxembourg,2014,W11,677.0,common sludges,LUX
+T,Luxembourg,2014,W12-13,10948.0,mineral waste,LUX
+T,Luxembourg,2016,W01-05,768.0,chemical and medical,LUX
+T,Luxembourg,2016,W06,11041.0,metal,LUX
+T,Luxembourg,2016,W071,898.0,glass,LUX
+T,Luxembourg,2016,W072,14881.0,paper,LUX
+T,Luxembourg,2016,W074,243.0,plastic,LUX
+T,Luxembourg,2016,W075,2917.0,wood,LUX
+T,Luxembourg,2016,W077_08,1807.0,weee + batt + vehicles,LUX
+T,Luxembourg,2016,W09,4791.0,organic waste,LUX
+T,Luxembourg,2016,W10,121011.0,mixed waste,LUX
+T,Luxembourg,2016,W11,699.0,common sludges,LUX
+T,Luxembourg,2016,W12-13,18170.0,mineral waste,LUX
+T,Luxembourg,2018,W01-05,710.0,chemical and medical,LUX
+T,Luxembourg,2018,W06,10251.0,metal,LUX
+T,Luxembourg,2018,W071,76.0,glass,LUX
+T,Luxembourg,2018,W072,15344.0,paper,LUX
+T,Luxembourg,2018,W074,279.0,plastic,LUX
+T,Luxembourg,2018,W075,3693.0,wood,LUX
+T,Luxembourg,2018,W077_08,2569.0,weee + batt + vehicles,LUX
+T,Luxembourg,2018,W09,20336.0,organic waste,LUX
+T,Luxembourg,2018,W10,116162.0,mixed waste,LUX
+T,Luxembourg,2018,W11,589.0,common sludges,LUX
+T,Luxembourg,2018,W12-13,14558.0,mineral waste,LUX
+T,Luxembourg,2020,W01-05,780.0,chemical and medical,LUX
+T,Luxembourg,2020,W06,9595.0,metal,LUX
+T,Luxembourg,2020,W071,368.0,glass,LUX
+T,Luxembourg,2020,W072,22357.0,paper,LUX
+T,Luxembourg,2020,W074,409.0,plastic,LUX
+T,Luxembourg,2020,W075,4106.0,wood,LUX
+T,Luxembourg,2020,W077_08,2010.0,weee + batt + vehicles,LUX
+T,Luxembourg,2020,W09,4773.0,organic waste,LUX
+T,Luxembourg,2020,W10,141617.0,mixed waste,LUX
+T,Luxembourg,2020,W11,581.0,common sludges,LUX
+T,Luxembourg,2020,W12-13,9716.0,mineral waste,LUX
+T,Luxembourg,2022,W01-05,734.0,chemical and medical,LUX
+T,Luxembourg,2022,W06,14791.0,metal,LUX
+T,Luxembourg,2022,W071,165.0,glass,LUX
+T,Luxembourg,2022,W072,18720.0,paper,LUX
+T,Luxembourg,2022,W074,386.0,plastic,LUX
+T,Luxembourg,2022,W075,2984.0,wood,LUX
+T,Luxembourg,2022,W077_08,1518.0,weee + batt + vehicles,LUX
+T,Luxembourg,2022,W09,80732.0,organic waste,LUX
+T,Luxembourg,2022,W10,124141.0,mixed waste,LUX
+T,Luxembourg,2022,W11,1.0,common sludges,LUX
+T,Luxembourg,2022,W12-13,15241.0,mineral waste,LUX
+T,Latvia,2004,W01-05,0.0,chemical and medical,LVA
+T,Latvia,2004,W071,0.0,glass,LVA
+T,Latvia,2004,W072,0.0,paper,LVA
+T,Latvia,2004,W074,0.0,plastic,LVA
+T,Latvia,2004,W075,0.0,wood,LVA
+T,Latvia,2004,W077_08,0.0,weee + batt + vehicles,LVA
+T,Latvia,2004,W09,0.0,organic waste,LVA
+T,Latvia,2004,W10,543490.0,mixed waste,LVA
+T,Latvia,2004,W11,0.0,common sludges,LVA
+T,Latvia,2004,W12-13,0.0,mineral waste,LVA
+T,Latvia,2006,W01-05,12121.0,chemical and medical,LVA
+T,Latvia,2006,W071,5687.0,glass,LVA
+T,Latvia,2006,W072,17726.0,paper,LVA
+T,Latvia,2006,W074,8374.0,plastic,LVA
+T,Latvia,2006,W075,124.0,wood,LVA
+T,Latvia,2006,W077_08,10260.0,weee + batt + vehicles,LVA
+T,Latvia,2006,W09,0.0,organic waste,LVA
+T,Latvia,2006,W10,760355.0,mixed waste,LVA
+T,Latvia,2006,W11,407.0,common sludges,LVA
+T,Latvia,2006,W12-13,0.0,mineral waste,LVA
+T,Latvia,2008,W01-05,12940.0,chemical and medical,LVA
+T,Latvia,2008,W071,0.0,glass,LVA
+T,Latvia,2008,W072,0.0,paper,LVA
+T,Latvia,2008,W074,0.0,plastic,LVA
+T,Latvia,2008,W075,0.0,wood,LVA
+T,Latvia,2008,W077_08,19593.0,weee + batt + vehicles,LVA
+T,Latvia,2008,W09,0.0,organic waste,LVA
+T,Latvia,2008,W10,570285.0,mixed waste,LVA
+T,Latvia,2008,W11,0.0,common sludges,LVA
+T,Latvia,2008,W12-13,148.0,mineral waste,LVA
+T,Latvia,2010,W01-05,8221.0,chemical and medical,LVA
+T,Latvia,2010,W06,0.0,metal,LVA
+T,Latvia,2010,W071,8848.0,glass,LVA
+T,Latvia,2010,W072,39986.0,paper,LVA
+T,Latvia,2010,W074,3760.0,plastic,LVA
+T,Latvia,2010,W075,0.0,wood,LVA
+T,Latvia,2010,W077_08,24331.0,weee + batt + vehicles,LVA
+T,Latvia,2010,W09,5745.0,organic waste,LVA
+T,Latvia,2010,W10,393390.0,mixed waste,LVA
+T,Latvia,2010,W11,3533.0,common sludges,LVA
+T,Latvia,2010,W12-13,201907.0,mineral waste,LVA
+T,Latvia,2012,W01-05,9762.0,chemical and medical,LVA
+T,Latvia,2012,W06,0.0,metal,LVA
+T,Latvia,2012,W071,25384.0,glass,LVA
+T,Latvia,2012,W072,96987.0,paper,LVA
+T,Latvia,2012,W074,16256.0,plastic,LVA
+T,Latvia,2012,W075,3359.0,wood,LVA
+T,Latvia,2012,W077_08,19438.0,weee + batt + vehicles,LVA
+T,Latvia,2012,W09,85733.0,organic waste,LVA
+T,Latvia,2012,W10,618518.0,mixed waste,LVA
+T,Latvia,2012,W11,13992.0,common sludges,LVA
+T,Latvia,2012,W12-13,309070.0,mineral waste,LVA
+T,Latvia,2014,W01-05,21132.0,chemical and medical,LVA
+T,Latvia,2014,W06,0.0,metal,LVA
+T,Latvia,2014,W071,39304.0,glass,LVA
+T,Latvia,2014,W072,86483.0,paper,LVA
+T,Latvia,2014,W074,8555.0,plastic,LVA
+T,Latvia,2014,W075,21932.0,wood,LVA
+T,Latvia,2014,W077_08,24324.0,weee + batt + vehicles,LVA
+T,Latvia,2014,W09,16707.0,organic waste,LVA
+T,Latvia,2014,W10,418930.0,mixed waste,LVA
+T,Latvia,2014,W11,0.0,common sludges,LVA
+T,Latvia,2014,W12-13,20304.0,mineral waste,LVA
+T,Latvia,2016,W01-05,28239.0,chemical and medical,LVA
+T,Latvia,2016,W06,5303.0,metal,LVA
+T,Latvia,2016,W071,48858.0,glass,LVA
+T,Latvia,2016,W072,101675.0,paper,LVA
+T,Latvia,2016,W074,46293.0,plastic,LVA
+T,Latvia,2016,W075,15257.0,wood,LVA
+T,Latvia,2016,W077_08,18060.0,weee + batt + vehicles,LVA
+T,Latvia,2016,W09,0.0,organic waste,LVA
+T,Latvia,2016,W10,485664.0,mixed waste,LVA
+T,Latvia,2016,W11,0.0,common sludges,LVA
+T,Latvia,2016,W12-13,88758.0,mineral waste,LVA
+T,Latvia,2018,W01-05,767.0,chemical and medical,LVA
+T,Latvia,2018,W06,32737.0,metal,LVA
+T,Latvia,2018,W071,22159.0,glass,LVA
+T,Latvia,2018,W072,63223.0,paper,LVA
+T,Latvia,2018,W074,13305.0,plastic,LVA
+T,Latvia,2018,W075,7361.0,wood,LVA
+T,Latvia,2018,W077_08,26255.0,weee + batt + vehicles,LVA
+T,Latvia,2018,W09,9032.0,organic waste,LVA
+T,Latvia,2018,W10,370406.0,mixed waste,LVA
+T,Latvia,2018,W11,286.0,common sludges,LVA
+T,Latvia,2018,W12-13,6324.0,mineral waste,LVA
+T,Latvia,2020,W01-05,7410.0,chemical and medical,LVA
+T,Latvia,2020,W06,0.0,metal,LVA
+T,Latvia,2020,W071,11264.0,glass,LVA
+T,Latvia,2020,W072,57950.0,paper,LVA
+T,Latvia,2020,W074,14513.0,plastic,LVA
+T,Latvia,2020,W075,0.0,wood,LVA
+T,Latvia,2020,W077_08,9689.0,weee + batt + vehicles,LVA
+T,Latvia,2020,W09,0.0,organic waste,LVA
+T,Latvia,2020,W10,524858.0,mixed waste,LVA
+T,Latvia,2020,W11,0.0,common sludges,LVA
+T,Latvia,2020,W12-13,0.0,mineral waste,LVA
+T,Latvia,2022,W01-05,6265.0,chemical and medical,LVA
+T,Latvia,2022,W06,30459.0,metal,LVA
+T,Latvia,2022,W071,34138.0,glass,LVA
+T,Latvia,2022,W072,64685.0,paper,LVA
+T,Latvia,2022,W074,23233.0,plastic,LVA
+T,Latvia,2022,W075,25434.0,wood,LVA
+T,Latvia,2022,W077_08,20765.0,weee + batt + vehicles,LVA
+T,Latvia,2022,W09,31279.0,organic waste,LVA
+T,Latvia,2022,W10,450745.0,mixed waste,LVA
+T,Latvia,2022,W11,0.0,common sludges,LVA
+T,Latvia,2022,W12-13,0.0,mineral waste,LVA
+T,Montenegro,2012,W01-05,52.0,chemical and medical,
+T,Montenegro,2012,W06,1280.0,metal,
+T,Montenegro,2012,W071,1930.0,glass,
+T,Montenegro,2012,W072,4924.0,paper,
+T,Montenegro,2012,W074,3176.0,plastic,
+T,Montenegro,2012,W075,239.0,wood,
+T,Montenegro,2012,W077_08,16.0,weee + batt + vehicles,
+T,Montenegro,2012,W09,12584.0,organic waste,
+T,Montenegro,2012,W10,179519.0,mixed waste,
+T,Montenegro,2012,W11,0.0,common sludges,
+T,Montenegro,2012,W12-13,3535.0,mineral waste,
+T,Montenegro,2014,W01-05,200.0,chemical and medical,
+T,Montenegro,2014,W06,1604.0,metal,
+T,Montenegro,2014,W071,1689.0,glass,
+T,Montenegro,2014,W072,3471.0,paper,
+T,Montenegro,2014,W074,1772.0,plastic,
+T,Montenegro,2014,W075,232.0,wood,
+T,Montenegro,2014,W077_08,10.0,weee + batt + vehicles,
+T,Montenegro,2014,W09,15918.0,organic waste,
+T,Montenegro,2014,W10,196067.0,mixed waste,
+T,Montenegro,2014,W11,0.0,common sludges,
+T,Montenegro,2014,W12-13,8591.0,mineral waste,
+T,Montenegro,2016,W01-05,2.0,chemical and medical,
+T,Montenegro,2016,W06,910.0,metal,
+T,Montenegro,2016,W071,1563.0,glass,
+T,Montenegro,2016,W072,5049.0,paper,
+T,Montenegro,2016,W074,1942.0,plastic,
+T,Montenegro,2016,W075,156.0,wood,
+T,Montenegro,2016,W077_08,11.0,weee + batt + vehicles,
+T,Montenegro,2016,W09,21394.0,organic waste,
+T,Montenegro,2016,W10,206509.0,mixed waste,
+T,Montenegro,2016,W11,0.0,common sludges,
+T,Montenegro,2016,W12-13,8837.0,mineral waste,
+T,Montenegro,2018,W01-05,196.0,chemical and medical,
+T,Montenegro,2018,W06,901.0,metal,
+T,Montenegro,2018,W071,1966.0,glass,
+T,Montenegro,2018,W072,4216.0,paper,
+T,Montenegro,2018,W074,1769.0,plastic,
+T,Montenegro,2018,W075,166.0,wood,
+T,Montenegro,2018,W077_08,22.0,weee + batt + vehicles,
+T,Montenegro,2018,W09,22926.0,organic waste,
+T,Montenegro,2018,W10,215819.0,mixed waste,
+T,Montenegro,2018,W11,0.0,common sludges,
+T,Montenegro,2018,W12-13,5897.0,mineral waste,
+T,Montenegro,2020,W01-05,14.0,chemical and medical,
+T,Montenegro,2020,W06,761.0,metal,
+T,Montenegro,2020,W071,1131.0,glass,
+T,Montenegro,2020,W072,4509.0,paper,
+T,Montenegro,2020,W074,1743.0,plastic,
+T,Montenegro,2020,W075,141.0,wood,
+T,Montenegro,2020,W077_08,35.0,weee + batt + vehicles,
+T,Montenegro,2020,W09,18173.0,organic waste,
+T,Montenegro,2020,W10,202117.0,mixed waste,
+T,Montenegro,2020,W11,0.0,common sludges,
+T,Montenegro,2020,W12-13,1944.0,mineral waste,
+T,Montenegro,2022,W01-05,11.0,chemical and medical,
+T,Montenegro,2022,W06,1196.0,metal,
+T,Montenegro,2022,W071,1470.0,glass,
+T,Montenegro,2022,W072,4652.0,paper,
+T,Montenegro,2022,W074,2341.0,plastic,
+T,Montenegro,2022,W075,202.0,wood,
+T,Montenegro,2022,W077_08,13.0,weee + batt + vehicles,
+T,Montenegro,2022,W09,15756.0,organic waste,
+T,Montenegro,2022,W10,226146.0,mixed waste,
+T,Montenegro,2022,W11,0.0,common sludges,
+T,Montenegro,2022,W12-13,3638.0,mineral waste,
+T,North Macedonia,2008,W01-05,0.0,chemical and medical,
+T,North Macedonia,2008,W071,0.0,glass,
+T,North Macedonia,2008,W072,0.0,paper,
+T,North Macedonia,2008,W074,0.0,plastic,
+T,North Macedonia,2008,W075,0.0,wood,
+T,North Macedonia,2008,W077_08,0.0,weee + batt + vehicles,
+T,North Macedonia,2008,W09,0.0,organic waste,
+T,North Macedonia,2008,W10,0.0,mixed waste,
+T,North Macedonia,2008,W11,0.0,common sludges,
+T,North Macedonia,2008,W12-13,0.0,mineral waste,
+T,North Macedonia,2010,W01-05,0.0,chemical and medical,
+T,North Macedonia,2010,W06,0.0,metal,
+T,North Macedonia,2010,W071,0.0,glass,
+T,North Macedonia,2010,W072,0.0,paper,
+T,North Macedonia,2010,W074,0.0,plastic,
+T,North Macedonia,2010,W075,0.0,wood,
+T,North Macedonia,2010,W077_08,0.0,weee + batt + vehicles,
+T,North Macedonia,2010,W09,0.0,organic waste,
+T,North Macedonia,2010,W10,451382.0,mixed waste,
+T,North Macedonia,2010,W11,0.0,common sludges,
+T,North Macedonia,2010,W12-13,0.0,mineral waste,
+T,North Macedonia,2012,W01-05,0.0,chemical and medical,
+T,North Macedonia,2012,W06,0.0,metal,
+T,North Macedonia,2012,W071,0.0,glass,
+T,North Macedonia,2012,W072,0.0,paper,
+T,North Macedonia,2012,W074,0.0,plastic,
+T,North Macedonia,2012,W075,0.0,wood,
+T,North Macedonia,2012,W077_08,0.0,weee + batt + vehicles,
+T,North Macedonia,2012,W09,0.0,organic waste,
+T,North Macedonia,2012,W10,0.0,mixed waste,
+T,North Macedonia,2012,W11,0.0,common sludges,
+T,North Macedonia,2012,W12-13,0.0,mineral waste,
+T,North Macedonia,2014,W01-05,0.0,chemical and medical,
+T,North Macedonia,2014,W06,0.0,metal,
+T,North Macedonia,2014,W071,0.0,glass,
+T,North Macedonia,2014,W072,0.0,paper,
+T,North Macedonia,2014,W074,0.0,plastic,
+T,North Macedonia,2014,W075,0.0,wood,
+T,North Macedonia,2014,W077_08,0.0,weee + batt + vehicles,
+T,North Macedonia,2014,W09,0.0,organic waste,
+T,North Macedonia,2014,W10,0.0,mixed waste,
+T,North Macedonia,2014,W11,0.0,common sludges,
+T,North Macedonia,2014,W12-13,0.0,mineral waste,
+T,North Macedonia,2016,W01-05,0.0,chemical and medical,
+T,North Macedonia,2016,W06,0.0,metal,
+T,North Macedonia,2016,W071,0.0,glass,
+T,North Macedonia,2016,W072,0.0,paper,
+T,North Macedonia,2016,W074,0.0,plastic,
+T,North Macedonia,2016,W075,0.0,wood,
+T,North Macedonia,2016,W077_08,0.0,weee + batt + vehicles,
+T,North Macedonia,2016,W09,0.0,organic waste,
+T,North Macedonia,2016,W10,0.0,mixed waste,
+T,North Macedonia,2016,W11,0.0,common sludges,
+T,North Macedonia,2016,W12-13,0.0,mineral waste,
+T,North Macedonia,2018,W01-05,0.0,chemical and medical,
+T,North Macedonia,2018,W06,0.0,metal,
+T,North Macedonia,2018,W071,0.0,glass,
+T,North Macedonia,2018,W072,0.0,paper,
+T,North Macedonia,2018,W074,0.0,plastic,
+T,North Macedonia,2018,W075,0.0,wood,
+T,North Macedonia,2018,W077_08,0.0,weee + batt + vehicles,
+T,North Macedonia,2018,W09,0.0,organic waste,
+T,North Macedonia,2018,W10,0.0,mixed waste,
+T,North Macedonia,2018,W11,0.0,common sludges,
+T,North Macedonia,2018,W12-13,0.0,mineral waste,
+T,North Macedonia,2020,W01-05,0.0,chemical and medical,
+T,North Macedonia,2020,W06,0.0,metal,
+T,North Macedonia,2020,W071,0.0,glass,
+T,North Macedonia,2020,W072,0.0,paper,
+T,North Macedonia,2020,W074,0.0,plastic,
+T,North Macedonia,2020,W075,0.0,wood,
+T,North Macedonia,2020,W077_08,0.0,weee + batt + vehicles,
+T,North Macedonia,2020,W09,0.0,organic waste,
+T,North Macedonia,2020,W10,0.0,mixed waste,
+T,North Macedonia,2020,W11,0.0,common sludges,
+T,North Macedonia,2020,W12-13,0.0,mineral waste,
+T,North Macedonia,2022,W01-05,0.0,chemical and medical,
+T,North Macedonia,2022,W06,0.0,metal,
+T,North Macedonia,2022,W071,0.0,glass,
+T,North Macedonia,2022,W072,0.0,paper,
+T,North Macedonia,2022,W074,0.0,plastic,
+T,North Macedonia,2022,W075,0.0,wood,
+T,North Macedonia,2022,W077_08,0.0,weee + batt + vehicles,
+T,North Macedonia,2022,W09,0.0,organic waste,
+T,North Macedonia,2022,W10,0.0,mixed waste,
+T,North Macedonia,2022,W11,0.0,common sludges,
+T,North Macedonia,2022,W12-13,507138.0,mineral waste,
+T,Malta,2004,W01-05,0.0,chemical and medical,MLT
+T,Malta,2004,W071,162.0,glass,MLT
+T,Malta,2004,W072,975.0,paper,MLT
+T,Malta,2004,W074,92.0,plastic,MLT
+T,Malta,2004,W075,265.0,wood,MLT
+T,Malta,2004,W077_08,4964.0,weee + batt + vehicles,MLT
+T,Malta,2004,W09,0.0,organic waste,MLT
+T,Malta,2004,W10,122905.0,mixed waste,MLT
+T,Malta,2004,W11,108.0,common sludges,MLT
+T,Malta,2004,W12-13,0.0,mineral waste,MLT
+T,Malta,2006,W01-05,0.0,chemical and medical,MLT
+T,Malta,2006,W071,685.0,glass,MLT
+T,Malta,2006,W072,1454.0,paper,MLT
+T,Malta,2006,W074,216.0,plastic,MLT
+T,Malta,2006,W075,338.0,wood,MLT
+T,Malta,2006,W077_08,2861.0,weee + batt + vehicles,MLT
+T,Malta,2006,W09,0.0,organic waste,MLT
+T,Malta,2006,W10,120119.0,mixed waste,MLT
+T,Malta,2006,W11,0.0,common sludges,MLT
+T,Malta,2006,W12-13,0.0,mineral waste,MLT
+T,Malta,2008,W01-05,0.0,chemical and medical,MLT
+T,Malta,2008,W071,7201.0,glass,MLT
+T,Malta,2008,W072,977.0,paper,MLT
+T,Malta,2008,W074,584.0,plastic,MLT
+T,Malta,2008,W075,0.0,wood,MLT
+T,Malta,2008,W077_08,3080.0,weee + batt + vehicles,MLT
+T,Malta,2008,W09,0.0,organic waste,MLT
+T,Malta,2008,W10,129680.0,mixed waste,MLT
+T,Malta,2008,W11,0.0,common sludges,MLT
+T,Malta,2008,W12-13,0.0,mineral waste,MLT
+T,Malta,2010,W01-05,53.0,chemical and medical,MLT
+T,Malta,2010,W06,42.0,metal,MLT
+T,Malta,2010,W071,1777.0,glass,MLT
+T,Malta,2010,W072,2151.0,paper,MLT
+T,Malta,2010,W074,1143.0,plastic,MLT
+T,Malta,2010,W075,6696.0,wood,MLT
+T,Malta,2010,W077_08,6682.0,weee + batt + vehicles,MLT
+T,Malta,2010,W09,2854.0,organic waste,MLT
+T,Malta,2010,W10,126330.0,mixed waste,MLT
+T,Malta,2010,W11,0.0,common sludges,MLT
+T,Malta,2010,W12-13,8501.0,mineral waste,MLT
+T,Malta,2012,W01-05,600.0,chemical and medical,MLT
+T,Malta,2012,W06,1435.0,metal,MLT
+T,Malta,2012,W071,2033.0,glass,MLT
+T,Malta,2012,W072,1368.0,paper,MLT
+T,Malta,2012,W074,594.0,plastic,MLT
+T,Malta,2012,W075,9607.0,wood,MLT
+T,Malta,2012,W077_08,12425.0,weee + batt + vehicles,MLT
+T,Malta,2012,W09,4416.0,organic waste,MLT
+T,Malta,2012,W10,108168.0,mixed waste,MLT
+T,Malta,2012,W11,0.0,common sludges,MLT
+T,Malta,2012,W12-13,7316.0,mineral waste,MLT
+T,Malta,2014,W01-05,423.0,chemical and medical,MLT
+T,Malta,2014,W06,1380.0,metal,MLT
+T,Malta,2014,W071,2446.0,glass,MLT
+T,Malta,2014,W072,1679.0,paper,MLT
+T,Malta,2014,W074,744.0,plastic,MLT
+T,Malta,2014,W075,11763.0,wood,MLT
+T,Malta,2014,W077_08,5880.0,weee + batt + vehicles,MLT
+T,Malta,2014,W09,4999.0,organic waste,MLT
+T,Malta,2014,W10,113041.0,mixed waste,MLT
+T,Malta,2014,W11,0.0,common sludges,MLT
+T,Malta,2014,W12-13,10162.0,mineral waste,MLT
+T,Malta,2016,W01-05,251.0,chemical and medical,MLT
+T,Malta,2016,W06,1498.0,metal,MLT
+T,Malta,2016,W071,1627.0,glass,MLT
+T,Malta,2016,W072,1506.0,paper,MLT
+T,Malta,2016,W074,644.0,plastic,MLT
+T,Malta,2016,W075,7938.0,wood,MLT
+T,Malta,2016,W077_08,6013.0,weee + batt + vehicles,MLT
+T,Malta,2016,W09,4405.0,organic waste,MLT
+T,Malta,2016,W10,128300.0,mixed waste,MLT
+T,Malta,2016,W11,0.0,common sludges,MLT
+T,Malta,2016,W12-13,11438.0,mineral waste,MLT
+T,Malta,2018,W01-05,752.0,chemical and medical,MLT
+T,Malta,2018,W06,1216.0,metal,MLT
+T,Malta,2018,W071,4472.0,glass,MLT
+T,Malta,2018,W072,1688.0,paper,MLT
+T,Malta,2018,W074,640.0,plastic,MLT
+T,Malta,2018,W075,7290.0,wood,MLT
+T,Malta,2018,W077_08,14920.0,weee + batt + vehicles,MLT
+T,Malta,2018,W09,9641.0,organic waste,MLT
+T,Malta,2018,W10,131843.0,mixed waste,MLT
+T,Malta,2018,W11,0.0,common sludges,MLT
+T,Malta,2018,W12-13,10687.0,mineral waste,MLT
+T,Malta,2020,W01-05,491.0,chemical and medical,MLT
+T,Malta,2020,W06,1440.0,metal,MLT
+T,Malta,2020,W071,6290.0,glass,MLT
+T,Malta,2020,W072,2125.0,paper,MLT
+T,Malta,2020,W074,791.0,plastic,MLT
+T,Malta,2020,W075,7434.0,wood,MLT
+T,Malta,2020,W077_08,13380.0,weee + batt + vehicles,MLT
+T,Malta,2020,W09,28637.0,organic waste,MLT
+T,Malta,2020,W10,119388.0,mixed waste,MLT
+T,Malta,2020,W11,0.0,common sludges,MLT
+T,Malta,2020,W12-13,13661.0,mineral waste,MLT
+T,Malta,2022,W01-05,500.0,chemical and medical,MLT
+T,Malta,2022,W06,1042.0,metal,MLT
+T,Malta,2022,W071,6739.0,glass,MLT
+T,Malta,2022,W072,2314.0,paper,MLT
+T,Malta,2022,W074,538.0,plastic,MLT
+T,Malta,2022,W075,6511.0,wood,MLT
+T,Malta,2022,W077_08,15790.0,weee + batt + vehicles,MLT
+T,Malta,2022,W09,22072.0,organic waste,MLT
+T,Malta,2022,W10,124587.0,mixed waste,MLT
+T,Malta,2022,W11,0.0,common sludges,MLT
+T,Malta,2022,W12-13,13096.0,mineral waste,MLT
+T,Netherlands,2004,W01-05,25020.0,chemical and medical,NLD
+T,Netherlands,2004,W071,349979.0,glass,NLD
+T,Netherlands,2004,W072,1117131.0,paper,NLD
+T,Netherlands,2004,W074,4751.0,plastic,NLD
+T,Netherlands,2004,W075,263770.0,wood,NLD
+T,Netherlands,2004,W077_08,345875.0,weee + batt + vehicles,NLD
+T,Netherlands,2004,W09,0.0,organic waste,NLD
+T,Netherlands,2004,W10,4687540.0,mixed waste,NLD
+T,Netherlands,2004,W11,7.0,common sludges,NLD
+T,Netherlands,2004,W12-13,4.0,mineral waste,NLD
+T,Netherlands,2006,W01-05,18126.0,chemical and medical,NLD
+T,Netherlands,2006,W071,348521.0,glass,NLD
+T,Netherlands,2006,W072,1177105.0,paper,NLD
+T,Netherlands,2006,W074,6092.0,plastic,NLD
+T,Netherlands,2006,W075,289505.0,wood,NLD
+T,Netherlands,2006,W077_08,307193.0,weee + batt + vehicles,NLD
+T,Netherlands,2006,W09,0.0,organic waste,NLD
+T,Netherlands,2006,W10,4749681.0,mixed waste,NLD
+T,Netherlands,2006,W11,0.0,common sludges,NLD
+T,Netherlands,2006,W12-13,0.0,mineral waste,NLD
+T,Netherlands,2008,W01-05,18212.0,chemical and medical,NLD
+T,Netherlands,2008,W071,356394.0,glass,NLD
+T,Netherlands,2008,W072,1242308.0,paper,NLD
+T,Netherlands,2008,W074,12736.0,plastic,NLD
+T,Netherlands,2008,W075,317137.0,wood,NLD
+T,Netherlands,2008,W077_08,285007.0,weee + batt + vehicles,NLD
+T,Netherlands,2008,W09,0.0,organic waste,NLD
+T,Netherlands,2008,W10,4695567.0,mixed waste,NLD
+T,Netherlands,2008,W11,0.0,common sludges,NLD
+T,Netherlands,2008,W12-13,0.0,mineral waste,NLD
+T,Netherlands,2010,W01-05,17420.0,chemical and medical,NLD
+T,Netherlands,2010,W06,64349.0,metal,NLD
+T,Netherlands,2010,W071,357748.0,glass,NLD
+T,Netherlands,2010,W072,1127573.0,paper,NLD
+T,Netherlands,2010,W074,89551.0,plastic,NLD
+T,Netherlands,2010,W075,299174.0,wood,NLD
+T,Netherlands,2010,W077_08,351388.0,weee + batt + vehicles,NLD
+T,Netherlands,2010,W09,1707527.0,organic waste,NLD
+T,Netherlands,2010,W10,4435946.0,mixed waste,NLD
+T,Netherlands,2010,W11,0.0,common sludges,NLD
+T,Netherlands,2010,W12-13,510887.0,mineral waste,NLD
+T,Netherlands,2016,W01-05,16326.0,chemical and medical,NLD
+T,Netherlands,2016,W06,60470.0,metal,NLD
+T,Netherlands,2016,W071,352037.0,glass,NLD
+T,Netherlands,2016,W072,867062.0,paper,NLD
+T,Netherlands,2016,W074,50434.0,plastic,NLD
+T,Netherlands,2016,W075,348600.0,wood,NLD
+T,Netherlands,2016,W077_08,345252.0,weee + batt + vehicles,NLD
+T,Netherlands,2016,W09,1874490.0,organic waste,NLD
+T,Netherlands,2016,W10,3959835.0,mixed waste,NLD
+T,Netherlands,2016,W11,0.0,common sludges,NLD
+T,Netherlands,2016,W12-13,524833.0,mineral waste,NLD
+T,Netherlands,2018,W01-05,17622.0,chemical and medical,NLD
+T,Netherlands,2018,W06,65667.0,metal,NLD
+T,Netherlands,2018,W071,359468.0,glass,NLD
+T,Netherlands,2018,W072,826612.0,paper,NLD
+T,Netherlands,2018,W074,37533.0,plastic,NLD
+T,Netherlands,2018,W075,402080.0,wood,NLD
+T,Netherlands,2018,W077_08,408444.0,weee + batt + vehicles,NLD
+T,Netherlands,2018,W09,1981308.0,organic waste,NLD
+T,Netherlands,2018,W10,3835756.0,mixed waste,NLD
+T,Netherlands,2018,W11,0.0,common sludges,NLD
+T,Netherlands,2018,W12-13,554100.0,mineral waste,NLD
+T,Netherlands,2020,W01-05,19997.0,chemical and medical,NLD
+T,Netherlands,2020,W06,75037.0,metal,NLD
+T,Netherlands,2020,W071,403737.0,glass,NLD
+T,Netherlands,2020,W072,834542.0,paper,NLD
+T,Netherlands,2020,W074,39877.0,plastic,NLD
+T,Netherlands,2020,W075,477442.0,wood,NLD
+T,Netherlands,2020,W077_08,430418.0,weee + batt + vehicles,NLD
+T,Netherlands,2020,W09,2172603.0,organic waste,NLD
+T,Netherlands,2020,W10,4019019.0,mixed waste,NLD
+T,Netherlands,2020,W11,0.0,common sludges,NLD
+T,Netherlands,2020,W12-13,666587.0,mineral waste,NLD
+T,Netherlands,2022,W01-05,16073.0,chemical and medical,NLD
+T,Netherlands,2022,W06,61004.0,metal,NLD
+T,Netherlands,2022,W071,372989.0,glass,NLD
+T,Netherlands,2022,W072,756792.0,paper,NLD
+T,Netherlands,2022,W074,35203.0,plastic,NLD
+T,Netherlands,2022,W075,392325.0,wood,NLD
+T,Netherlands,2022,W077_08,386440.0,weee + batt + vehicles,NLD
+T,Netherlands,2022,W09,1951980.0,organic waste,NLD
+T,Netherlands,2022,W10,3578796.0,mixed waste,NLD
+T,Netherlands,2022,W11,0.0,common sludges,NLD
+T,Netherlands,2022,W12-13,540594.0,mineral waste,NLD
+T,Norway,2004,W01-05,5922.0,chemical and medical,NOR
+T,Norway,2004,W071,40236.0,glass,NOR
+T,Norway,2004,W072,258721.0,paper,NOR
+T,Norway,2004,W074,6730.0,plastic,NOR
+T,Norway,2004,W075,95943.0,wood,NOR
+T,Norway,2004,W077_08,213074.0,weee + batt + vehicles,NOR
+T,Norway,2004,W09,0.0,organic waste,NOR
+T,Norway,2004,W10,988175.0,mixed waste,NOR
+T,Norway,2004,W11,0.0,common sludges,NOR
+T,Norway,2004,W12-13,0.0,mineral waste,NOR
+T,Norway,2006,W01-05,6712.0,chemical and medical,NOR
+T,Norway,2006,W071,43965.0,glass,NOR
+T,Norway,2006,W072,328375.0,paper,NOR
+T,Norway,2006,W074,12506.0,plastic,NOR
+T,Norway,2006,W075,149834.0,wood,NOR
+T,Norway,2006,W077_08,136064.0,weee + batt + vehicles,NOR
+T,Norway,2006,W09,0.0,organic waste,NOR
+T,Norway,2006,W10,1154546.0,mixed waste,NOR
+T,Norway,2006,W11,0.0,common sludges,NOR
+T,Norway,2006,W12-13,0.0,mineral waste,NOR
+T,Norway,2008,W01-05,9837.0,chemical and medical,NOR
+T,Norway,2008,W071,49000.0,glass,NOR
+T,Norway,2008,W072,350000.0,paper,NOR
+T,Norway,2008,W074,18000.0,plastic,NOR
+T,Norway,2008,W075,190247.0,wood,NOR
+T,Norway,2008,W077_08,141691.0,weee + batt + vehicles,NOR
+T,Norway,2008,W09,0.0,organic waste,NOR
+T,Norway,2008,W10,1038106.0,mixed waste,NOR
+T,Norway,2008,W11,0.0,common sludges,NOR
+T,Norway,2008,W12-13,0.0,mineral waste,NOR
+T,Norway,2010,W01-05,9996.0,chemical and medical,NOR
+T,Norway,2010,W06,68040.0,metal,NOR
+T,Norway,2010,W071,51097.0,glass,NOR
+T,Norway,2010,W072,310000.0,paper,NOR
+T,Norway,2010,W074,24843.0,plastic,NOR
+T,Norway,2010,W075,205189.0,wood,NOR
+T,Norway,2010,W077_08,126542.0,weee + batt + vehicles,NOR
+T,Norway,2010,W09,334350.0,organic waste,NOR
+T,Norway,2010,W10,1036370.0,mixed waste,NOR
+T,Norway,2010,W11,0.0,common sludges,NOR
+T,Norway,2010,W12-13,3005.0,mineral waste,NOR
+T,Norway,2012,W01-05,2622.0,chemical and medical,NOR
+T,Norway,2012,W06,78770.0,metal,NOR
+T,Norway,2012,W071,52623.0,glass,NOR
+T,Norway,2012,W072,301680.0,paper,NOR
+T,Norway,2012,W074,33172.0,plastic,NOR
+T,Norway,2012,W075,234965.0,wood,NOR
+T,Norway,2012,W077_08,188520.0,weee + batt + vehicles,NOR
+T,Norway,2012,W09,347306.0,organic waste,NOR
+T,Norway,2012,W10,1195930.0,mixed waste,NOR
+T,Norway,2012,W11,0.0,common sludges,NOR
+T,Norway,2012,W12-13,0.0,mineral waste,NOR
+T,Norway,2014,W01-05,11599.0,chemical and medical,NOR
+T,Norway,2014,W06,83423.0,metal,NOR
+T,Norway,2014,W071,56837.0,glass,NOR
+T,Norway,2014,W072,276761.0,paper,NOR
+T,Norway,2014,W074,36324.0,plastic,NOR
+T,Norway,2014,W075,297020.0,wood,NOR
+T,Norway,2014,W077_08,229742.0,weee + batt + vehicles,NOR
+T,Norway,2014,W09,340700.0,organic waste,NOR
+T,Norway,2014,W10,1091127.0,mixed waste,NOR
+T,Norway,2014,W11,0.0,common sludges,NOR
+T,Norway,2014,W12-13,2863.0,mineral waste,NOR
+T,Norway,2016,W01-05,18201.0,chemical and medical,NOR
+T,Norway,2016,W06,89576.0,metal,NOR
+T,Norway,2016,W071,62618.0,glass,NOR
+T,Norway,2016,W072,259991.0,paper,NOR
+T,Norway,2016,W074,39812.0,plastic,NOR
+T,Norway,2016,W075,322066.0,wood,NOR
+T,Norway,2016,W077_08,217956.0,weee + batt + vehicles,NOR
+T,Norway,2016,W09,342477.0,organic waste,NOR
+T,Norway,2016,W10,1086746.0,mixed waste,NOR
+T,Norway,2016,W11,0.0,common sludges,NOR
+T,Norway,2016,W12-13,4363.0,mineral waste,NOR
+T,Norway,2018,W01-05,13761.0,chemical and medical,NOR
+T,Norway,2018,W06,95979.0,metal,NOR
+T,Norway,2018,W071,70276.0,glass,NOR
+T,Norway,2018,W072,238882.0,paper,NOR
+T,Norway,2018,W074,45999.0,plastic,NOR
+T,Norway,2018,W075,303736.0,wood,NOR
+T,Norway,2018,W077_08,236301.0,weee + batt + vehicles,NOR
+T,Norway,2018,W09,348073.0,organic waste,NOR
+T,Norway,2018,W10,987584.0,mixed waste,NOR
+T,Norway,2018,W11,0.0,common sludges,NOR
+T,Norway,2018,W12-13,73574.0,mineral waste,NOR
+T,Norway,2020,W01-05,19612.0,chemical and medical,NOR
+T,Norway,2020,W06,109633.0,metal,NOR
+T,Norway,2020,W071,71812.0,glass,NOR
+T,Norway,2020,W072,231706.0,paper,NOR
+T,Norway,2020,W074,57366.0,plastic,NOR
+T,Norway,2020,W075,362004.0,wood,NOR
+T,Norway,2020,W077_08,217063.0,weee + batt + vehicles,NOR
+T,Norway,2020,W09,385431.0,organic waste,NOR
+T,Norway,2020,W10,989064.0,mixed waste,NOR
+T,Norway,2020,W11,0.0,common sludges,NOR
+T,Norway,2020,W12-13,132486.0,mineral waste,NOR
+T,Norway,2022,W01-05,14576.0,chemical and medical,NOR
+T,Norway,2022,W06,89277.0,metal,NOR
+T,Norway,2022,W071,79104.0,glass,NOR
+T,Norway,2022,W072,204087.0,paper,NOR
+T,Norway,2022,W074,52118.0,plastic,NOR
+T,Norway,2022,W075,251008.0,wood,NOR
+T,Norway,2022,W077_08,187724.0,weee + batt + vehicles,NOR
+T,Norway,2022,W09,338968.0,organic waste,NOR
+T,Norway,2022,W10,885259.0,mixed waste,NOR
+T,Norway,2022,W11,0.0,common sludges,NOR
+T,Norway,2022,W12-13,126876.0,mineral waste,NOR
+T,Poland,2004,W01-05,0.0,chemical and medical,POL
+T,Poland,2004,W071,60460.0,glass,POL
+T,Poland,2004,W072,27657.0,paper,POL
+T,Poland,2004,W074,22855.0,plastic,POL
+T,Poland,2004,W075,0.0,wood,POL
+T,Poland,2004,W077_08,42.0,weee + batt + vehicles,POL
+T,Poland,2004,W09,0.0,organic waste,POL
+T,Poland,2004,W10,6640830.0,mixed waste,POL
+T,Poland,2004,W11,0.0,common sludges,POL
+T,Poland,2004,W12-13,0.0,mineral waste,POL
+T,Poland,2006,W01-05,0.0,chemical and medical,POL
+T,Poland,2006,W071,89626.0,glass,POL
+T,Poland,2006,W072,44306.0,paper,POL
+T,Poland,2006,W074,40330.0,plastic,POL
+T,Poland,2006,W075,0.0,wood,POL
+T,Poland,2006,W077_08,472.0,weee + batt + vehicles,POL
+T,Poland,2006,W09,0.0,organic waste,POL
+T,Poland,2006,W10,6683819.0,mixed waste,POL
+T,Poland,2006,W11,0.0,common sludges,POL
+T,Poland,2006,W12-13,0.0,mineral waste,POL
+T,Poland,2008,W01-05,0.0,chemical and medical,POL
+T,Poland,2008,W071,137153.0,glass,POL
+T,Poland,2008,W072,69634.0,paper,POL
+T,Poland,2008,W074,60807.0,plastic,POL
+T,Poland,2008,W075,0.0,wood,POL
+T,Poland,2008,W077_08,12210.0,weee + batt + vehicles,POL
+T,Poland,2008,W09,0.0,organic waste,POL
+T,Poland,2008,W10,6557769.0,mixed waste,POL
+T,Poland,2008,W11,0.0,common sludges,POL
+T,Poland,2008,W12-13,0.0,mineral waste,POL
+T,Poland,2010,W01-05,0.0,chemical and medical,POL
+T,Poland,2010,W06,12474.0,metal,POL
+T,Poland,2010,W071,175976.0,glass,POL
+T,Poland,2010,W072,94765.0,paper,POL
+T,Poland,2010,W074,93765.0,plastic,POL
+T,Poland,2010,W075,0.0,wood,POL
+T,Poland,2010,W077_08,11442.0,weee + batt + vehicles,POL
+T,Poland,2010,W09,84761.0,organic waste,POL
+T,Poland,2010,W10,8381246.0,mixed waste,POL
+T,Poland,2010,W11,0.0,common sludges,POL
+T,Poland,2010,W12-13,0.0,mineral waste,POL
+T,Poland,2012,W01-05,0.0,chemical and medical,POL
+T,Poland,2012,W06,11107.0,metal,POL
+T,Poland,2012,W071,226233.0,glass,POL
+T,Poland,2012,W072,106392.0,paper,POL
+T,Poland,2012,W074,134149.0,plastic,POL
+T,Poland,2012,W075,0.0,wood,POL
+T,Poland,2012,W077_08,20320.0,weee + batt + vehicles,POL
+T,Poland,2012,W09,104640.0,organic waste,POL
+T,Poland,2012,W10,8684119.0,mixed waste,POL
+T,Poland,2012,W11,0.0,common sludges,POL
+T,Poland,2012,W12-13,0.0,mineral waste,POL
+T,Poland,2014,W01-05,827.0,chemical and medical,POL
+T,Poland,2014,W06,18370.0,metal,POL
+T,Poland,2014,W071,364584.0,glass,POL
+T,Poland,2014,W072,169610.0,paper,POL
+T,Poland,2014,W074,273846.0,plastic,POL
+T,Poland,2014,W075,0.0,wood,POL
+T,Poland,2014,W077_08,25183.0,weee + batt + vehicles,POL
+T,Poland,2014,W09,494501.0,organic waste,POL
+T,Poland,2014,W10,6862045.0,mixed waste,POL
+T,Poland,2014,W11,0.0,common sludges,POL
+T,Poland,2014,W12-13,0.0,mineral waste,POL
+T,Poland,2016,W01-05,965.0,chemical and medical,POL
+T,Poland,2016,W06,22152.0,metal,POL
+T,Poland,2016,W071,405607.0,glass,POL
+T,Poland,2016,W072,202064.0,paper,POL
+T,Poland,2016,W074,271680.0,plastic,POL
+T,Poland,2016,W075,0.0,wood,POL
+T,Poland,2016,W077_08,0.0,weee + batt + vehicles,POL
+T,Poland,2016,W09,728514.0,organic waste,POL
+T,Poland,2016,W10,7902060.0,mixed waste,POL
+T,Poland,2016,W11,0.0,common sludges,POL
+T,Poland,2016,W12-13,0.0,mineral waste,POL
+T,Poland,2018,W01-05,2500.0,chemical and medical,POL
+T,Poland,2018,W06,11874.0,metal,POL
+T,Poland,2018,W071,505059.0,glass,POL
+T,Poland,2018,W072,269404.0,paper,POL
+T,Poland,2018,W074,330518.0,plastic,POL
+T,Poland,2018,W075,12.0,wood,POL
+T,Poland,2018,W077_08,302088.0,weee + batt + vehicles,POL
+T,Poland,2018,W09,1015378.0,organic waste,POL
+T,Poland,2018,W10,7128655.0,mixed waste,POL
+T,Poland,2018,W11,0.0,common sludges,POL
+T,Poland,2018,W12-13,0.0,mineral waste,POL
+T,Poland,2020,W01-05,2434.0,chemical and medical,POL
+T,Poland,2020,W06,6749.0,metal,POL
+T,Poland,2020,W071,723268.0,glass,POL
+T,Poland,2020,W072,487972.0,paper,POL
+T,Poland,2020,W074,474078.0,plastic,POL
+T,Poland,2020,W075,2849.0,wood,POL
+T,Poland,2020,W077_08,25576.0,weee + batt + vehicles,POL
+T,Poland,2020,W09,1543385.0,organic waste,POL
+T,Poland,2020,W10,9469139.0,mixed waste,POL
+T,Poland,2020,W11,0.0,common sludges,POL
+T,Poland,2020,W12-13,397385.0,mineral waste,POL
+T,Poland,2022,W01-05,5235.0,chemical and medical,POL
+T,Poland,2022,W06,100826.0,metal,POL
+T,Poland,2022,W071,788873.0,glass,POL
+T,Poland,2022,W072,711581.0,paper,POL
+T,Poland,2022,W074,542130.0,plastic,POL
+T,Poland,2022,W075,5954.0,wood,POL
+T,Poland,2022,W077_08,105577.0,weee + batt + vehicles,POL
+T,Poland,2022,W09,1970826.0,organic waste,POL
+T,Poland,2022,W10,9539814.0,mixed waste,POL
+T,Poland,2022,W11,104.0,common sludges,POL
+T,Poland,2022,W12-13,6962.0,mineral waste,POL
+T,Portugal,2004,W01-05,13089.0,chemical and medical,PRT
+T,Portugal,2004,W071,107082.0,glass,PRT
+T,Portugal,2004,W072,94395.0,paper,PRT
+T,Portugal,2004,W074,0.0,plastic,PRT
+T,Portugal,2004,W075,0.0,wood,PRT
+T,Portugal,2004,W077_08,34.0,weee + batt + vehicles,PRT
+T,Portugal,2004,W09,0.0,organic waste,PRT
+T,Portugal,2004,W10,4368010.0,mixed waste,PRT
+T,Portugal,2004,W11,0.0,common sludges,PRT
+T,Portugal,2004,W12-13,0.0,mineral waste,PRT
+T,Portugal,2006,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2006,W071,0.0,glass,PRT
+T,Portugal,2006,W072,0.0,paper,PRT
+T,Portugal,2006,W074,0.0,plastic,PRT
+T,Portugal,2006,W075,0.0,wood,PRT
+T,Portugal,2006,W077_08,0.0,weee + batt + vehicles,PRT
+T,Portugal,2006,W09,0.0,organic waste,PRT
+T,Portugal,2006,W10,4641103.0,mixed waste,PRT
+T,Portugal,2006,W11,0.0,common sludges,PRT
+T,Portugal,2006,W12-13,0.0,mineral waste,PRT
+T,Portugal,2008,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2008,W071,170744.0,glass,PRT
+T,Portugal,2008,W072,193581.0,paper,PRT
+T,Portugal,2008,W074,44.0,plastic,PRT
+T,Portugal,2008,W075,7813.0,wood,PRT
+T,Portugal,2008,W077_08,6766.0,weee + batt + vehicles,PRT
+T,Portugal,2008,W09,0.0,organic waste,PRT
+T,Portugal,2008,W10,5077433.0,mixed waste,PRT
+T,Portugal,2008,W11,0.0,common sludges,PRT
+T,Portugal,2008,W12-13,0.0,mineral waste,PRT
+T,Portugal,2010,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2010,W06,5118.0,metal,PRT
+T,Portugal,2010,W071,185942.0,glass,PRT
+T,Portugal,2010,W072,186818.0,paper,PRT
+T,Portugal,2010,W074,3185.0,plastic,PRT
+T,Portugal,2010,W075,5232.0,wood,PRT
+T,Portugal,2010,W077_08,4625.0,weee + batt + vehicles,PRT
+T,Portugal,2010,W09,28.0,organic waste,PRT
+T,Portugal,2010,W10,5049982.0,mixed waste,PRT
+T,Portugal,2010,W11,0.0,common sludges,PRT
+T,Portugal,2010,W12-13,0.0,mineral waste,PRT
+T,Portugal,2012,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2012,W06,2578.0,metal,PRT
+T,Portugal,2012,W071,156721.0,glass,PRT
+T,Portugal,2012,W072,146616.0,paper,PRT
+T,Portugal,2012,W074,2286.0,plastic,PRT
+T,Portugal,2012,W075,2634.0,wood,PRT
+T,Portugal,2012,W077_08,3504.0,weee + batt + vehicles,PRT
+T,Portugal,2012,W09,219.0,organic waste,PRT
+T,Portugal,2012,W10,4416873.0,mixed waste,PRT
+T,Portugal,2012,W11,0.0,common sludges,PRT
+T,Portugal,2012,W12-13,0.0,mineral waste,PRT
+T,Portugal,2014,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2014,W06,11537.0,metal,PRT
+T,Portugal,2014,W071,148391.0,glass,PRT
+T,Portugal,2014,W072,138508.0,paper,PRT
+T,Portugal,2014,W074,47814.0,plastic,PRT
+T,Portugal,2014,W075,3810.0,wood,PRT
+T,Portugal,2014,W077_08,2360.0,weee + batt + vehicles,PRT
+T,Portugal,2014,W09,2268.0,organic waste,PRT
+T,Portugal,2014,W10,4355777.0,mixed waste,PRT
+T,Portugal,2014,W11,0.0,common sludges,PRT
+T,Portugal,2014,W12-13,0.0,mineral waste,PRT
+T,Portugal,2016,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2016,W06,4700.0,metal,PRT
+T,Portugal,2016,W071,161028.0,glass,PRT
+T,Portugal,2016,W072,152466.0,paper,PRT
+T,Portugal,2016,W074,98134.0,plastic,PRT
+T,Portugal,2016,W075,17133.0,wood,PRT
+T,Portugal,2016,W077_08,4185.0,weee + batt + vehicles,PRT
+T,Portugal,2016,W09,420.0,organic waste,PRT
+T,Portugal,2016,W10,4459196.0,mixed waste,PRT
+T,Portugal,2016,W11,0.0,common sludges,PRT
+T,Portugal,2016,W12-13,0.0,mineral waste,PRT
+T,Portugal,2018,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2018,W06,78522.0,metal,PRT
+T,Portugal,2018,W071,173562.0,glass,PRT
+T,Portugal,2018,W072,189391.0,paper,PRT
+T,Portugal,2018,W074,91410.0,plastic,PRT
+T,Portugal,2018,W075,26896.0,wood,PRT
+T,Portugal,2018,W077_08,6946.0,weee + batt + vehicles,PRT
+T,Portugal,2018,W09,107114.0,organic waste,PRT
+T,Portugal,2018,W10,4539309.0,mixed waste,PRT
+T,Portugal,2018,W11,0.0,common sludges,PRT
+T,Portugal,2018,W12-13,0.0,mineral waste,PRT
+T,Portugal,2020,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2020,W06,6994.0,metal,PRT
+T,Portugal,2020,W071,191862.0,glass,PRT
+T,Portugal,2020,W072,214230.0,paper,PRT
+T,Portugal,2020,W074,140028.0,plastic,PRT
+T,Portugal,2020,W075,30408.0,wood,PRT
+T,Portugal,2020,W077_08,7207.0,weee + batt + vehicles,PRT
+T,Portugal,2020,W09,134881.0,organic waste,PRT
+T,Portugal,2020,W10,4552891.0,mixed waste,PRT
+T,Portugal,2020,W11,0.0,common sludges,PRT
+T,Portugal,2020,W12-13,0.0,mineral waste,PRT
+T,Portugal,2022,W01-05,0.0,chemical and medical,PRT
+T,Portugal,2022,W06,7294.0,metal,PRT
+T,Portugal,2022,W071,219158.0,glass,PRT
+T,Portugal,2022,W072,230727.0,paper,PRT
+T,Portugal,2022,W074,13297.0,plastic,PRT
+T,Portugal,2022,W075,22072.0,wood,PRT
+T,Portugal,2022,W077_08,6533.0,weee + batt + vehicles,PRT
+T,Portugal,2022,W09,169597.0,organic waste,PRT
+T,Portugal,2022,W10,4654149.0,mixed waste,PRT
+T,Portugal,2022,W11,0.0,common sludges,PRT
+T,Portugal,2022,W12-13,0.0,mineral waste,PRT
+T,Romania,2004,W01-05,0.0,chemical and medical,ROU
+T,Romania,2004,W071,343446.0,glass,ROU
+T,Romania,2004,W072,391106.0,paper,ROU
+T,Romania,2004,W074,118969.0,plastic,ROU
+T,Romania,2004,W075,0.0,wood,ROU
+T,Romania,2004,W077_08,0.0,weee + batt + vehicles,ROU
+T,Romania,2004,W09,0.0,organic waste,ROU
+T,Romania,2004,W10,2219666.0,mixed waste,ROU
+T,Romania,2004,W11,0.0,common sludges,ROU
+T,Romania,2004,W12-13,0.0,mineral waste,ROU
+T,Romania,2006,W01-05,0.0,chemical and medical,ROU
+T,Romania,2006,W071,550930.0,glass,ROU
+T,Romania,2006,W072,643624.0,paper,ROU
+T,Romania,2006,W074,320665.0,plastic,ROU
+T,Romania,2006,W075,108417.0,wood,ROU
+T,Romania,2006,W077_08,261.0,weee + batt + vehicles,ROU
+T,Romania,2006,W09,0.0,organic waste,ROU
+T,Romania,2006,W10,4111365.0,mixed waste,ROU
+T,Romania,2006,W11,0.0,common sludges,ROU
+T,Romania,2006,W12-13,0.0,mineral waste,ROU
+T,Romania,2008,W01-05,0.0,chemical and medical,ROU
+T,Romania,2008,W071,118154.0,glass,ROU
+T,Romania,2008,W072,219613.0,paper,ROU
+T,Romania,2008,W074,204831.0,plastic,ROU
+T,Romania,2008,W075,130536.0,wood,ROU
+T,Romania,2008,W077_08,17984.0,weee + batt + vehicles,ROU
+T,Romania,2008,W09,0.0,organic waste,ROU
+T,Romania,2008,W10,5531405.0,mixed waste,ROU
+T,Romania,2008,W11,0.0,common sludges,ROU
+T,Romania,2008,W12-13,0.0,mineral waste,ROU
+T,Romania,2010,W01-05,0.0,chemical and medical,ROU
+T,Romania,2010,W06,43353.0,metal,ROU
+T,Romania,2010,W071,98013.0,glass,ROU
+T,Romania,2010,W072,169423.0,paper,ROU
+T,Romania,2010,W074,188885.0,plastic,ROU
+T,Romania,2010,W075,127466.0,wood,ROU
+T,Romania,2010,W077_08,23237.0,weee + batt + vehicles,ROU
+T,Romania,2010,W09,27053.0,organic waste,ROU
+T,Romania,2010,W10,4473237.0,mixed waste,ROU
+T,Romania,2010,W11,0.0,common sludges,ROU
+T,Romania,2010,W12-13,13729.0,mineral waste,ROU
+T,Romania,2012,W01-05,1.0,chemical and medical,ROU
+T,Romania,2012,W06,36794.0,metal,ROU
+T,Romania,2012,W071,115569.0,glass,ROU
+T,Romania,2012,W072,210227.0,paper,ROU
+T,Romania,2012,W074,216258.0,plastic,ROU
+T,Romania,2012,W075,150748.0,wood,ROU
+T,Romania,2012,W077_08,20780.0,weee + batt + vehicles,ROU
+T,Romania,2012,W09,29022.0,organic waste,ROU
+T,Romania,2012,W10,3732914.0,mixed waste,ROU
+T,Romania,2012,W11,0.0,common sludges,ROU
+T,Romania,2012,W12-13,12584.0,mineral waste,ROU
+T,Romania,2014,W01-05,15.0,chemical and medical,ROU
+T,Romania,2014,W06,1915.0,metal,ROU
+T,Romania,2014,W071,8749.0,glass,ROU
+T,Romania,2014,W072,28607.0,paper,ROU
+T,Romania,2014,W074,35433.0,plastic,ROU
+T,Romania,2014,W075,2115.0,wood,ROU
+T,Romania,2014,W077_08,29853.0,weee + batt + vehicles,ROU
+T,Romania,2014,W09,15726.0,organic waste,ROU
+T,Romania,2014,W10,3513075.0,mixed waste,ROU
+T,Romania,2014,W11,0.0,common sludges,ROU
+T,Romania,2014,W12-13,187409.0,mineral waste,ROU
+T,Romania,2016,W01-05,0.0,chemical and medical,ROU
+T,Romania,2016,W06,57103.0,metal,ROU
+T,Romania,2016,W071,49297.0,glass,ROU
+T,Romania,2016,W072,109415.0,paper,ROU
+T,Romania,2016,W074,69504.0,plastic,ROU
+T,Romania,2016,W075,23632.0,wood,ROU
+T,Romania,2016,W077_08,41591.0,weee + batt + vehicles,ROU
+T,Romania,2016,W09,37915.0,organic waste,ROU
+T,Romania,2016,W10,3512367.0,mixed waste,ROU
+T,Romania,2016,W11,0.0,common sludges,ROU
+T,Romania,2016,W12-13,197461.0,mineral waste,ROU
+T,Romania,2018,W01-05,0.0,chemical and medical,ROU
+T,Romania,2018,W06,77181.0,metal,ROU
+T,Romania,2018,W071,44583.0,glass,ROU
+T,Romania,2018,W072,125652.0,paper,ROU
+T,Romania,2018,W074,70620.0,plastic,ROU
+T,Romania,2018,W075,31544.0,wood,ROU
+T,Romania,2018,W077_08,55855.0,weee + batt + vehicles,ROU
+T,Romania,2018,W09,76563.0,organic waste,ROU
+T,Romania,2018,W10,3564428.0,mixed waste,ROU
+T,Romania,2018,W11,3.0,common sludges,ROU
+T,Romania,2018,W12-13,131575.0,mineral waste,ROU
+T,Romania,2020,W01-05,0.0,chemical and medical,ROU
+T,Romania,2020,W06,62204.0,metal,ROU
+T,Romania,2020,W071,68427.0,glass,ROU
+T,Romania,2020,W072,101378.0,paper,ROU
+T,Romania,2020,W074,101495.0,plastic,ROU
+T,Romania,2020,W075,10614.0,wood,ROU
+T,Romania,2020,W077_08,52745.0,weee + batt + vehicles,ROU
+T,Romania,2020,W09,72777.0,organic waste,ROU
+T,Romania,2020,W10,3673879.0,mixed waste,ROU
+T,Romania,2020,W11,0.0,common sludges,ROU
+T,Romania,2020,W12-13,112570.0,mineral waste,ROU
+T,Romania,2022,W01-05,0.0,chemical and medical,ROU
+T,Romania,2022,W06,43666.0,metal,ROU
+T,Romania,2022,W071,88448.0,glass,ROU
+T,Romania,2022,W072,118247.0,paper,ROU
+T,Romania,2022,W074,112320.0,plastic,ROU
+T,Romania,2022,W075,12419.0,wood,ROU
+T,Romania,2022,W077_08,138296.0,weee + batt + vehicles,ROU
+T,Romania,2022,W09,107419.0,organic waste,ROU
+T,Romania,2022,W10,3719093.0,mixed waste,ROU
+T,Romania,2022,W11,0.0,common sludges,ROU
+T,Romania,2022,W12-13,155460.0,mineral waste,ROU
+T,Serbia,2010,W01-05,0.0,chemical and medical,
+T,Serbia,2010,W06,0.0,metal,
+T,Serbia,2010,W071,0.0,glass,
+T,Serbia,2010,W072,0.0,paper,
+T,Serbia,2010,W074,0.0,plastic,
+T,Serbia,2010,W075,0.0,wood,
+T,Serbia,2010,W077_08,0.0,weee + batt + vehicles,
+T,Serbia,2010,W09,0.0,organic waste,
+T,Serbia,2010,W10,0.0,mixed waste,
+T,Serbia,2010,W11,0.0,common sludges,
+T,Serbia,2010,W12-13,0.0,mineral waste,
+T,Serbia,2014,W01-05,252.0,chemical and medical,
+T,Serbia,2014,W06,1518.0,metal,
+T,Serbia,2014,W071,1172.0,glass,
+T,Serbia,2014,W072,7621.0,paper,
+T,Serbia,2014,W074,6346.0,plastic,
+T,Serbia,2014,W075,260.0,wood,
+T,Serbia,2014,W077_08,9203.0,weee + batt + vehicles,
+T,Serbia,2014,W09,87079.0,organic waste,
+T,Serbia,2014,W10,1515191.0,mixed waste,
+T,Serbia,2014,W11,0.0,common sludges,
+T,Serbia,2014,W12-13,3771.0,mineral waste,
+T,Serbia,2016,W01-05,32.0,chemical and medical,
+T,Serbia,2016,W06,1538.0,metal,
+T,Serbia,2016,W071,2397.0,glass,
+T,Serbia,2016,W072,15713.0,paper,
+T,Serbia,2016,W074,10770.0,plastic,
+T,Serbia,2016,W075,5.0,wood,
+T,Serbia,2016,W077_08,1.0,weee + batt + vehicles,
+T,Serbia,2016,W09,40525.0,organic waste,
+T,Serbia,2016,W10,1515636.0,mixed waste,
+T,Serbia,2016,W11,0.0,common sludges,
+T,Serbia,2016,W12-13,0.0,mineral waste,
+T,Serbia,2018,W01-05,0.0,chemical and medical,
+T,Serbia,2018,W06,377.0,metal,
+T,Serbia,2018,W071,487.0,glass,
+T,Serbia,2018,W072,2057.0,paper,
+T,Serbia,2018,W074,3196.0,plastic,
+T,Serbia,2018,W075,0.0,wood,
+T,Serbia,2018,W077_08,0.0,weee + batt + vehicles,
+T,Serbia,2018,W09,4206.0,organic waste,
+T,Serbia,2018,W10,1851153.0,mixed waste,
+T,Serbia,2018,W11,0.0,common sludges,
+T,Serbia,2018,W12-13,0.0,mineral waste,
+T,Serbia,2020,W01-05,100.0,chemical and medical,
+T,Serbia,2020,W06,34798.0,metal,
+T,Serbia,2020,W071,14243.0,glass,
+T,Serbia,2020,W072,22284.0,paper,
+T,Serbia,2020,W074,24873.0,plastic,
+T,Serbia,2020,W075,4137.0,wood,
+T,Serbia,2020,W077_08,58630.0,weee + batt + vehicles,
+T,Serbia,2020,W09,2771.0,organic waste,
+T,Serbia,2020,W10,1901402.0,mixed waste,
+T,Serbia,2020,W11,0.0,common sludges,
+T,Serbia,2020,W12-13,0.0,mineral waste,
+T,Serbia,2022,W01-05,10.0,chemical and medical,
+T,Serbia,2022,W06,58291.0,metal,
+T,Serbia,2022,W071,40175.0,glass,
+T,Serbia,2022,W072,0.0,paper,
+T,Serbia,2022,W074,51073.0,plastic,
+T,Serbia,2022,W075,18077.0,wood,
+T,Serbia,2022,W077_08,27812.0,weee + batt + vehicles,
+T,Serbia,2022,W09,0.0,organic waste,
+T,Serbia,2022,W10,2029701.0,mixed waste,
+T,Serbia,2022,W11,0.0,common sludges,
+T,Serbia,2022,W12-13,0.0,mineral waste,
+T,Sweden,2004,W01-05,22391.0,chemical and medical,SWE
+T,Sweden,2004,W071,297189.0,glass,SWE
+T,Sweden,2004,W072,512012.0,paper,SWE
+T,Sweden,2004,W074,46123.0,plastic,SWE
+T,Sweden,2004,W075,0.0,wood,SWE
+T,Sweden,2004,W077_08,351188.0,weee + batt + vehicles,SWE
+T,Sweden,2004,W09,0.0,organic waste,SWE
+T,Sweden,2004,W10,2258951.0,mixed waste,SWE
+T,Sweden,2004,W11,83546.0,common sludges,SWE
+T,Sweden,2004,W12-13,0.0,mineral waste,SWE
+T,Sweden,2006,W01-05,19578.0,chemical and medical,SWE
+T,Sweden,2006,W071,266032.0,glass,SWE
+T,Sweden,2006,W072,537440.0,paper,SWE
+T,Sweden,2006,W074,47782.0,plastic,SWE
+T,Sweden,2006,W075,14580.0,wood,SWE
+T,Sweden,2006,W077_08,452529.0,weee + batt + vehicles,SWE
+T,Sweden,2006,W09,0.0,organic waste,SWE
+T,Sweden,2006,W10,2330532.0,mixed waste,SWE
+T,Sweden,2006,W11,87897.0,common sludges,SWE
+T,Sweden,2006,W12-13,0.0,mineral waste,SWE
+T,Sweden,2008,W01-05,17878.0,chemical and medical,SWE
+T,Sweden,2008,W071,246307.0,glass,SWE
+T,Sweden,2008,W072,519120.0,paper,SWE
+T,Sweden,2008,W074,67671.0,plastic,SWE
+T,Sweden,2008,W075,21380.0,wood,SWE
+T,Sweden,2008,W077_08,309315.0,weee + batt + vehicles,SWE
+T,Sweden,2008,W09,0.0,organic waste,SWE
+T,Sweden,2008,W10,2435894.0,mixed waste,SWE
+T,Sweden,2008,W11,85026.0,common sludges,SWE
+T,Sweden,2008,W12-13,0.0,mineral waste,SWE
+T,Sweden,2010,W01-05,17948.0,chemical and medical,SWE
+T,Sweden,2010,W06,172897.0,metal,SWE
+T,Sweden,2010,W071,252135.0,glass,SWE
+T,Sweden,2010,W072,454986.0,paper,SWE
+T,Sweden,2010,W074,67165.0,plastic,SWE
+T,Sweden,2010,W075,25030.0,wood,SWE
+T,Sweden,2010,W077_08,324335.0,weee + batt + vehicles,SWE
+T,Sweden,2010,W09,446940.0,organic waste,SWE
+T,Sweden,2010,W10,2159965.0,mixed waste,SWE
+T,Sweden,2010,W11,85026.0,common sludges,SWE
+T,Sweden,2010,W12-13,0.0,mineral waste,SWE
+T,Sweden,2012,W01-05,22368.0,chemical and medical,SWE
+T,Sweden,2012,W06,166611.0,metal,SWE
+T,Sweden,2012,W071,247232.0,glass,SWE
+T,Sweden,2012,W072,379365.0,paper,SWE
+T,Sweden,2012,W074,69996.0,plastic,SWE
+T,Sweden,2012,W075,37180.0,wood,SWE
+T,Sweden,2012,W077_08,346131.0,weee + batt + vehicles,SWE
+T,Sweden,2012,W09,502000.0,organic waste,SWE
+T,Sweden,2012,W10,2301423.0,mixed waste,SWE
+T,Sweden,2012,W11,83097.0,common sludges,SWE
+T,Sweden,2012,W12-13,0.0,mineral waste,SWE
+T,Sweden,2014,W01-05,22686.0,chemical and medical,SWE
+T,Sweden,2014,W06,171056.0,metal,SWE
+T,Sweden,2014,W071,170980.0,glass,SWE
+T,Sweden,2014,W072,368233.0,paper,SWE
+T,Sweden,2014,W074,96035.0,plastic,SWE
+T,Sweden,2014,W075,454300.0,wood,SWE
+T,Sweden,2014,W077_08,348454.0,weee + batt + vehicles,SWE
+T,Sweden,2014,W09,602313.0,organic waste,SWE
+T,Sweden,2014,W10,1675939.0,mixed waste,SWE
+T,Sweden,2014,W11,82662.0,common sludges,SWE
+T,Sweden,2014,W12-13,146543.0,mineral waste,SWE
+T,Sweden,2016,W01-05,22487.0,chemical and medical,SWE
+T,Sweden,2016,W06,180507.0,metal,SWE
+T,Sweden,2016,W071,188830.0,glass,SWE
+T,Sweden,2016,W072,361078.0,paper,SWE
+T,Sweden,2016,W074,93480.0,plastic,SWE
+T,Sweden,2016,W075,465556.0,wood,SWE
+T,Sweden,2016,W077_08,352864.0,weee + batt + vehicles,SWE
+T,Sweden,2016,W09,713697.0,organic waste,SWE
+T,Sweden,2016,W10,1764836.0,mixed waste,SWE
+T,Sweden,2016,W11,87958.0,common sludges,SWE
+T,Sweden,2016,W12-13,144018.0,mineral waste,SWE
+T,Sweden,2018,W01-05,22716.0,chemical and medical,SWE
+T,Sweden,2018,W06,181127.0,metal,SWE
+T,Sweden,2018,W071,199948.0,glass,SWE
+T,Sweden,2018,W072,372041.0,paper,SWE
+T,Sweden,2018,W074,116830.0,plastic,SWE
+T,Sweden,2018,W075,461747.0,wood,SWE
+T,Sweden,2018,W077_08,359398.0,weee + batt + vehicles,SWE
+T,Sweden,2018,W09,684899.0,organic waste,SWE
+T,Sweden,2018,W10,1842485.0,mixed waste,SWE
+T,Sweden,2018,W11,87853.0,common sludges,SWE
+T,Sweden,2018,W12-13,138444.0,mineral waste,SWE
+T,Sweden,2020,W01-05,22995.0,chemical and medical,SWE
+T,Sweden,2020,W06,200880.0,metal,SWE
+T,Sweden,2020,W071,215095.0,glass,SWE
+T,Sweden,2020,W072,355892.0,paper,SWE
+T,Sweden,2020,W074,135391.0,plastic,SWE
+T,Sweden,2020,W075,554682.0,wood,SWE
+T,Sweden,2020,W077_08,349891.0,weee + batt + vehicles,SWE
+T,Sweden,2020,W09,776546.0,organic waste,SWE
+T,Sweden,2020,W10,1747972.0,mixed waste,SWE
+T,Sweden,2020,W11,88926.0,common sludges,SWE
+T,Sweden,2020,W12-13,158392.0,mineral waste,SWE
+T,Sweden,2022,W01-05,22217.0,chemical and medical,SWE
+T,Sweden,2022,W06,171132.0,metal,SWE
+T,Sweden,2022,W071,214483.0,glass,SWE
+T,Sweden,2022,W072,329262.0,paper,SWE
+T,Sweden,2022,W074,139720.0,plastic,SWE
+T,Sweden,2022,W075,388911.0,wood,SWE
+T,Sweden,2022,W077_08,177328.0,weee + batt + vehicles,SWE
+T,Sweden,2022,W09,736609.0,organic waste,SWE
+T,Sweden,2022,W10,1682890.0,mixed waste,SWE
+T,Sweden,2022,W11,88008.0,common sludges,SWE
+T,Sweden,2022,W12-13,147609.0,mineral waste,SWE
+T,Slovenia,2004,W01-05,3640.0,chemical and medical,SVN
+T,Slovenia,2004,W071,6947.0,glass,SVN
+T,Slovenia,2004,W072,17254.0,paper,SVN
+T,Slovenia,2004,W074,8818.0,plastic,SVN
+T,Slovenia,2004,W075,4972.0,wood,SVN
+T,Slovenia,2004,W077_08,2442.0,weee + batt + vehicles,SVN
+T,Slovenia,2004,W09,0.0,organic waste,SVN
+T,Slovenia,2004,W10,556701.0,mixed waste,SVN
+T,Slovenia,2004,W11,11559.0,common sludges,SVN
+T,Slovenia,2004,W12-13,2869.0,mineral waste,SVN
+T,Slovenia,2006,W01-05,7213.0,chemical and medical,SVN
+T,Slovenia,2006,W071,11414.0,glass,SVN
+T,Slovenia,2006,W072,26104.0,paper,SVN
+T,Slovenia,2006,W074,9382.0,plastic,SVN
+T,Slovenia,2006,W075,9509.0,wood,SVN
+T,Slovenia,2006,W077_08,5833.0,weee + batt + vehicles,SVN
+T,Slovenia,2006,W09,12.0,organic waste,SVN
+T,Slovenia,2006,W10,555083.0,mixed waste,SVN
+T,Slovenia,2006,W11,3891.0,common sludges,SVN
+T,Slovenia,2006,W12-13,300812.0,mineral waste,SVN
+T,Slovenia,2008,W01-05,494.0,chemical and medical,SVN
+T,Slovenia,2008,W071,14211.0,glass,SVN
+T,Slovenia,2008,W072,33740.0,paper,SVN
+T,Slovenia,2008,W074,8163.0,plastic,SVN
+T,Slovenia,2008,W075,9349.0,wood,SVN
+T,Slovenia,2008,W077_08,6692.0,weee + batt + vehicles,SVN
+T,Slovenia,2008,W09,0.0,organic waste,SVN
+T,Slovenia,2008,W10,577303.0,mixed waste,SVN
+T,Slovenia,2008,W11,1967.0,common sludges,SVN
+T,Slovenia,2008,W12-13,0.0,mineral waste,SVN
+T,Slovenia,2010,W01-05,860.0,chemical and medical,SVN
+T,Slovenia,2010,W06,7615.0,metal,SVN
+T,Slovenia,2010,W071,21756.0,glass,SVN
+T,Slovenia,2010,W072,38865.0,paper,SVN
+T,Slovenia,2010,W074,15032.0,plastic,SVN
+T,Slovenia,2010,W075,14189.0,wood,SVN
+T,Slovenia,2010,W077_08,19853.0,weee + batt + vehicles,SVN
+T,Slovenia,2010,W09,52384.0,organic waste,SVN
+T,Slovenia,2010,W10,516545.0,mixed waste,SVN
+T,Slovenia,2010,W11,5658.0,common sludges,SVN
+T,Slovenia,2010,W12-13,24544.0,mineral waste,SVN
+T,Slovenia,2012,W01-05,1151.0,chemical and medical,SVN
+T,Slovenia,2012,W06,5605.0,metal,SVN
+T,Slovenia,2012,W071,25454.0,glass,SVN
+T,Slovenia,2012,W072,40747.0,paper,SVN
+T,Slovenia,2012,W074,6398.0,plastic,SVN
+T,Slovenia,2012,W075,14996.0,wood,SVN
+T,Slovenia,2012,W077_08,21540.0,weee + batt + vehicles,SVN
+T,Slovenia,2012,W09,85692.0,organic waste,SVN
+T,Slovenia,2012,W10,403653.0,mixed waste,SVN
+T,Slovenia,2012,W11,2437.0,common sludges,SVN
+T,Slovenia,2012,W12-13,27001.0,mineral waste,SVN
+T,Slovenia,2014,W01-05,1223.0,chemical and medical,SVN
+T,Slovenia,2014,W06,4641.0,metal,SVN
+T,Slovenia,2014,W071,27392.0,glass,SVN
+T,Slovenia,2014,W072,43970.0,paper,SVN
+T,Slovenia,2014,W074,3878.0,plastic,SVN
+T,Slovenia,2014,W075,15998.0,wood,SVN
+T,Slovenia,2014,W077_08,13795.0,weee + batt + vehicles,SVN
+T,Slovenia,2014,W09,97261.0,organic waste,SVN
+T,Slovenia,2014,W10,340913.0,mixed waste,SVN
+T,Slovenia,2014,W11,5.0,common sludges,SVN
+T,Slovenia,2014,W12-13,10189.0,mineral waste,SVN
+T,Slovenia,2016,W01-05,1409.0,chemical and medical,SVN
+T,Slovenia,2016,W06,7996.0,metal,SVN
+T,Slovenia,2016,W071,28625.0,glass,SVN
+T,Slovenia,2016,W072,42457.0,paper,SVN
+T,Slovenia,2016,W074,3095.0,plastic,SVN
+T,Slovenia,2016,W075,20365.0,wood,SVN
+T,Slovenia,2016,W077_08,7386.0,weee + batt + vehicles,SVN
+T,Slovenia,2016,W09,110565.0,organic waste,SVN
+T,Slovenia,2016,W10,334950.0,mixed waste,SVN
+T,Slovenia,2016,W11,12110.0,common sludges,SVN
+T,Slovenia,2016,W12-13,65899.0,mineral waste,SVN
+T,Slovenia,2018,W01-05,1585.0,chemical and medical,SVN
+T,Slovenia,2018,W06,32197.0,metal,SVN
+T,Slovenia,2018,W071,30252.0,glass,SVN
+T,Slovenia,2018,W072,51822.0,paper,SVN
+T,Slovenia,2018,W074,2414.0,plastic,SVN
+T,Slovenia,2018,W075,30103.0,wood,SVN
+T,Slovenia,2018,W077_08,14599.0,weee + batt + vehicles,SVN
+T,Slovenia,2018,W09,117599.0,organic waste,SVN
+T,Slovenia,2018,W10,346104.0,mixed waste,SVN
+T,Slovenia,2018,W11,14721.0,common sludges,SVN
+T,Slovenia,2018,W12-13,342.0,mineral waste,SVN
+T,Slovenia,2020,W01-05,1735.0,chemical and medical,SVN
+T,Slovenia,2020,W06,28609.0,metal,SVN
+T,Slovenia,2020,W071,29860.0,glass,SVN
+T,Slovenia,2020,W072,47761.0,paper,SVN
+T,Slovenia,2020,W074,2288.0,plastic,SVN
+T,Slovenia,2020,W075,34933.0,wood,SVN
+T,Slovenia,2020,W077_08,10530.0,weee + batt + vehicles,SVN
+T,Slovenia,2020,W09,121867.0,organic waste,SVN
+T,Slovenia,2020,W10,347822.0,mixed waste,SVN
+T,Slovenia,2020,W11,0.0,common sludges,SVN
+T,Slovenia,2020,W12-13,1645.0,mineral waste,SVN
+T,Slovenia,2022,W01-05,1431.0,chemical and medical,SVN
+T,Slovenia,2022,W06,43241.0,metal,SVN
+T,Slovenia,2022,W071,33995.0,glass,SVN
+T,Slovenia,2022,W072,56532.0,paper,SVN
+T,Slovenia,2022,W074,2564.0,plastic,SVN
+T,Slovenia,2022,W075,42529.0,wood,SVN
+T,Slovenia,2022,W077_08,11218.0,weee + batt + vehicles,SVN
+T,Slovenia,2022,W09,113071.0,organic waste,SVN
+T,Slovenia,2022,W10,338557.0,mixed waste,SVN
+T,Slovenia,2022,W11,0.0,common sludges,SVN
+T,Slovenia,2022,W12-13,1056.0,mineral waste,SVN
+T,Slovakia,2004,W01-05,0.0,chemical and medical,SVK
+T,Slovakia,2004,W071,0.0,glass,SVK
+T,Slovakia,2004,W072,0.0,paper,SVK
+T,Slovakia,2004,W074,0.0,plastic,SVK
+T,Slovakia,2004,W075,0.0,wood,SVK
+T,Slovakia,2004,W077_08,0.0,weee + batt + vehicles,SVK
+T,Slovakia,2004,W09,0.0,organic waste,SVK
+T,Slovakia,2004,W10,0.0,mixed waste,SVK
+T,Slovakia,2004,W11,0.0,common sludges,SVK
+T,Slovakia,2004,W12-13,0.0,mineral waste,SVK
+T,Slovakia,2006,W01-05,110.0,chemical and medical,SVK
+T,Slovakia,2006,W071,23124.0,glass,SVK
+T,Slovakia,2006,W072,30433.0,paper,SVK
+T,Slovakia,2006,W074,11039.0,plastic,SVK
+T,Slovakia,2006,W075,893.0,wood,SVK
+T,Slovakia,2006,W077_08,4044.0,weee + batt + vehicles,SVK
+T,Slovakia,2006,W09,0.0,organic waste,SVK
+T,Slovakia,2006,W10,1437106.0,mixed waste,SVK
+T,Slovakia,2006,W11,499.0,common sludges,SVK
+T,Slovakia,2006,W12-13,0.0,mineral waste,SVK
+T,Slovakia,2008,W01-05,245.0,chemical and medical,SVK
+T,Slovakia,2008,W071,38844.0,glass,SVK
+T,Slovakia,2008,W072,44814.0,paper,SVK
+T,Slovakia,2008,W074,18271.0,plastic,SVK
+T,Slovakia,2008,W075,1512.0,wood,SVK
+T,Slovakia,2008,W077_08,6781.0,weee + batt + vehicles,SVK
+T,Slovakia,2008,W09,0.0,organic waste,SVK
+T,Slovakia,2008,W10,1533083.0,mixed waste,SVK
+T,Slovakia,2008,W11,3926.0,common sludges,SVK
+T,Slovakia,2008,W12-13,0.0,mineral waste,SVK
+T,Slovakia,2010,W01-05,442.0,chemical and medical,SVK
+T,Slovakia,2010,W06,10007.0,metal,SVK
+T,Slovakia,2010,W071,42643.0,glass,SVK
+T,Slovakia,2010,W072,48163.0,paper,SVK
+T,Slovakia,2010,W074,22789.0,plastic,SVK
+T,Slovakia,2010,W075,1559.0,wood,SVK
+T,Slovakia,2010,W077_08,7254.0,weee + batt + vehicles,SVK
+T,Slovakia,2010,W09,95567.0,organic waste,SVK
+T,Slovakia,2010,W10,1458095.0,mixed waste,SVK
+T,Slovakia,2010,W11,3714.0,common sludges,SVK
+T,Slovakia,2010,W12-13,23683.0,mineral waste,SVK
+T,Slovakia,2012,W01-05,563.0,chemical and medical,SVK
+T,Slovakia,2012,W06,12248.0,metal,SVK
+T,Slovakia,2012,W071,48552.0,glass,SVK
+T,Slovakia,2012,W072,58925.0,paper,SVK
+T,Slovakia,2012,W074,28315.0,plastic,SVK
+T,Slovakia,2012,W075,2460.0,wood,SVK
+T,Slovakia,2012,W077_08,8192.0,weee + batt + vehicles,SVK
+T,Slovakia,2012,W09,98090.0,organic waste,SVK
+T,Slovakia,2012,W10,1382979.0,mixed waste,SVK
+T,Slovakia,2012,W11,2373.0,common sludges,SVK
+T,Slovakia,2012,W12-13,9449.0,mineral waste,SVK
+T,Slovakia,2014,W01-05,715.0,chemical and medical,SVK
+T,Slovakia,2014,W06,17803.0,metal,SVK
+T,Slovakia,2014,W071,50227.0,glass,SVK
+T,Slovakia,2014,W072,61686.0,paper,SVK
+T,Slovakia,2014,W074,31568.0,plastic,SVK
+T,Slovakia,2014,W075,5272.0,wood,SVK
+T,Slovakia,2014,W077_08,8009.0,weee + batt + vehicles,SVK
+T,Slovakia,2014,W09,125419.0,organic waste,SVK
+T,Slovakia,2014,W10,1400856.0,mixed waste,SVK
+T,Slovakia,2014,W11,14904.0,common sludges,SVK
+T,Slovakia,2014,W12-13,8007.0,mineral waste,SVK
+T,Slovakia,2016,W01-05,603.0,chemical and medical,SVK
+T,Slovakia,2016,W06,110269.0,metal,SVK
+T,Slovakia,2016,W071,55984.0,glass,SVK
+T,Slovakia,2016,W072,72557.0,paper,SVK
+T,Slovakia,2016,W074,36123.0,plastic,SVK
+T,Slovakia,2016,W075,8724.0,wood,SVK
+T,Slovakia,2016,W077_08,12018.0,weee + batt + vehicles,SVK
+T,Slovakia,2016,W09,157060.0,organic waste,SVK
+T,Slovakia,2016,W10,1413758.0,mixed waste,SVK
+T,Slovakia,2016,W11,3371.0,common sludges,SVK
+T,Slovakia,2016,W12-13,11808.0,mineral waste,SVK
+T,Slovakia,2018,W01-05,691.0,chemical and medical,SVK
+T,Slovakia,2018,W06,347275.0,metal,SVK
+T,Slovakia,2018,W071,66251.0,glass,SVK
+T,Slovakia,2018,W072,105332.0,paper,SVK
+T,Slovakia,2018,W074,49795.0,plastic,SVK
+T,Slovakia,2018,W075,13385.0,wood,SVK
+T,Slovakia,2018,W077_08,22843.0,weee + batt + vehicles,SVK
+T,Slovakia,2018,W09,219649.0,organic waste,SVK
+T,Slovakia,2018,W10,1417989.0,mixed waste,SVK
+T,Slovakia,2018,W11,1208.0,common sludges,SVK
+T,Slovakia,2018,W12-13,4246.0,mineral waste,SVK
+T,Slovakia,2020,W01-05,1035.0,chemical and medical,SVK
+T,Slovakia,2020,W06,382538.0,metal,SVK
+T,Slovakia,2020,W071,78778.0,glass,SVK
+T,Slovakia,2020,W072,101129.0,paper,SVK
+T,Slovakia,2020,W074,68536.0,plastic,SVK
+T,Slovakia,2020,W075,30841.0,wood,SVK
+T,Slovakia,2020,W077_08,31412.0,weee + batt + vehicles,SVK
+T,Slovakia,2020,W09,301908.0,organic waste,SVK
+T,Slovakia,2020,W10,1357944.0,mixed waste,SVK
+T,Slovakia,2020,W11,0.0,common sludges,SVK
+T,Slovakia,2020,W12-13,0.0,mineral waste,SVK
+T,Slovakia,2022,W01-05,1004.0,chemical and medical,SVK
+T,Slovakia,2022,W06,419380.0,metal,SVK
+T,Slovakia,2022,W071,85527.0,glass,SVK
+T,Slovakia,2022,W072,108379.0,paper,SVK
+T,Slovakia,2022,W074,69915.0,plastic,SVK
+T,Slovakia,2022,W075,41760.0,wood,SVK
+T,Slovakia,2022,W077_08,30541.0,weee + batt + vehicles,SVK
+T,Slovakia,2022,W09,364722.0,organic waste,SVK
+T,Slovakia,2022,W10,1199935.0,mixed waste,SVK
+T,Slovakia,2022,W11,0.0,common sludges,SVK
+T,Slovakia,2022,W12-13,0.0,mineral waste,SVK
+T,Türkiye,2004,W01-05,0.0,chemical and medical,
+T,Türkiye,2004,W071,0.0,glass,
+T,Türkiye,2004,W072,0.0,paper,
+T,Türkiye,2004,W074,0.0,plastic,
+T,Türkiye,2004,W075,0.0,wood,
+T,Türkiye,2004,W077_08,0.0,weee + batt + vehicles,
+T,Türkiye,2004,W09,0.0,organic waste,
+T,Türkiye,2004,W10,29224710.0,mixed waste,
+T,Türkiye,2004,W11,0.0,common sludges,
+T,Türkiye,2004,W12-13,0.0,mineral waste,
+T,Türkiye,2006,W01-05,0.0,chemical and medical,
+T,Türkiye,2006,W071,0.0,glass,
+T,Türkiye,2006,W072,0.0,paper,
+T,Türkiye,2006,W074,0.0,plastic,
+T,Türkiye,2006,W075,0.0,wood,
+T,Türkiye,2006,W077_08,0.0,weee + batt + vehicles,
+T,Türkiye,2006,W09,0.0,organic waste,
+T,Türkiye,2006,W10,30081820.0,mixed waste,
+T,Türkiye,2006,W11,0.0,common sludges,
+T,Türkiye,2006,W12-13,0.0,mineral waste,
+T,Türkiye,2008,W01-05,210845.0,chemical and medical,
+T,Türkiye,2008,W071,201738.0,glass,
+T,Türkiye,2008,W072,804533.0,paper,
+T,Türkiye,2008,W074,318343.0,plastic,
+T,Türkiye,2008,W075,12173.0,wood,
+T,Türkiye,2008,W077_08,296.0,weee + batt + vehicles,
+T,Türkiye,2008,W09,42275.0,organic waste,
+T,Türkiye,2008,W10,25169058.0,mixed waste,
+T,Türkiye,2008,W11,5696.0,common sludges,
+T,Türkiye,2008,W12-13,0.0,mineral waste,
+T,Türkiye,2010,W01-05,43.0,chemical and medical,
+T,Türkiye,2010,W06,5299.0,metal,
+T,Türkiye,2010,W071,7700.0,glass,
+T,Türkiye,2010,W072,32036.0,paper,
+T,Türkiye,2010,W074,26247.0,plastic,
+T,Türkiye,2010,W077_08,5.0,weee + batt + vehicles,
+T,Türkiye,2010,W09,556.0,organic waste,
+T,Türkiye,2010,W10,29389496.0,mixed waste,
+T,Türkiye,2010,W11,36384.0,common sludges,
+T,Türkiye,2010,W12-13,20130.0,mineral waste,
+T,Türkiye,2012,W01-05,157.0,chemical and medical,
+T,Türkiye,2012,W06,6757.0,metal,
+T,Türkiye,2012,W071,9302.0,glass,
+T,Türkiye,2012,W072,22743.0,paper,
+T,Türkiye,2012,W074,13828.0,plastic,
+T,Türkiye,2012,W075,8684.0,wood,
+T,Türkiye,2012,W077_08,1667.0,weee + batt + vehicles,
+T,Türkiye,2012,W09,43921.0,organic waste,
+T,Türkiye,2012,W10,30537959.0,mixed waste,
+T,Türkiye,2012,W11,98068.0,common sludges,
+T,Türkiye,2012,W12-13,19908.0,mineral waste,
+T,Türkiye,2014,W01-05,29537.0,chemical and medical,
+T,Türkiye,2014,W06,35120.0,metal,
+T,Türkiye,2014,W071,22788.0,glass,
+T,Türkiye,2014,W072,68952.0,paper,
+T,Türkiye,2014,W074,70835.0,plastic,
+T,Türkiye,2014,W075,7398.0,wood,
+T,Türkiye,2014,W077_08,4.0,weee + batt + vehicles,
+T,Türkiye,2014,W09,5506.0,organic waste,
+T,Türkiye,2014,W10,24405215.0,mixed waste,
+T,Türkiye,2014,W11,25358.0,common sludges,
+T,Türkiye,2014,W12-13,2278.0,mineral waste,
+T,Türkiye,2016,W06,110356.0,metal,
+T,Türkiye,2016,W071,178713.0,glass,
+T,Türkiye,2016,W072,781593.0,paper,
+T,Türkiye,2016,W074,408920.0,plastic,
+T,Türkiye,2016,W10,26618366.0,mixed waste,
+T,Türkiye,2018,W01-05,0.0,chemical and medical,
+T,Türkiye,2018,W06,103849.0,metal,
+T,Türkiye,2018,W071,187416.0,glass,
+T,Türkiye,2018,W072,872020.0,paper,
+T,Türkiye,2018,W074,405290.0,plastic,
+T,Türkiye,2018,W075,0.0,wood,
+T,Türkiye,2018,W077_08,1736.0,weee + batt + vehicles,
+T,Türkiye,2018,W09,0.0,organic waste,
+T,Türkiye,2018,W10,26504135.0,mixed waste,
+T,Türkiye,2018,W11,0.0,common sludges,
+T,Türkiye,2018,W12-13,24768.0,mineral waste,
+T,Türkiye,2020,W01-05,0.0,chemical and medical,
+T,Türkiye,2020,W06,104514.0,metal,
+T,Türkiye,2020,W071,215614.0,glass,
+T,Türkiye,2020,W072,827987.0,paper,
+T,Türkiye,2020,W074,388963.0,plastic,
+T,Türkiye,2020,W075,0.0,wood,
+T,Türkiye,2020,W077_08,381.0,weee + batt + vehicles,
+T,Türkiye,2020,W09,0.0,organic waste,
+T,Türkiye,2020,W10,26920501.0,mixed waste,
+T,Türkiye,2020,W11,0.0,common sludges,
+T,Türkiye,2020,W12-13,31672.0,mineral waste,
+T,Türkiye,2022,W01-05,0.0,chemical and medical,
+T,Türkiye,2022,W06,55821.0,metal,
+T,Türkiye,2022,W071,97574.0,glass,
+T,Türkiye,2022,W072,459217.0,paper,
+T,Türkiye,2022,W074,221328.0,plastic,
+T,Türkiye,2022,W075,0.0,wood,
+T,Türkiye,2022,W077_08,0.0,weee + batt + vehicles,
+T,Türkiye,2022,W09,0.0,organic waste,
+T,Türkiye,2022,W10,25944155.0,mixed waste,
+T,Türkiye,2022,W11,0.0,common sludges,
+T,Türkiye,2022,W12-13,31955.0,mineral waste,
+T,United Kingdom,2004,W01-05,8047.0,chemical and medical,GBR
+T,United Kingdom,2004,W071,789945.0,glass,GBR
+T,United Kingdom,2004,W072,2064783.0,paper,GBR
+T,United Kingdom,2004,W074,116547.0,plastic,GBR
+T,United Kingdom,2004,W075,287087.0,wood,GBR
+T,United Kingdom,2004,W077_08,632686.0,weee + batt + vehicles,GBR
+T,United Kingdom,2004,W09,0.0,organic waste,GBR
+T,United Kingdom,2004,W10,24461265.0,mixed waste,GBR
+T,United Kingdom,2004,W11,0.0,common sludges,GBR
+T,United Kingdom,2004,W12-13,7731.0,mineral waste,GBR
+T,United Kingdom,2006,W01-05,8376.0,chemical and medical,GBR
+T,United Kingdom,2006,W071,949187.0,glass,GBR
+T,United Kingdom,2006,W072,1872239.0,paper,GBR
+T,United Kingdom,2006,W074,76413.0,plastic,GBR
+T,United Kingdom,2006,W075,541862.0,wood,GBR
+T,United Kingdom,2006,W077_08,1188995.0,weee + batt + vehicles,GBR
+T,United Kingdom,2006,W09,0.0,organic waste,GBR
+T,United Kingdom,2006,W10,23087586.0,mixed waste,GBR
+T,United Kingdom,2006,W11,0.0,common sludges,GBR
+T,United Kingdom,2006,W12-13,0.0,mineral waste,GBR
+T,United Kingdom,2008,W01-05,37936.0,chemical and medical,GBR
+T,United Kingdom,2008,W071,1093123.0,glass,GBR
+T,United Kingdom,2008,W072,1803922.0,paper,GBR
+T,United Kingdom,2008,W074,99112.0,plastic,GBR
+T,United Kingdom,2008,W075,552344.0,wood,GBR
+T,United Kingdom,2008,W077_08,1203863.0,weee + batt + vehicles,GBR
+T,United Kingdom,2008,W09,0.0,organic waste,GBR
+T,United Kingdom,2008,W10,21166593.0,mixed waste,GBR
+T,United Kingdom,2008,W11,0.0,common sludges,GBR
+T,United Kingdom,2008,W12-13,0.0,mineral waste,GBR
+T,United Kingdom,2010,W01-05,14311.0,chemical and medical,GBR
+T,United Kingdom,2010,W06,509252.0,metal,GBR
+T,United Kingdom,2010,W071,1362003.0,glass,GBR
+T,United Kingdom,2010,W072,2902991.0,paper,GBR
+T,United Kingdom,2010,W074,336657.0,plastic,GBR
+T,United Kingdom,2010,W075,742885.0,wood,GBR
+T,United Kingdom,2010,W077_08,356114.0,weee + batt + vehicles,GBR
+T,United Kingdom,2010,W09,4298545.0,organic waste,GBR
+T,United Kingdom,2010,W10,16524393.0,mixed waste,GBR
+T,United Kingdom,2010,W11,0.0,common sludges,GBR
+T,United Kingdom,2010,W12-13,188205.0,mineral waste,GBR
+T,United Kingdom,2012,W01-05,14352.0,chemical and medical,GBR
+T,United Kingdom,2012,W06,471941.0,metal,GBR
+T,United Kingdom,2012,W071,1364450.0,glass,GBR
+T,United Kingdom,2012,W072,2904603.0,paper,GBR
+T,United Kingdom,2012,W074,382247.0,plastic,GBR
+T,United Kingdom,2012,W075,770401.0,wood,GBR
+T,United Kingdom,2012,W077_08,325654.0,weee + batt + vehicles,GBR
+T,United Kingdom,2012,W09,4727754.0,organic waste,GBR
+T,United Kingdom,2012,W10,15304687.0,mixed waste,GBR
+T,United Kingdom,2012,W11,0.0,common sludges,GBR
+T,United Kingdom,2012,W12-13,21601.0,mineral waste,GBR
+T,United Kingdom,2014,W01-05,17253.0,chemical and medical,GBR
+T,United Kingdom,2014,W06,535505.0,metal,GBR
+T,United Kingdom,2014,W071,1394922.0,glass,GBR
+T,United Kingdom,2014,W072,2809695.0,paper,GBR
+T,United Kingdom,2014,W074,491059.0,plastic,GBR
+T,United Kingdom,2014,W075,836640.0,wood,GBR
+T,United Kingdom,2014,W077_08,323038.0,weee + batt + vehicles,GBR
+T,United Kingdom,2014,W09,5014394.0,organic waste,GBR
+T,United Kingdom,2014,W10,15224674.0,mixed waste,GBR
+T,United Kingdom,2014,W11,0.0,common sludges,GBR
+T,United Kingdom,2014,W12-13,0.0,mineral waste,GBR
+T,United Kingdom,2016,W01-05,21895.0,chemical and medical,GBR
+T,United Kingdom,2016,W06,605730.0,metal,GBR
+T,United Kingdom,2016,W071,1431223.0,glass,GBR
+T,United Kingdom,2016,W072,2759945.0,paper,GBR
+T,United Kingdom,2016,W074,507809.0,plastic,GBR
+T,United Kingdom,2016,W075,894592.0,wood,GBR
+T,United Kingdom,2016,W077_08,368067.0,weee + batt + vehicles,GBR
+T,United Kingdom,2016,W09,4959851.0,organic waste,GBR
+T,United Kingdom,2016,W10,15593396.0,mixed waste,GBR
+T,United Kingdom,2016,W11,0.0,common sludges,GBR
+T,United Kingdom,2016,W12-13,0.0,mineral waste,GBR
+T,United Kingdom,2018,W01-05,24911.0,chemical and medical,GBR
+T,United Kingdom,2018,W06,579498.0,metal,GBR
+T,United Kingdom,2018,W071,1432776.0,glass,GBR
+T,United Kingdom,2018,W072,2693692.0,paper,GBR
+T,United Kingdom,2018,W074,522250.0,plastic,GBR
+T,United Kingdom,2018,W075,880608.0,wood,GBR
+T,United Kingdom,2018,W077_08,328517.0,weee + batt + vehicles,GBR
+T,United Kingdom,2018,W09,4716711.0,organic waste,GBR
+T,United Kingdom,2018,W10,15079428.0,mixed waste,GBR
+T,United Kingdom,2018,W11,0.0,common sludges,GBR
+T,United Kingdom,2018,W12-13,0.0,mineral waste,GBR
+T,Kosovo*,2012,W01-05,0.0,chemical and medical,
+T,Kosovo*,2012,W06,0.0,metal,
+T,Kosovo*,2012,W071,0.0,glass,
+T,Kosovo*,2012,W072,0.0,paper,
+T,Kosovo*,2012,W074,0.0,plastic,
+T,Kosovo*,2012,W075,0.0,wood,
+T,Kosovo*,2012,W077_08,0.0,weee + batt + vehicles,
+T,Kosovo*,2012,W09,0.0,organic waste,
+T,Kosovo*,2012,W10,490045.0,mixed waste,
+T,Kosovo*,2012,W11,0.0,common sludges,
+T,Kosovo*,2012,W12-13,0.0,mineral waste,
+T,Kosovo*,2014,W01-05,0.0,chemical and medical,
+T,Kosovo*,2014,W06,0.0,metal,
+T,Kosovo*,2014,W071,0.0,glass,
+T,Kosovo*,2014,W072,0.0,paper,
+T,Kosovo*,2014,W074,0.0,plastic,
+T,Kosovo*,2014,W075,0.0,wood,
+T,Kosovo*,2014,W077_08,0.0,weee + batt + vehicles,
+T,Kosovo*,2014,W09,0.0,organic waste,
+T,Kosovo*,2014,W10,490045.0,mixed waste,
+T,Kosovo*,2014,W11,0.0,common sludges,
+T,Kosovo*,2014,W12-13,0.0,mineral waste,
+T,Kosovo*,2016,W01-05,0.0,chemical and medical,
+T,Kosovo*,2016,W06,0.0,metal,
+T,Kosovo*,2016,W071,0.0,glass,
+T,Kosovo*,2016,W072,0.0,paper,
+T,Kosovo*,2016,W074,0.0,plastic,
+T,Kosovo*,2016,W075,0.0,wood,
+T,Kosovo*,2016,W077_08,0.0,weee + batt + vehicles,
+T,Kosovo*,2016,W09,0.0,organic waste,
+T,Kosovo*,2016,W10,302741.0,mixed waste,
+T,Kosovo*,2016,W11,0.0,common sludges,
+T,Kosovo*,2016,W12-13,0.0,mineral waste,
+T,Kosovo*,2018,W01-05,0.0,chemical and medical,
+T,Kosovo*,2018,W06,0.0,metal,
+T,Kosovo*,2018,W071,0.0,glass,
+T,Kosovo*,2018,W072,0.0,paper,
+T,Kosovo*,2018,W074,0.0,plastic,
+T,Kosovo*,2018,W075,0.0,wood,
+T,Kosovo*,2018,W077_08,0.0,weee + batt + vehicles,
+T,Kosovo*,2018,W09,0.0,organic waste,
+T,Kosovo*,2018,W10,338652.0,mixed waste,
+T,Kosovo*,2018,W11,0.0,common sludges,
+T,Kosovo*,2018,W12-13,0.0,mineral waste,
+T,Kosovo*,2020,W01-05,0.0,chemical and medical,
+T,Kosovo*,2020,W06,0.0,metal,
+T,Kosovo*,2020,W071,0.0,glass,
+T,Kosovo*,2020,W072,0.0,paper,
+T,Kosovo*,2020,W074,0.0,plastic,
+T,Kosovo*,2020,W075,0.0,wood,
+T,Kosovo*,2020,W077_08,0.0,weee + batt + vehicles,
+T,Kosovo*,2020,W09,0.0,organic waste,
+T,Kosovo*,2020,W10,379391.0,mixed waste,
+T,Kosovo*,2020,W11,0.0,common sludges,
+T,Kosovo*,2020,W12-13,0.0,mineral waste,
+T,Kosovo*,2022,W01-05,0.0,chemical and medical,
+T,Kosovo*,2022,W06,0.0,metal,
+T,Kosovo*,2022,W071,0.0,glass,
+T,Kosovo*,2022,W072,0.0,paper,
+T,Kosovo*,2022,W074,0.0,plastic,
+T,Kosovo*,2022,W075,0.0,wood,
+T,Kosovo*,2022,W077_08,0.0,weee + batt + vehicles,
+T,Kosovo*,2022,W09,0.0,organic waste,
+T,Kosovo*,2022,W10,379.0,mixed waste,
+T,Kosovo*,2022,W11,0.0,common sludges,
+T,Kosovo*,2022,W12-13,0.0,mineral waste,
+T,Austria,2004,W073_076,23000.0,textile + rubber,AUT
+T,Austria,2006,W073_076,22200.0,textile + rubber,AUT
+T,Austria,2008,W073_076,27248.0,textile + rubber,AUT
+T,Austria,2010,W073_076,29452.0,textile + rubber,AUT
+T,Austria,2012,W073_076,27426.0,textile + rubber,AUT
+T,Austria,2014,W073_076,31328.0,textile + rubber,AUT
+T,Austria,2016,W073_076,38126.0,textile + rubber,AUT
+T,Austria,2018,W073_076,38676.0,textile + rubber,AUT
+T,Austria,2020,W073_076,38330.0,textile + rubber,AUT
+T,Austria,2022,W073_076,36589.0,textile + rubber,AUT
+T,Bosnia and Herzegovina,2012,W073_076,0.0,textile + rubber,
+T,Bosnia and Herzegovina,2018,W073_076,0.0,textile + rubber,
+T,Bosnia and Herzegovina,2020,W073_076,2409.0,textile + rubber,
+T,Bosnia and Herzegovina,2022,W073_076,2417.0,textile + rubber,
+T,Belgium,2004,W073_076,20349.0,textile + rubber,BEL
+T,Belgium,2006,W073_076,92862.0,textile + rubber,BEL
+T,Belgium,2008,W073_076,69463.0,textile + rubber,BEL
+T,Belgium,2010,W073_076,83433.0,textile + rubber,BEL
+T,Belgium,2012,W073_076,83220.0,textile + rubber,BEL
+T,Belgium,2014,W073_076,79807.0,textile + rubber,BEL
+T,Belgium,2016,W073_076,82325.0,textile + rubber,BEL
+T,Belgium,2018,W073_076,86841.0,textile + rubber,BEL
+T,Belgium,2020,W073_076,89743.0,textile + rubber,BEL
+T,Belgium,2022,W073_076,80521.0,textile + rubber,BEL
+T,Bulgaria,2004,W073_076,0.0,textile + rubber,BGR
+T,Bulgaria,2006,W073_076,0.0,textile + rubber,BGR
+T,Bulgaria,2008,W073_076,0.0,textile + rubber,BGR
+T,Bulgaria,2010,W073_076,9447.0,textile + rubber,BGR
+T,Bulgaria,2012,W073_076,19163.0,textile + rubber,BGR
+T,Bulgaria,2014,W073_076,1217.0,textile + rubber,BGR
+T,Bulgaria,2016,W073_076,32560.0,textile + rubber,BGR
+T,Bulgaria,2018,W073_076,1589.0,textile + rubber,BGR
+T,Bulgaria,2020,W073_076,737.0,textile + rubber,BGR
+T,Bulgaria,2022,W073_076,12337.0,textile + rubber,BGR
+T,Cyprus,2004,W073_076,24613.0,textile + rubber,CYP
+T,Cyprus,2006,W073_076,27314.0,textile + rubber,CYP
+T,Cyprus,2008,W073_076,46066.0,textile + rubber,CYP
+T,Cyprus,2010,W073_076,35726.0,textile + rubber,CYP
+T,Cyprus,2012,W073_076,1110.0,textile + rubber,CYP
+T,Cyprus,2014,W073_076,1300.0,textile + rubber,CYP
+T,Cyprus,2016,W073_076,2042.0,textile + rubber,CYP
+T,Cyprus,2018,W073_076,2527.0,textile + rubber,CYP
+T,Cyprus,2020,W073_076,2740.0,textile + rubber,CYP
+T,Cyprus,2022,W073_076,2806.0,textile + rubber,CYP
+T,Czechia,2004,W073_076,6286.0,textile + rubber,CZE
+T,Czechia,2006,W073_076,6833.0,textile + rubber,CZE
+T,Czechia,2008,W073_076,2256.0,textile + rubber,CZE
+T,Czechia,2010,W073_076,2911.0,textile + rubber,CZE
+T,Czechia,2012,W073_076,4774.0,textile + rubber,CZE
+T,Czechia,2014,W073_076,8262.0,textile + rubber,CZE
+T,Czechia,2016,W073_076,12165.0,textile + rubber,CZE
+T,Czechia,2018,W073_076,36900.0,textile + rubber,CZE
+T,Czechia,2020,W073_076,37944.0,textile + rubber,CZE
+T,Czechia,2022,W073_076,39657.0,textile + rubber,CZE
+T,Germany,2004,W073_076,82434.0,textile + rubber,DEU
+T,Germany,2006,W073_076,47996.0,textile + rubber,DEU
+T,Germany,2008,W073_076,82914.0,textile + rubber,DEU
+T,Germany,2010,W073_076,80733.0,textile + rubber,DEU
+T,Germany,2012,W073_076,99955.0,textile + rubber,DEU
+T,Germany,2014,W073_076,114230.0,textile + rubber,DEU
+T,Germany,2016,W073_076,141667.0,textile + rubber,DEU
+T,Germany,2018,W073_076,140946.0,textile + rubber,DEU
+T,Germany,2020,W073_076,123775.0,textile + rubber,DEU
+T,Germany,2022,W073_076,148897.0,textile + rubber,DEU
+T,Denmark,2004,W073_076,547.0,textile + rubber,DNK
+T,Denmark,2006,W073_076,145.0,textile + rubber,DNK
+T,Denmark,2008,W073_076,117.0,textile + rubber,DNK
+T,Denmark,2010,W073_076,1898.0,textile + rubber,DNK
+T,Denmark,2012,W073_076,7753.0,textile + rubber,DNK
+T,Denmark,2014,W073_076,6331.0,textile + rubber,DNK
+T,Denmark,2016,W073_076,9305.0,textile + rubber,DNK
+T,Denmark,2018,W073_076,12358.0,textile + rubber,DNK
+T,Denmark,2020,W073_076,14400.0,textile + rubber,DNK
+T,Denmark,2022,W073_076,15488.0,textile + rubber,DNK
+T,Estonia,2004,W073_076,194.0,textile + rubber,EST
+T,Estonia,2006,W073_076,5232.0,textile + rubber,EST
+T,Estonia,2008,W073_076,2788.0,textile + rubber,EST
+T,Estonia,2010,W073_076,2163.0,textile + rubber,EST
+T,Estonia,2012,W073_076,2091.0,textile + rubber,EST
+T,Estonia,2014,W073_076,2501.0,textile + rubber,EST
+T,Estonia,2016,W073_076,2088.0,textile + rubber,EST
+T,Estonia,2018,W073_076,2421.0,textile + rubber,EST
+T,Estonia,2020,W073_076,3545.0,textile + rubber,EST
+T,Estonia,2022,W073_076,3492.0,textile + rubber,EST
+T,Greece,2004,W073_076,0.0,textile + rubber,GRC
+T,Greece,2006,W073_076,0.0,textile + rubber,GRC
+T,Greece,2008,W073_076,0.0,textile + rubber,GRC
+T,Greece,2010,W073_076,0.0,textile + rubber,GRC
+T,Greece,2016,W073_076,0.0,textile + rubber,GRC
+T,Greece,2018,W073_076,1924.0,textile + rubber,GRC
+T,Greece,2020,W073_076,1994.0,textile + rubber,GRC
+T,Greece,2022,W073_076,3763.0,textile + rubber,GRC
+T,Spain,2004,W073_076,31580.0,textile + rubber,ESP
+T,Spain,2006,W073_076,15747.0,textile + rubber,ESP
+T,Spain,2008,W073_076,12456.0,textile + rubber,ESP
+T,Spain,2010,W073_076,9889.0,textile + rubber,ESP
+T,Spain,2012,W073_076,21002.0,textile + rubber,ESP
+T,Spain,2014,W073_076,42507.0,textile + rubber,ESP
+T,Spain,2016,W073_076,34616.0,textile + rubber,ESP
+T,Spain,2018,W073_076,40344.0,textile + rubber,ESP
+T,Spain,2020,W073_076,35823.0,textile + rubber,ESP
+T,Spain,2022,W073_076,47631.0,textile + rubber,ESP
+T,European Union - 27 countries (from 2020),2004,W073_076,790000.0,textile + rubber,EU27_2020
+T,European Union - 27 countries (from 2020),2006,W073_076,850000.0,textile + rubber,EU27_2020
+T,European Union - 27 countries (from 2020),2008,W073_076,590000.0,textile + rubber,EU27_2020
+T,European Union - 27 countries (from 2020),2010,W073_076,590000.0,textile + rubber,EU27_2020
+T,European Union - 27 countries (from 2020),2016,W073_076,920000.0,textile + rubber,EU27_2020
+T,European Union - 27 countries (from 2020),2018,W073_076,910000.0,textile + rubber,EU27_2020
+T,European Union - 27 countries (from 2020),2020,W073_076,990000.0,textile + rubber,EU27_2020
+T,European Union - 27 countries (from 2020),2022,W073_076,1190000.0,textile + rubber,EU27_2020
+T,European Union - 28 countries (2013-2020),2004,W073_076,870000.0,textile + rubber,
+T,European Union - 28 countries (2013-2020),2006,W073_076,950000.0,textile + rubber,
+T,European Union - 28 countries (2013-2020),2008,W073_076,750000.0,textile + rubber,
+T,European Union - 28 countries (2013-2020),2010,W073_076,750000.0,textile + rubber,
+T,European Union - 28 countries (2013-2020),2012,W073_076,870000.0,textile + rubber,
+T,European Union - 28 countries (2013-2020),2014,W073_076,940000.0,textile + rubber,
+T,European Union - 28 countries (2013-2020),2016,W073_076,1070000.0,textile + rubber,
+T,European Union - 28 countries (2013-2020),2018,W073_076,1080000.0,textile + rubber,
+T,Finland,2004,W073_076,0.0,textile + rubber,FIN
+T,Finland,2006,W073_076,6.0,textile + rubber,FIN
+T,Finland,2008,W073_076,0.0,textile + rubber,FIN
+T,Finland,2010,W073_076,0.0,textile + rubber,FIN
+T,Finland,2012,W073_076,0.0,textile + rubber,FIN
+T,Finland,2014,W073_076,0.0,textile + rubber,FIN
+T,Finland,2016,W073_076,0.0,textile + rubber,FIN
+T,Finland,2018,W073_076,219.0,textile + rubber,FIN
+T,Finland,2020,W073_076,290.0,textile + rubber,FIN
+T,Finland,2022,W073_076,192.0,textile + rubber,FIN
+T,France,2004,W073_076,14000.0,textile + rubber,FRA
+T,France,2006,W073_076,12700.0,textile + rubber,FRA
+T,France,2008,W073_076,10730.0,textile + rubber,FRA
+T,France,2010,W073_076,10058.0,textile + rubber,FRA
+T,France,2012,W073_076,125468.0,textile + rubber,FRA
+T,France,2014,W073_076,144513.0,textile + rubber,FRA
+T,France,2016,W073_076,182983.0,textile + rubber,FRA
+T,France,2018,W073_076,164590.0,textile + rubber,FRA
+T,France,2020,W073_076,225064.0,textile + rubber,FRA
+T,France,2022,W073_076,276509.0,textile + rubber,FRA
+T,Croatia,2004,W073_076,0.0,textile + rubber,HRV
+T,Croatia,2006,W073_076,0.0,textile + rubber,HRV
+T,Croatia,2008,W073_076,0.0,textile + rubber,HRV
+T,Croatia,2010,W073_076,0.0,textile + rubber,HRV
+T,Croatia,2012,W073_076,22.0,textile + rubber,HRV
+T,Croatia,2014,W073_076,191.0,textile + rubber,HRV
+T,Croatia,2016,W073_076,1595.0,textile + rubber,HRV
+T,Croatia,2018,W073_076,3534.0,textile + rubber,HRV
+T,Croatia,2020,W073_076,4818.0,textile + rubber,HRV
+T,Croatia,2022,W073_076,5475.0,textile + rubber,HRV
+T,Hungary,2004,W073_076,3550.0,textile + rubber,HUN
+T,Hungary,2006,W073_076,1931.0,textile + rubber,HUN
+T,Hungary,2008,W073_076,22526.0,textile + rubber,HUN
+T,Hungary,2010,W073_076,16184.0,textile + rubber,HUN
+T,Hungary,2012,W073_076,2513.0,textile + rubber,HUN
+T,Hungary,2014,W073_076,277.0,textile + rubber,HUN
+T,Hungary,2016,W073_076,5893.0,textile + rubber,HUN
+T,Hungary,2018,W073_076,4930.0,textile + rubber,HUN
+T,Hungary,2020,W073_076,8271.0,textile + rubber,HUN
+T,Hungary,2022,W073_076,29003.0,textile + rubber,HUN
+T,Ireland,2004,W073_076,137830.0,textile + rubber,IRL
+T,Ireland,2006,W073_076,161078.0,textile + rubber,IRL
+T,Ireland,2010,W073_076,114.0,textile + rubber,IRL
+T,Ireland,2012,W073_076,241.0,textile + rubber,IRL
+T,Ireland,2014,W073_076,516.0,textile + rubber,IRL
+T,Ireland,2016,W073_076,739.0,textile + rubber,IRL
+T,Ireland,2018,W073_076,766.0,textile + rubber,IRL
+T,Ireland,2020,W073_076,1620.0,textile + rubber,IRL
+T,Ireland,2022,W073_076,1182.0,textile + rubber,IRL
+T,Iceland,2004,W073_076,900.0,textile + rubber,ISL
+T,Iceland,2010,W073_076,3899.0,textile + rubber,ISL
+T,Iceland,2012,W073_076,3350.0,textile + rubber,ISL
+T,Iceland,2014,W073_076,4800.0,textile + rubber,ISL
+T,Iceland,2016,W073_076,5990.0,textile + rubber,ISL
+T,Iceland,2018,W073_076,9330.0,textile + rubber,ISL
+T,Iceland,2020,W073_076,5265.0,textile + rubber,ISL
+T,Iceland,2022,W073_076,2732.0,textile + rubber,ISL
+T,Italy,2004,W073_076,56501.0,textile + rubber,ITA
+T,Italy,2006,W073_076,70448.0,textile + rubber,ITA
+T,Italy,2008,W073_076,80338.0,textile + rubber,ITA
+T,Italy,2010,W073_076,111597.0,textile + rubber,ITA
+T,Italy,2012,W073_076,117605.0,textile + rubber,ITA
+T,Italy,2014,W073_076,139161.0,textile + rubber,ITA
+T,Italy,2016,W073_076,154204.0,textile + rubber,ITA
+T,Italy,2018,W073_076,163120.0,textile + rubber,ITA
+T,Italy,2020,W073_076,160081.0,textile + rubber,ITA
+T,Italy,2022,W073_076,176494.0,textile + rubber,ITA
+T,Liechtenstein,2008,W073_076,0.0,textile + rubber,
+T,Liechtenstein,2010,W073_076,0.0,textile + rubber,
+T,Liechtenstein,2012,W073_076,0.0,textile + rubber,
+T,Liechtenstein,2014,W073_076,0.0,textile + rubber,
+T,Liechtenstein,2016,W073_076,0.0,textile + rubber,
+T,Liechtenstein,2018,W073_076,0.0,textile + rubber,
+T,Liechtenstein,2020,W073_076,0.0,textile + rubber,
+T,Liechtenstein,2022,W073_076,0.0,textile + rubber,
+T,Lithuania,2004,W073_076,4.0,textile + rubber,LTU
+T,Lithuania,2006,W073_076,10224.0,textile + rubber,LTU
+T,Lithuania,2008,W073_076,2132.0,textile + rubber,LTU
+T,Lithuania,2010,W073_076,3242.0,textile + rubber,LTU
+T,Lithuania,2012,W073_076,9610.0,textile + rubber,LTU
+T,Lithuania,2014,W073_076,7790.0,textile + rubber,LTU
+T,Lithuania,2016,W073_076,8935.0,textile + rubber,LTU
+T,Lithuania,2018,W073_076,10609.0,textile + rubber,LTU
+T,Lithuania,2020,W073_076,13391.0,textile + rubber,LTU
+T,Lithuania,2022,W073_076,17750.0,textile + rubber,LTU
+T,Luxembourg,2004,W073_076,2510.0,textile + rubber,LUX
+T,Luxembourg,2006,W073_076,3223.0,textile + rubber,LUX
+T,Luxembourg,2008,W073_076,3194.0,textile + rubber,LUX
+T,Luxembourg,2010,W073_076,3862.0,textile + rubber,LUX
+T,Luxembourg,2012,W073_076,3796.0,textile + rubber,LUX
+T,Luxembourg,2014,W073_076,5932.0,textile + rubber,LUX
+T,Luxembourg,2016,W073_076,4700.0,textile + rubber,LUX
+T,Luxembourg,2018,W073_076,5487.0,textile + rubber,LUX
+T,Luxembourg,2020,W073_076,5495.0,textile + rubber,LUX
+T,Luxembourg,2022,W073_076,2743.0,textile + rubber,LUX
+T,Latvia,2004,W073_076,0.0,textile + rubber,LVA
+T,Latvia,2006,W073_076,1354.0,textile + rubber,LVA
+T,Latvia,2008,W073_076,0.0,textile + rubber,LVA
+T,Latvia,2010,W073_076,4290.0,textile + rubber,LVA
+T,Latvia,2012,W073_076,7105.0,textile + rubber,LVA
+T,Latvia,2014,W073_076,10385.0,textile + rubber,LVA
+T,Latvia,2016,W073_076,10850.0,textile + rubber,LVA
+T,Latvia,2018,W073_076,12784.0,textile + rubber,LVA
+T,Latvia,2020,W073_076,18705.0,textile + rubber,LVA
+T,Latvia,2022,W073_076,13891.0,textile + rubber,LVA
+T,Montenegro,2012,W073_076,573.0,textile + rubber,
+T,Montenegro,2014,W073_076,720.0,textile + rubber,
+T,Montenegro,2016,W073_076,452.0,textile + rubber,
+T,Montenegro,2018,W073_076,405.0,textile + rubber,
+T,Montenegro,2020,W073_076,51.0,textile + rubber,
+T,Montenegro,2022,W073_076,384.0,textile + rubber,
+T,North Macedonia,2008,W073_076,0.0,textile + rubber,
+T,North Macedonia,2010,W073_076,0.0,textile + rubber,
+T,North Macedonia,2012,W073_076,0.0,textile + rubber,
+T,North Macedonia,2014,W073_076,0.0,textile + rubber,
+T,North Macedonia,2016,W073_076,0.0,textile + rubber,
+T,North Macedonia,2018,W073_076,0.0,textile + rubber,
+T,North Macedonia,2020,W073_076,0.0,textile + rubber,
+T,North Macedonia,2022,W073_076,0.0,textile + rubber,
+T,Malta,2004,W073_076,988.0,textile + rubber,MLT
+T,Malta,2006,W073_076,1146.0,textile + rubber,MLT
+T,Malta,2008,W073_076,1653.0,textile + rubber,MLT
+T,Malta,2010,W073_076,1510.0,textile + rubber,MLT
+T,Malta,2012,W073_076,1527.0,textile + rubber,MLT
+T,Malta,2014,W073_076,1987.0,textile + rubber,MLT
+T,Malta,2016,W073_076,2349.0,textile + rubber,MLT
+T,Malta,2018,W073_076,3202.0,textile + rubber,MLT
+T,Malta,2020,W073_076,3796.0,textile + rubber,MLT
+T,Malta,2022,W073_076,3641.0,textile + rubber,MLT
+T,Netherlands,2004,W073_076,177406.0,textile + rubber,NLD
+T,Netherlands,2006,W073_076,149547.0,textile + rubber,NLD
+T,Netherlands,2008,W073_076,147250.0,textile + rubber,NLD
+T,Netherlands,2010,W073_076,114039.0,textile + rubber,NLD
+T,Netherlands,2016,W073_076,140574.0,textile + rubber,NLD
+T,Netherlands,2018,W073_076,130855.0,textile + rubber,NLD
+T,Netherlands,2020,W073_076,134768.0,textile + rubber,NLD
+T,Netherlands,2022,W073_076,155663.0,textile + rubber,NLD
+T,Norway,2004,W073_076,38538.0,textile + rubber,NOR
+T,Norway,2006,W073_076,42193.0,textile + rubber,NOR
+T,Norway,2008,W073_076,50479.0,textile + rubber,NOR
+T,Norway,2010,W073_076,59176.0,textile + rubber,NOR
+T,Norway,2012,W073_076,1772.0,textile + rubber,NOR
+T,Norway,2014,W073_076,134.0,textile + rubber,NOR
+T,Norway,2016,W073_076,499.0,textile + rubber,NOR
+T,Norway,2018,W073_076,249.0,textile + rubber,NOR
+T,Norway,2020,W073_076,4330.0,textile + rubber,NOR
+T,Norway,2022,W073_076,4020.0,textile + rubber,NOR
+T,Poland,2004,W073_076,12955.0,textile + rubber,POL
+T,Poland,2006,W073_076,23655.0,textile + rubber,POL
+T,Poland,2008,W073_076,36623.0,textile + rubber,POL
+T,Poland,2010,W073_076,35256.0,textile + rubber,POL
+T,Poland,2012,W073_076,37237.0,textile + rubber,POL
+T,Poland,2014,W073_076,31447.0,textile + rubber,POL
+T,Poland,2016,W073_076,1442.0,textile + rubber,POL
+T,Poland,2018,W073_076,2241.0,textile + rubber,POL
+T,Poland,2020,W073_076,21653.0,textile + rubber,POL
+T,Poland,2022,W073_076,59917.0,textile + rubber,POL
+T,Portugal,2004,W073_076,0.0,textile + rubber,PRT
+T,Portugal,2006,W073_076,0.0,textile + rubber,PRT
+T,Portugal,2008,W073_076,1409.0,textile + rubber,PRT
+T,Portugal,2010,W073_076,0.0,textile + rubber,PRT
+T,Portugal,2012,W073_076,0.0,textile + rubber,PRT
+T,Portugal,2014,W073_076,0.0,textile + rubber,PRT
+T,Portugal,2016,W073_076,0.0,textile + rubber,PRT
+T,Portugal,2018,W073_076,0.0,textile + rubber,PRT
+T,Portugal,2020,W073_076,0.0,textile + rubber,PRT
+T,Portugal,2022,W073_076,373.0,textile + rubber,PRT
+T,Romania,2004,W073_076,160081.0,textile + rubber,ROU
+T,Romania,2006,W073_076,159339.0,textile + rubber,ROU
+T,Romania,2008,W073_076,0.0,textile + rubber,ROU
+T,Romania,2010,W073_076,83.0,textile + rubber,ROU
+T,Romania,2012,W073_076,491.0,textile + rubber,ROU
+T,Romania,2014,W073_076,156.0,textile + rubber,ROU
+T,Romania,2016,W073_076,142.0,textile + rubber,ROU
+T,Romania,2018,W073_076,204.0,textile + rubber,ROU
+T,Romania,2020,W073_076,801.0,textile + rubber,ROU
+T,Romania,2022,W073_076,2670.0,textile + rubber,ROU
+T,Serbia,2010,W073_076,0.0,textile + rubber,
+T,Serbia,2014,W073_076,547.0,textile + rubber,
+T,Serbia,2016,W073_076,1676.0,textile + rubber,
+T,Serbia,2018,W073_076,491.0,textile + rubber,
+T,Serbia,2020,W073_076,0.0,textile + rubber,
+T,Serbia,2022,W073_076,0.0,textile + rubber,
+T,Sweden,2004,W073_076,27617.0,textile + rubber,SWE
+T,Sweden,2006,W073_076,31433.0,textile + rubber,SWE
+T,Sweden,2008,W073_076,32387.0,textile + rubber,SWE
+T,Sweden,2010,W073_076,31845.0,textile + rubber,SWE
+T,Sweden,2012,W073_076,32480.0,textile + rubber,SWE
+T,Sweden,2014,W073_076,33373.0,textile + rubber,SWE
+T,Sweden,2016,W073_076,35561.0,textile + rubber,SWE
+T,Sweden,2018,W073_076,37643.0,textile + rubber,SWE
+T,Sweden,2020,W073_076,39122.0,textile + rubber,SWE
+T,Sweden,2022,W073_076,40977.0,textile + rubber,SWE
+T,Slovenia,2004,W073_076,702.0,textile + rubber,SVN
+T,Slovenia,2006,W073_076,2337.0,textile + rubber,SVN
+T,Slovenia,2008,W073_076,608.0,textile + rubber,SVN
+T,Slovenia,2010,W073_076,2848.0,textile + rubber,SVN
+T,Slovenia,2012,W073_076,960.0,textile + rubber,SVN
+T,Slovenia,2014,W073_076,1206.0,textile + rubber,SVN
+T,Slovenia,2016,W073_076,3996.0,textile + rubber,SVN
+T,Slovenia,2018,W073_076,1579.0,textile + rubber,SVN
+T,Slovenia,2020,W073_076,1633.0,textile + rubber,SVN
+T,Slovenia,2022,W073_076,2063.0,textile + rubber,SVN
+T,Slovakia,2004,W073_076,0.0,textile + rubber,SVK
+T,Slovakia,2006,W073_076,675.0,textile + rubber,SVK
+T,Slovakia,2008,W073_076,573.0,textile + rubber,SVK
+T,Slovakia,2010,W073_076,265.0,textile + rubber,SVK
+T,Slovakia,2012,W073_076,2798.0,textile + rubber,SVK
+T,Slovakia,2014,W073_076,6636.0,textile + rubber,SVK
+T,Slovakia,2016,W073_076,4507.0,textile + rubber,SVK
+T,Slovakia,2018,W073_076,3416.0,textile + rubber,SVK
+T,Slovakia,2020,W073_076,4655.0,textile + rubber,SVK
+T,Slovakia,2022,W073_076,8393.0,textile + rubber,SVK
+T,Türkiye,2004,W073_076,0.0,textile + rubber,
+T,Türkiye,2006,W073_076,0.0,textile + rubber,
+T,Türkiye,2008,W073_076,448341.0,textile + rubber,
+T,Türkiye,2010,W073_076,4154.0,textile + rubber,
+T,Türkiye,2012,W073_076,18335.0,textile + rubber,
+T,Türkiye,2014,W073_076,8462.0,textile + rubber,
+T,Türkiye,2018,W073_076,0.0,textile + rubber,
+T,Türkiye,2020,W073_076,0.0,textile + rubber,
+T,Türkiye,2022,W073_076,0.0,textile + rubber,
+T,United Kingdom,2004,W073_076,82518.0,textile + rubber,GBR
+T,United Kingdom,2006,W073_076,103616.0,textile + rubber,GBR
+T,United Kingdom,2008,W073_076,166064.0,textile + rubber,GBR
+T,United Kingdom,2010,W073_076,157922.0,textile + rubber,GBR
+T,United Kingdom,2012,W073_076,128580.0,textile + rubber,GBR
+T,United Kingdom,2014,W073_076,149927.0,textile + rubber,GBR
+T,United Kingdom,2016,W073_076,158075.0,textile + rubber,GBR
+T,United Kingdom,2018,W073_076,152534.0,textile + rubber,GBR
+T,Kosovo*,2012,W073_076,0.0,textile + rubber,
+T,Kosovo*,2014,W073_076,0.0,textile + rubber,
+T,Kosovo*,2016,W073_076,0.0,textile + rubber,
+T,Kosovo*,2018,W073_076,0.0,textile + rubber,
+T,Kosovo*,2020,W073_076,0.0,textile + rubber,
+T,Kosovo*,2022,W073_076,0.0,textile + rubber,
